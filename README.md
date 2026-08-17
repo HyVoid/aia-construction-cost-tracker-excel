@@ -14,9 +14,7 @@
 
 > ## **No signup. No installation. Free.**
 >
-> 🌐 **Open in Browser**
->
-> *(HTML Live Demo)*
+> 🌐 **Open in Browser** → [HTML Live Demo](https://hyvoid.github.io/AIA-Construction-Estimating-Cost-Tracking-Workbook/)
 >
 > 📥 **Download Excel Workbook**
 >
