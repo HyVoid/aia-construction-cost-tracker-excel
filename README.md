@@ -22,24 +22,6 @@
 
 ---
 
-# Screenshots
-
-### Browser Version
-
-<!-- screenshot: browser version -->
-
-*Interactive construction estimating dashboard showing project setup, cost breakdown, tender summary, and variance analysis without requiring Excel.*
-
----
-
-### Excel Version
-
-<!-- screenshot: excel version -->
-
-*Native Excel workbook for estimating, cost calculation, Assembly reuse, AIA reporting, and SmartSheet-compatible export.*
-
----
-
 # What It Helps You Track
 
 - Complete construction estimate broken down into Labor, Materials, Equipment, Subcontract, Overhead, and Markup.
