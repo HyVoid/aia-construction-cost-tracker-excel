@@ -15,7 +15,7 @@ Try the browser-based construction estimation app for free. If you need the nati
 
 > 🌐 **Live Demo:** [Test the Free Construction Estimating Browser App](https://hyvoid.github.io/AIA-Construction-Estimating-Cost-Tracking-Workbook/)
 >
-> 📥 **Download Resource:** [Download the Full Excel Construction Estimating & Tracking Template](#) *(Excel Version)*
+> 📥 **Download Resource:** [Download the Full Excel Construction Estimating & Tracking Template](#) *(Excel Version coming soon)*
 
 ---
 
