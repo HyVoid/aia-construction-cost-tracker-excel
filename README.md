@@ -603,25 +603,26 @@ Keeping the workbook focused makes it easier to maintain, easier to audit, and e
 
 ---
 
-## Roadmap
+## The Business Logic & Methodology
 
-Future releases may include:
+At its core, construction estimating is not a math problem—it is a risk management and capital allocation challenge. This workbook shifts the estimating process from *flat data entry* to *activity-based cost modeling*. 
 
-- Multiple AIA reporting layouts.
-- CSI MasterFormat expansion libraries.
-- Regional labor rate libraries.
-- Material price update templates.
-- Procurement package summaries.
-- Earned Value Management (EVM) reporting.
-- Resource loading analysis.
-- Cash flow forecasting.
-- Power BI integration templates.
-- Optional Procore data mapping.
-- Enhanced SmartSheet synchronization.
+Here is the commercial logic and methodology driving the architecture of this tool:
 
-The core philosophy will remain unchanged:
+### 1. The Business Problem: Margin Erosion from Flat Pricing
+*   **The Operational Flaw:** Traditional spreadsheets lump labor, materials, and equipment into a single static unit price (e.g., $150/CY for concrete). When supply chain costs fluctuate or field productivity drops, the exact impact on profit margins remains invisible until it is too late to course-correct.
+*   **The Methodology (Parametric Cost Segregation):** The workbook mathematically separates every line item into its base economic drivers (Labor Rates, Material Costs, Equipment Rentals). By decoupling the *quantity* of work from the *cost components* of the work, estimators can instantly run what-if scenarios (e.g., "What happens to our gross margin if regional rebar prices increase by 12%?").
 
-**Keep estimating simple. Keep calculations transparent. Keep every cost traceable.**
+### 2. The Business Problem: The "Re-invention" Tax
+*   **The Operational Flaw:** Estimators often spend 80% of their time recreating formulas, copying old bids, and fixing broken links, leaving only 20% for strategic bid leveling and value engineering.
+*   **The Methodology (Standardized Assembly Architecture):** We implemented a relational database structure within a spreadsheet environment. The **Cost Library** acts as a single source of truth for pricing, while the **Assembly Library** groups these costs into reusable work packages. You build the logic once and deploy it infinitely. This transforms estimating from a labor-intensive manual service into a highly scalable, repeatable process.
+
+### 3. The Business Problem: The Estimating-to-Field Handoff Gap
+*   **The Operational Flaw:** The bid is won, but the project manager cannot use the estimator's spreadsheet because the data is formatted exclusively for the client's proposal (AIA format), not for field execution. Construction budgets are consequently rebuilt from scratch, causing critical data loss and delaying cost controls.
+*   **The Methodology (Unified Cost Breakdown Structure - CBS):** The workbook employs a dual-reporting engine. The calculation layer captures raw operational metrics (man-hours, material yields), while the presentation layer automatically maps these metrics to client-friendly AIA divisions. When the contract is awarded, this exact same data structure seamlessly transitions into the Work-in-Progress (WIP) baseline for immediate variance tracking.
+
+**The Ultimate Business Outcome:** 
+You stop guessing where your projects make or lose money. By standardizing your data structure, your historical bids transform into a proprietary corporate data asset—empowering your team to bid faster, price smarter, and protect profit margins before the contract is ever signed.
 
 ---
 
