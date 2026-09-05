@@ -13,7 +13,7 @@ Looking for a reliable **AIA construction estimating template**? This free **con
 
 Try the browser-based construction estimation app for free. If you need the native spreadsheet environment for advanced data modeling, you can purchase the Excel version with a 30-day, no-questions-asked money-back guarantee.
 
-> 🌐 **Live Demo:** [Test the Free Construction Estimating Browser App](https://hyvoid.github.io/aia-construction-cost-tracker-excel/)
+> 🌐 **browser app:** [Test the Free Construction Estimating Browser App](https://hyvoid.github.io/aia-construction-cost-tracker-excel/)
 >
 > 📥 **Download Resource:** [Download the Full Excel Construction Estimating & Tracking Template](https://theseusworkshop.com/l/odfkie)
 
