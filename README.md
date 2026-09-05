@@ -15,7 +15,7 @@ Try the browser-based construction estimation app for free. If you need the nati
 
 > 🌐 **Live Demo:** [Test the Free Construction Estimating Browser App](https://hyvoid.github.io/aia-construction-cost-tracker-excel/)
 >
-> 📥 **Download Resource:** [Download the Full Excel Construction Estimating & Tracking Template](#) *(Excel Version coming soon)*
+> 📥 **Download Resource:** [Download the Full Excel Construction Estimating & Tracking Template](https://theseusworkshop.com/l/odfkie)
 
 ---
 
@@ -53,7 +53,7 @@ Switch to the **Calculation Engine** and **Summary Dashboard**. *Action:* Watch 
 
 ### Step 4: Maintain, Reuse, and Export (CTA)
 As supplier unit costs change, simply refresh the **Cost Library**. Historical assemblies remain intact for future bids.
-> **Ready to scale your bidding process?** Once you have tested the browser version for a single project estimate, [Download the Reusable Excel Estimating Workbook](#) to lock in your standardized templates, save your proprietary Cost Library, and utilize the tool repeatedly for all future construction tenders.
+> **Ready to scale your bidding process?** Once you have tested the browser version for a single project estimate, [Download the Reusable Excel Estimating Workbook](https://theseusworkshop.com/l/odfkie) to lock in your standardized templates, save your proprietary Cost Library, and utilize the tool repeatedly for all future construction tenders.
 
 ---
 
