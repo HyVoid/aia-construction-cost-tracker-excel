@@ -7,7 +7,7 @@
 
 > **Standardize construction estimating, accelerate commercial tender preparation, and build reusable cost breakdown structures (CBS)—directly in Excel or your browser.**
 
-Looking for a reliable **AIA construction estimating template**? This free **construction cost tracking Excel workbook** is designed to help general contractors, estimators, and project managers eliminate calculation errors and automate bidding workflows. Instead of starting from scratch, you can accurately forecast project costs, manage subcontractor pricing, and track construction budget variances without deploying complex, expensive ERP enterprise software.
+Looking for a reliable **AIA construction estimating template**? This free **construction cost tracking workbook** is designed to help general contractors, estimators, and project managers eliminate calculation errors and automate bidding workflows. Instead of starting from scratch, you can accurately forecast project costs, manage subcontractor pricing, and track construction budget variances without deploying complex, expensive ERP enterprise software.
 
 **No signup. No installation. Free in your browser.**
 
