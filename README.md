@@ -16,6 +16,13 @@ Try the browser-based construction estimation app for free. If you need the nati
 > 🌐 **browser app:** [Test the Free Construction Estimating Browser App](https://hyvoid.github.io/aia-construction-cost-tracker-excel/)
 >
 > 📥 **Download Resource:** [Download the Full Excel Construction Estimating & Tracking Template](https://theseusworkshop.com/l/odfkie?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=aia-construction-cost-tracker)
+## Want to try it?
+
+This project is included in the Construction Toolkit.
+
+Try this and other lightweight construction tools free for 30 days — including tools for estimating, bidding, job costing, and day-to-day operations.
+
+→ [Try the Construction Toolkit](https://theseusworkshop.com/l/fqtoi/BIDSEASON?utm_source=github&utm_medium=GitHub%20portfolio)
 
 ---
 
