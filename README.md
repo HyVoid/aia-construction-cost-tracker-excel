@@ -1,4 +1,4 @@
-[ 🌐 عربي ](README.ar.md) | [ 🇬🇧 English ](README.md)
+[ 🌐 عربي ](README.ar.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # AIA Construction Estimating & Cost Tracking Excel Workbook | Construction Bidding Template
 
