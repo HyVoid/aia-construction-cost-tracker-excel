@@ -1,4 +1,4 @@
-[ 🌐 عربي ](README.ar.md) | [ 🇬🇧 English ](README.md)
+[ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # مصنّف Excel لتقدير تكاليف البناء ومتابعتها وفق معايير AIA | قالب عروض مناقصات البناء
 
