@@ -18,14 +18,6 @@ Pruebe gratis la aplicación de estimación de construcción basada en navegador
 >
 > 📥 **Recurso descargable:** [Descargue la Plantilla Completa de Estimación y Seguimiento de Construcción en Excel](https://theseusworkshop.com/l/odfkie?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=aia-construction-cost-tracker)
 
-## ¿Quieres probarlo?
-
-Este proyecto está incluido en el Construction Toolkit.
-
-Prueba esta y otras herramientas ligeras de construcción gratis durante 30 días — incluyendo herramientas para estimación, licitaciones, costos de obra y operaciones diarias.
-
-→ [Prueba el Construction Toolkit](https://theseusworkshop.com/l/fqtoi/BIDSEASON?utm_source=github&utm_medium=GitHub%20portfolio)
-
 ---
 
 ## Lo Que Le Ayuda a Seguir: Mapeo de Puntos de Dolor a Soluciones
