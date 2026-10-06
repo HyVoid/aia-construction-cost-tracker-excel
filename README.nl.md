@@ -18,14 +18,6 @@ Probeer de browsergebaseerde applicatie voor bouwcalculatie gratis. Als u de nat
 >
 > 📥 **Download Resource:** [Download the Full Excel Construction Estimating & Tracking Template](https://theseusworkshop.com/l/odfkie?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=aia-construction-cost-tracker)
 
-## Want to try it?
-
-Dit project maakt deel uit van de Construction Toolkit.
-
-Probeer deze en andere lichtgewicht bouwtools 30 dagen gratis — inclusief tools voor calculeren, inschrijven, jobkostenberekening en dagelijkse operaties.
-
-→ [Try the Construction Toolkit](https://theseusworkshop.com/l/fqtoi/BIDSEASON?utm_source=github&utm_medium=GitHub%20portfolio)
-
 ---
 
 ## What It Helps You Track: Pain Point to Solution Mapping
