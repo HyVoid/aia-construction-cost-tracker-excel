@@ -18,14 +18,6 @@
 >
 > 📥 **مورد للتحميل:** [حمّل قالب Excel الكامل لتقدير تكاليف البناء ومتابعتها](https://theseusworkshop.com/l/odfkie?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=aia-construction-cost-tracker)
 
-## هل تريد التجربة؟
-
-هذا المشروع مضمّن في حزمة Construction Toolkit.
-
-جرّب هذه الأداة وأدوات البناء الخفيفة الأخرى مجانًا لمدة 30 يومًا — بما في ذلك أدوات التقدير وعروض الأسعار وتكاليف الأعمال والعمليات اليومية.
-
-→ [جرّب Construction Toolkit](https://theseusworkshop.com/l/fqtoi/BIDSEASON?utm_source=github&utm_medium=GitHub%20portfolio)
-
 ---
 
 ## ما يساعدك على تتبعه: من نقطة الألم إلى الحل
