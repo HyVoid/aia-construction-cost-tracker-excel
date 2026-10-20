@@ -1,6 +1,7 @@
-[ 🌐 عربي ](README.ar.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
+[ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # Libro de Excel de Estimación y Seguimiento de Costos de Construcción AIA | Plantilla de Licitación de Construcción
+<img width="1480" height="826" alt="image" src="https://github.com/user-attachments/assets/4e138b9f-9b00-4dd4-8691-64e0fd76eae9" />
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-success)
@@ -9,6 +10,8 @@
 > **Estandarizar la estimación de construcción, acelerar la preparación de licitaciones comerciales y crear estructuras de desglose de costos (CBS) reutilizables—directamente en Excel o en su navegador.**
 
 ¿Busca una **plantilla de estimación de construcción AIA** confiable? Este **libro de Excel de seguimiento de costos de construcción** gratuito está diseñado para ayudar a contratistas generales, estimadores y gerentes de proyecto a eliminar errores de cálculo y automatizar los flujos de trabajo de licitación. En lugar de empezar desde cero, puede pronosticar los costos del proyecto con precisión, gestionar los precios de subcontratistas y dar seguimiento a las variaciones del presupuesto de construcción sin implementar software ERP empresarial complejo y costoso.
+
+<img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/b10f2cd2-94a9-44c5-8305-6ed197b23596" />
 
 **Sin registro. Sin instalación. Gratuito en su navegador.**
 
@@ -119,7 +122,7 @@ Nuestros usuarios implementan con éxito este libro de Excel en diversos oficios
 
 ---
 
-# Acerca de
+## Acerca de
 
 Construyo libros de Excel operativos y ligeros para situaciones donde simplemente hay demasiadas variables en movimiento para tenerlas presentes todas a la vez.
 
@@ -129,7 +132,7 @@ El **AIA Construction Estimating & Cost Tracking Workbook** es un ejemplo de est
 
 ---
 
-# Detalles Técnicos
+## Detalles Técnicos
 
 <details>
 
@@ -606,24 +609,51 @@ Mantener el libro de Excel enfocado lo hace más fácil de mantener, más fácil
 
 ## La Lógica Comercial y la Metodología
 
-En esencia, la estimación de construcción no es un problema de matemáticas: es un desafío de gestión de riesgos y de asignación de capital. Este libro de Excel traslada el proceso de estimación de la *captura de datos plana* al *modelado de costos basado en actividades*.
+La estimación de costos de construcción no es solo calcular un total de oferta. Se trata de construir una estimación de costos defendible, entender de dónde provienen los costos del proyecto y preservar esa estructura de costos durante toda la ejecución del proyecto.
 
-Esta es la lógica comercial y la metodología que impulsan la arquitectura de esta herramienta:
+El **Libro de Excel de Estimación y Seguimiento de Costos de Construcción AIA** aplica métodos establecidos de estimación de construcción y control de costos para convertir las cantidades del proyecto, los costos unitarios estandarizados y los ensamblajes de construcción reutilizables en un flujo de trabajo de estimación estructurado. El objetivo es reducir el trabajo de estimación repetitivo, mejorar la visibilidad de los costos del proyecto antes de presentar la oferta, y establecer una línea base consistente para el seguimiento posterior de costos del proyecto.
 
-### 1. El Problema Comercial: Erosión del Margen por Precios Planos
-*   **La Falla Operativa:** Las hojas de cálculo tradicionales agrupan mano de obra, materiales y equipo en un único precio unitario estático (p. ej., $150/CY para concreto). Cuando los costos de la cadena de suministro fluctúan o la productividad en obra cae, el impacto exacto sobre los márgenes de ganancia permanece invisible hasta que ya es demasiado tarde para corregir el rumbo.
-*   **La Metodología (Segregación Paramétrica de Costos):** El libro de Excel separa matemáticamente cada partida en sus impulsores económicos base (Tarifas de Mano de Obra, Costos de Materiales, Alquileres de Equipo). Al desacoplar la *cantidad* de trabajo de los *componentes de costo* del trabajo, los estimadores pueden ejecutar al instante escenarios hipotéticos (p. ej., "¿Qué sucede con nuestro margen bruto si los precios regionales del acero de refuerzo aumentan un 12%?").
+### 1. Desglose y Clasificación de Costos de Construcción
 
-### 2. El Problema Comercial: El Impuesto de la "Reinvención"
-*   **La Falla Operativa:** Los estimadores a menudo dedican el 80% de su tiempo a recrear fórmulas, copiar ofertas antiguas y reparar enlaces rotos, dejando solo el 20% para la nivelación estratégica de ofertas y la ingeniería de valor.
-*   **La Metodología (Arquitectura de Assembly Estandarizada):** Implementamos una estructura de base de datos relacional dentro de un entorno de hoja de cálculo. La **Cost Library** actúa como una única fuente de verdad para los precios, mientras que la **Assembly Library** agrupa estos costos en paquetes de trabajo reutilizables. Usted construye la lógica una vez y la despliega infinitamente. Esto transforma la estimación de un servicio manual intensivo en mano de obra a un proceso altamente escalable y repetible.
+**Método:** Separar los costos estimados en mano de obra, materiales, equipos, subcontratistas, gastos generales y margen de beneficio.
 
-### 3. El Problema Comercial: La Brecha de Transferencia entre la Estimación y la Obra
-*   **La Falla Operativa:** La oferta se gana, pero el gerente de proyecto no puede usar la hoja de cálculo del estimador porque los datos están formateados exclusivamente para la propuesta del cliente (formato AIA), no para la ejecución en obra. En consecuencia, los presupuestos de construcción se reconstruyen desde cero, lo que provoca una pérdida crítica de datos y retrasa los controles de costos.
-*   **La Metodología (Estructura de Desglose de Costos Unificada - CBS):** El libro de Excel emplea un motor de doble informe. La capa de cálculo captura métricas operativas en bruto (horas-hombre, rendimientos de materiales), mientras que la capa de presentación mapea automáticamente estas métricas a divisiones AIA comprensibles para el cliente. Cuando se adjudica el contrato, esta misma estructura de datos transiciona sin fricciones a la línea base de Trabajo en Proceso (WIP) para un seguimiento inmediato de las variaciones.
+**Problema comercial resuelto:** Un único total de oferta puede ocultar supuestos de costos desbalanceados, tarifas desactualizadas o exposición inesperada a costos laborales. Sin una clasificación de costos consistente, comparar estimaciones entre proyectos se vuelve difícil.
 
-**El Resultado Comercial Definitivo:** 
-Deja de adivinar dónde sus proyectos generan o pierden dinero. Al estandarizar su estructura de datos, sus ofertas históricas se transforman en un activo de datos corporativo propietario, que permite a su equipo ofertar más rápido, fijar precios con mayor inteligencia y proteger los márgenes de ganancia antes incluso de que se firme el contrato.
+**Decisión habilitada:** Revisar la composición de los costos de construcción, identificar las categorías que requieren investigación adicional, y tomar decisiones de precios más informadas antes de presentar la oferta.
+
+### 2. Bibliotecas de Costos Estandarizadas y Estimación Basada en Ensamblajes
+
+**Método:** Mantener registros de costos unitarios reutilizables y ensamblajes de construcción que combinan elementos de costo con factores de cantidad.
+
+**Problema comercial resuelto:** Reconstruir estimaciones a partir de hojas de cálculo anteriores genera trabajo duplicado, códigos de costo inconsistentes y supuestos ocultos. La estimación basada en ensamblajes hace que los paquetes de trabajo recurrentes sean más fáciles de reproducir y revisar.
+
+**Decisión habilitada:** Construir nuevas estimaciones más rápido, reutilizar estructuras de estimación probadas, y actualizar los supuestos de costos sistemáticamente cuando cambien las tarifas laborales, los precios de materiales o los métodos de construcción.
+
+### 3. Estimación Basada en Cantidades y Planificación de Costos de Ofertas
+
+**Método:** Aplicar las cantidades del proyecto a los ensamblajes estandarizados y sus componentes de costo subyacentes, luego consolidar los resultados en una estimación estructurada.
+
+**Problema comercial resuelto:** Los cálculos manuales y las hojas de estimación desconectadas hacen más difícil identificar omisiones, rastrear costos individuales y mantener consistencia entre los cálculos detallados y la oferta final.
+
+**Decisión habilitada:** Evaluar el costo estimado de cada paquete de trabajo, revisar los costos directos y los márgenes de precios, y preparar una presentación de oferta más consistente.
+
+### 4. Línea Base de Estimación y Análisis de Variación de Costos Reales
+
+**Método:** Preservar la estimación aprobada como línea base de referencia y compararla con los costos reales registrados durante la ejecución del proyecto.
+
+**Problema comercial resuelto:** Cuando la estimación y el seguimiento de costos del proyecto usan estructuras diferentes, los contratistas pueden necesitar reconstruir presupuestos después de la adjudicación del contrato. Esto debilita la trazabilidad y retrasa la identificación de sobrecostos.
+
+**Decisión habilitada:** Identificar variaciones de costos desfavorables, investigar diferencias entre el gasto estimado y el real, y mejorar estimaciones futuras con lecciones de proyectos completados o en curso.
+
+### 5. Datos de Costos Estructurados para la Integración de Gestión de Proyectos
+
+**Método:** Organizar los resultados de la estimación en torno a campos consistentes como WBS, código de costo, descripción, presupuesto y categoría de costo, con una exportación CSV estructurada para flujos de trabajo de SmartSheet.
+
+**Problema comercial resuelto:** Los nombres de columnas inconsistentes y los registros de costos fragmentados generan preparación de datos innecesaria cuando la información de estimación necesita moverse a herramientas de gestión de proyectos.
+
+**Decisión habilitada:** Transferir información de presupuesto estructurada a flujos de trabajo compatibles con menos reestructuración manual, manteniendo una distinción clara entre la estimación basada en hojas de cálculo y los sistemas externos de gestión de proyectos.
+
+En conjunto, estos métodos conectan el **levantamiento de cantidades, la estimación de costos de construcción, la preparación de ofertas y el control de costos posterior a la adjudicación** a través de un marco analítico reutilizable. El libro respalda este flujo de trabajo sin requerir una plataforma empresarial completa de gestión de construcción, manteniendo sus cálculos y supuestos de costos disponibles para revisión.
 
 ---
 
