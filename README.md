@@ -1,6 +1,7 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # AIA Construction Estimating & Cost Tracking Excel Workbook | Construction Bidding Template
+<img width="1480" height="826" alt="image" src="https://github.com/user-attachments/assets/4e138b9f-9b00-4dd4-8691-64e0fd76eae9" />
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-success)
@@ -10,7 +11,7 @@
 
 Looking for a reliable **AIA construction estimating template**? This free **construction cost tracking workbook** is designed to help general contractors, estimators, and project managers eliminate calculation errors and automate bidding workflows. Instead of starting from scratch, you can accurately forecast project costs, manage subcontractor pricing, and track construction budget variances without deploying complex, expensive ERP enterprise software.
 
-<img width="1480" height="826" alt="image" src="https://github.com/user-attachments/assets/4e138b9f-9b00-4dd4-8691-64e0fd76eae9" />
+
 <img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/b10f2cd2-94a9-44c5-8305-6ed197b23596" />
 
 **No signup. No installation. Free in your browser.**
@@ -609,24 +610,51 @@ Keeping the workbook focused makes it easier to maintain, easier to audit, and e
 
 ## The Business Logic & Methodology
 
-At its core, construction estimating is not a math problem—it is a risk management and capital allocation challenge. This workbook shifts the estimating process from *flat data entry* to *activity-based cost modeling*. 
+Construction estimating is not just about calculating a bid total. It is about building a defensible cost estimate, understanding where project costs come from, and preserving that cost structure throughout project execution.
 
-Here is the commercial logic and methodology driving the architecture of this tool:
+The **AIA Construction Estimating & Cost Tracking Workbook** applies established construction estimating and cost control methods to turn project quantities, standardized unit costs, and reusable construction assemblies into a structured estimating workflow. The goal is to reduce repetitive estimating work, improve cost visibility before tender submission, and establish a consistent baseline for subsequent project cost tracking.
 
-### 1. The Business Problem: Margin Erosion from Flat Pricing
-*   **The Operational Flaw:** Traditional spreadsheets lump labor, materials, and equipment into a single static unit price (e.g., $150/CY for concrete). When supply chain costs fluctuate or field productivity drops, the exact impact on profit margins remains invisible until it is too late to course-correct.
-*   **The Methodology (Parametric Cost Segregation):** The workbook mathematically separates every line item into its base economic drivers (Labor Rates, Material Costs, Equipment Rentals). By decoupling the *quantity* of work from the *cost components* of the work, estimators can instantly run what-if scenarios (e.g., "What happens to our gross margin if regional rebar prices increase by 12%?").
+### 1. Construction Cost Breakdown and Cost Classification
 
-### 2. The Business Problem: The "Re-invention" Tax
-*   **The Operational Flaw:** Estimators often spend 80% of their time recreating formulas, copying old bids, and fixing broken links, leaving only 20% for strategic bid leveling and value engineering.
-*   **The Methodology (Standardized Assembly Architecture):** We implemented a relational database structure within a spreadsheet environment. The **Cost Library** acts as a single source of truth for pricing, while the **Assembly Library** groups these costs into reusable work packages. You build the logic once and deploy it infinitely. This transforms estimating from a labor-intensive manual service into a highly scalable, repeatable process.
+**Method:** Separate estimated costs into Labor, Materials, Equipment, Subcontract, Overhead, and Markup.
 
-### 3. The Business Problem: The Estimating-to-Field Handoff Gap
-*   **The Operational Flaw:** The bid is won, but the project manager cannot use the estimator's spreadsheet because the data is formatted exclusively for the client's proposal (AIA format), not for field execution. Construction budgets are consequently rebuilt from scratch, causing critical data loss and delaying cost controls.
-*   **The Methodology (Unified Cost Breakdown Structure - CBS):** The workbook employs a dual-reporting engine. The calculation layer captures raw operational metrics (man-hours, material yields), while the presentation layer automatically maps these metrics to client-friendly AIA divisions. When the contract is awarded, this exact same data structure seamlessly transitions into the Work-in-Progress (WIP) baseline for immediate variance tracking.
+**Business problem solved:** A single bid total can hide unbalanced cost assumptions, outdated rates, or unexpected labor exposure. Without consistent cost classification, comparing estimates across projects becomes difficult.
 
-**The Ultimate Business Outcome:** 
-You stop guessing where your projects make or lose money. By standardizing your data structure, your historical bids transform into a proprietary corporate data asset—empowering your team to bid faster, price smarter, and protect profit margins before the contract is ever signed.
+**Decision enabled:** Review the composition of construction costs, identify the categories that require further investigation, and make more informed pricing decisions before submitting a tender.
+
+### 2. Standardized Cost Libraries and Assembly-Based Estimating
+
+**Method:** Maintain reusable unit cost records and construction assemblies that combine cost items with quantity factors.
+
+**Business problem solved:** Rebuilding estimates from previous spreadsheets creates duplicated work, inconsistent cost codes, and hidden assumptions. Assembly-based estimating makes recurring work packages easier to reproduce and review.
+
+**Decision enabled:** Build new estimates faster, reuse proven estimating structures, and update cost assumptions systematically when labor rates, material prices, or construction methods change.
+
+### 3. Quantity-Based Estimating and Tender Cost Planning
+
+**Method:** Apply project quantities to standardized assemblies and their underlying cost components, then consolidate the results into a structured estimate.
+
+**Business problem solved:** Manual calculations and disconnected estimating sheets make it harder to identify omissions, trace individual costs, and maintain consistency between detailed calculations and the final bid.
+
+**Decision enabled:** Evaluate the estimated cost of each work package, review direct costs and pricing allowances, and prepare a more consistent tender submission.
+
+### 4. Estimate Baseline and Actual Cost Variance Analysis
+
+**Method:** Preserve the approved estimate as a reference baseline and compare it with actual costs recorded during project execution.
+
+**Business problem solved:** When estimating and project cost tracking use different structures, contractors may need to rebuild budgets after contract award. This weakens traceability and delays the identification of cost overruns.
+
+**Decision enabled:** Identify unfavorable cost variances, investigate differences between estimated and actual expenditure, and improve future estimates using lessons from completed or ongoing projects.
+
+### 5. Structured Cost Data for Project Management Integration
+
+**Method:** Organize estimating outputs around consistent fields such as WBS, cost code, description, budget, and cost category, with a structured CSV export for SmartSheet workflows.
+
+**Business problem solved:** Inconsistent column names and fragmented cost records create unnecessary data preparation when estimating information needs to move into project management tools.
+
+**Decision enabled:** Transfer structured budget information into compatible workflows with less manual restructuring, while retaining a clear distinction between spreadsheet-based estimating and external project management systems.
+
+Together, these methods connect **construction quantity takeoff, cost estimating, tender preparation, and post-award cost control** through a reusable analytical framework. The workbook supports this workflow without requiring a full enterprise construction management platform, while keeping its calculations and cost assumptions available for review.
 
 ---
 
