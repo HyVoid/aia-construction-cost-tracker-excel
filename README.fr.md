@@ -314,6 +314,7 @@ Expanded Quantity
 =EstimateQty*AssemblyFactor
 
 Assembly Cost
+
 =ExpandedQty*UnitCost
 ```
 
@@ -387,6 +388,7 @@ Variance
 =Actual-Estimate
 
 Variance %
+
 =(Actual-Estimate)/Estimate
 ```
 
