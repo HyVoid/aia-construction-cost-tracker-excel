@@ -1,6 +1,7 @@
-[ 🌐 عربي ](README.ar.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
+[ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # AIA Excel-werkmap voor bouwcalculatie & kostenbewaking | Sjabloon voor bouwinschrijvingen
+<img width="1480" height="826" alt="image" src="https://github.com/user-attachments/assets/4e138b9f-9b00-4dd4-8691-64e0fd76eae9" />
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-success)
@@ -9,6 +10,8 @@
 > **Standaardiseer bouwcalculatie, versnel de voorbereiding van commerciële inschrijvingen en bouw herbruikbare kostenstructuuroverzichten (CBS) op — direct in Excel of in uw browser.**
 
 Zoekt u een betrouwbaar **AIA-sjabloon voor bouwcalculatie**? Deze gratis **werkmap voor bouwkostenbewaking** is ontworpen om hoofdaannemers, calculators en projectmanagers te helpen rekenfouten te elimineren en inschrijvingsprocessen te automatiseren. In plaats van vanaf nul te beginnen, kunt u projectkosten nauwkeurig voorspellen, prijsstelling van onderaannemers beheren en variaties in het bouwbudget volgen zonder complexe, dure ERP-software te implementeren.
+
+<img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/b10f2cd2-94a9-44c5-8305-6ed197b23596" />
 
 **Geen aanmelding. Geen installatie. Gratis in uw browser.**
 
@@ -119,7 +122,7 @@ Onze gebruikers zetten deze werkmap met succes in bij diverse gespecialiseerde v
 
 ---
 
-# About
+## About
 
 Ik bouw lichtgewicht operationele werkmappen voor situaties waarin er simpelweg te veel variabelen zijn om ze allemaal tegelijk in gedachten te houden.
 
@@ -129,7 +132,7 @@ De **AIA Construction Estimating & Cost Tracking Workbook** is één voorbeeld v
 
 ---
 
-# Technical Details
+## Technical Details
 
 <details>
 
@@ -604,26 +607,53 @@ De werkmap gefocust houden maakt hem makkelijker te onderhouden, makkelijker te 
 
 ---
 
-## The Business Logic & Methodology
+## De bedrijfslogica & methodologie
 
-In de kern is bouwcalculatie geen rekenprobleem — het is een uitdaging op het gebied van risicobeheer en kapitaalallocatie. Deze werkmap verschuift het calculatieproces van *platte datainvoer* naar *activiteitgebaseerde kostenmodellering*.
+Bouwcalculatie is niet alleen het berekenen van een totaal voor de inschrijving. Het gaat om het opstellen van een verdedigbare kostenraming, het begrijpen waar de projectkosten vandaan komen, en het behouden van die kostenstructuur gedurende de uitvoering van het project.
 
-Hier is de commerciële logica en methodologie achter de architectuur van deze tool:
+De **AIA Excel-werkmap voor bouwcalculatie & kostenbewaking** past gevestigde methoden voor bouwcalculatie en kostenbeheer toe om projecthoeveelheden, gestandaardiseerde eenheidsprijzen en herbruikbare bouwassemblages om te zetten in een gestructureerde calculatieworkflow. Het doel is repetitief calculatiewerk te verminderen, het kosteninzicht vóór indiening van de inschrijving te verbeteren, en een consistente basis vast te leggen voor verdere projectkostenbewaking.
 
-### 1. The Business Problem: Margin Erosion from Flat Pricing
-*   **The Operational Flaw:** Traditionele spreadsheets voegen arbeid, materialen en materieel samen in één statische stukprijs (bijvoorbeeld $150/CY voor beton). Wanneer kosten in de toeleveringsketen fluctueren of de productiviteit op de werf daalt, blijft de exacte impact op de winstmarges onzichtbaar totdat het te laat is om bij te sturen.
-*   **The Methodology (Parametric Cost Segregation):** De werkmap splitst elke regel wiskundig in de basiseconomische drijfveren (arbeidstarieven, materiaalkosten, materieelhuur). Door de *hoeveelheid* werk los te koppelen van de *kostencomponenten* van het werk, kunnen calculators direct what-if-scenario's doorrekenen (bijvoorbeeld: "Wat gebeurt er met onze brutomarge als de regionale wapeningsprijzen met 12% stijgen?").
+### 1. Ontleding en classificatie van bouwkosten
 
-### 2. The Business Problem: The "Re-invention" Tax
-*   **The Operational Flaw:** Calculators besteden vaak 80% van hun tijd aan het opnieuw maken van formules, het kopiëren van oude inschrijvingen en het repareren van gebroken verwijzingen, waardoor slechts 20% overblijft voor strategische inschrijvingsnivellering en value engineering.
-*   **The Methodology (Standardized Assembly Architecture):** We hebben een relationele databasestructuur geïmplementeerd binnen een spreadsheetomgeving. De **Cost Library** fungeert als single source of truth voor prijsstelling, terwijl de **Assembly Library** deze kosten groepeert in herbruikbare werkpakketten. U bouwt de logica één keer en zet deze oneindig in. Dit verandert calculatie van een arbeidsintensieve handmatige dienst in een zeer schaalbaar, herhaalbaar proces.
+**Methode:** Scheid de geraamde kosten in arbeid, materialen, materieel, onderaanneming, algemene kosten en opslag.
 
-### 3. The Business Problem: The Estimating-to-Field Handoff Gap
-*   **The Operational Flaw:** De inschrijving is gewonnen, maar de projectmanager kan de spreadsheet van de calculator niet gebruiken omdat de data uitsluitend is opgemaakt voor het voorstel aan de klant (AIA-formaat), niet voor uitvoering op de werf. Bouwbudgetten worden daardoor vanaf nul opnieuw opgebouwd, wat kritiek dataverlies veroorzaakt en kostenbeheersing vertraagt.
-*   **The Methodology (Unified Cost Breakdown Structure - CBS):** De werkmap gebruikt een dubbele rapportage-engine. De berekeningslaag legt ruwe operationele metrieken vast (manuren, materiaalopbrengsten), terwijl de presentatielaag deze metrieken automatisch koppelt aan klantvriendelijke AIA-divisies. Wanneer het contract wordt gegund, gaat exact dezelfde datastructuur naadloos over in de Work-in-Progress (WIP)-basis voor directe variatietracking.
+**Opgelost bedrijfsprobleem:** Eén enkel totaal voor de inschrijving kan ongebalanceerde kostenveronderstellingen, verouderde tarieven of onverwachte blootstelling aan arbeidskosten verbergen. Zonder consistente kostenclassificatie wordt het vergelijken van ramingen tussen projecten moeilijk.
 
-**The Ultimate Business Outcome:** 
-U raadt niet langer waar uw projecten geld verdienen of verliezen. Door uw datastructuur te standaardiseren, veranderen uw historische inschrijvingen in een eigen bedrijfsdata-actief — waardoor uw team sneller kan inschrijven, slimmer kan prijzen en winstmarges kan beschermen voordat het contract ooit is ondertekend.
+**Beslissing die dit mogelijk maakt:** Bekijk de samenstelling van de bouwkosten, identificeer de categorieën die nader onderzoek vereisen, en neem beter geïnformeerde prijsbeslissingen vóór indiening van de inschrijving.
+
+### 2. Gestandaardiseerde kostenbibliotheken en assemblagegebaseerd calculeren
+
+**Methode:** Onderhoud herbruikbare eenheidsprijsrecords en bouwassemblages die kostenelementen combineren met hoeveelheidsfactoren.
+
+**Opgelost bedrijfsprobleem:** Het opnieuw opbouwen van ramingen uit eerdere spreadsheets creëert dubbel werk, inconsistente kostencodes en verborgen veronderstellingen. Assemblagegebaseerd calculeren maakt terugkerende werkpakketten eenvoudiger te reproduceren en te beoordelen.
+
+**Beslissing die dit mogelijk maakt:** Bouw nieuwe ramingen sneller, herbruik beproefde calculatiestructuren, en werk kostenveronderstellingen systematisch bij wanneer arbeidstarieven, materiaalprijzen of bouwmethoden veranderen.
+
+### 3. Hoeveelheidsgebaseerd calculeren en calculatieplanning voor inschrijvingen
+
+**Methode:** Pas projecthoeveelheden toe op gestandaardiseerde assemblages en hun onderliggende kostencomponenten, en consolideer de resultaten in een gestructureerde raming.
+
+**Opgelost bedrijfsprobleem:** Handmatige berekeningen en losgekoppelde calculatiebladen maken het moeilijker om vergeten posten te identificeren, individuele kosten te traceren, en consistentie te behouden tussen detailberekeningen en de definitieve inschrijving.
+
+**Beslissing die dit mogelijk maakt:** Evalueer de geraamde kosten van elk werkpakket, beoordel directe kosten en calculatie-toeslagen, en bereid een consistentere inschrijving voor.
+
+### 4. Basisraming en analyse van afwijkingen tussen werkelijke kosten
+
+**Methode:** Behoud de goedgekeurde raming als referentiebasis en vergelijk deze met de werkelijke kosten die tijdens de projectuitvoering worden vastgelegd.
+
+**Opgelost bedrijfsprobleem:** Wanneer calculatie en projectkostenbewaking verschillende structuren gebruiken, moeten aannemers na gunning vaak budgetten opnieuw opbouwen. Dit verzwakt de traceerbaarheid en vertraagt het identificeren van kostenoverschrijdingen.
+
+**Beslissing die dit mogelijk maakt:** Identificeer ongunstige kostafwijkingen, onderzoek verschillen tussen geraamde en werkelijke uitgaven, en verbeter toekomstige ramingen met lessen uit voltooide of lopende projecten.
+
+### 5. Gestructureerde kostendata voor integratie met projectmanagement
+
+**Methode:** Organiseer calculatie-uitvoer rond consistente velden zoals WBS, kostencode, beschrijving, budget en kostencategorie, met een gestructureerde CSV-export voor SmartSheet-workflows.
+
+**Opgelost bedrijfsprobleem:** Inconsistente kolomnamen en gefragmenteerde kostenrecords creëren onnodige datavoorbereiding wanneer calculatie-informatie naar projectmanagementtools moet worden overgezet.
+
+**Beslissing die dit mogelijk maakt:** Breng gestructureerde budgetinformatie over naar compatibele workflows met minder handmatige herstructurering, met een duidelijk onderscheid tussen spreadsheetgebaseerd calculeren en externe projectmanagementsystemen.
+
+Samen verbinden deze methoden **hoeveelheidsopname, calculatie, voorbereiding van inschrijvingen en kostenbeheer na gunning** via een herbruikbaar analytisch kader. De werkmap ondersteunt deze workflow zonder een volledig ondernemingsplatform voor bouwbeheer te vereisen, met behoud van de berekeningen en kostenveronderstellingen voor beoordeling.
 
 ---
 
