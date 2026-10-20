@@ -1,4 +1,4 @@
-[ 🌐 عربي ](README.ar.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
+[ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # AIA Construction Estimating & Cost Tracking Excel Workbook | Construction Bidding Template
 <img width="1480" height="826" alt="image" src="https://github.com/user-attachments/assets/4e138b9f-9b00-4dd4-8691-64e0fd76eae9" />
@@ -123,7 +123,7 @@ Our users successfully deploy this workbook across various specialized trades an
 
 ---
 
-# About
+## About
 
 I build lightweight operational workbooks for situations where there are simply too many moving parts to keep in mind at once.
 
@@ -133,7 +133,7 @@ The **AIA Construction Estimating & Cost Tracking Workbook** is one example of t
 
 ---
 
-# Technical Details
+## Technical Details
 
 <details>
 
