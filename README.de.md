@@ -117,7 +117,7 @@ Unsere Nutzer setzen diese Arbeitsmappe erfolgreich über verschiedene Spezialge
 
 - **Design-Build & Eigenheimbau:** Passen Sie Oberflächen, Flächenparameter und Aufschlagprozentsätze während Kundenverhandlungen schnell an, um sofort überarbeitete Angebote zu generieren.
 - **TGA (Mechanik, Elektrik, Sanitär)-Kalkulation:** Verwalten Sie komplexe Baugruppen, bei denen Arbeitsstunden stark von Linearmaß-Messungen und spezifischen Komponentenzahlen bestimmt werden.
-- **Beton- und Tiefbau:** Trennen Sie präzise Schwergeräte-Mietkosten (Kräne, Bagger) von Rohmaterialerträgen (Kubikmeter Beton, Bewehrungsstonnage).
+- **Beton- und Tiefbau:** Trennen Sie präzise Schwergeräte-Mietkosten (Kräne, Bagger) von Rohmaterialerträgen (Kubikmeter Beton, Bewehrungsstahl-Tonnage).
 - **Renovierung & Umbau:** Isolieren Sie Abbruchkosten einfach und verfolgen Sie Eventualitätsreserven für unvorhergesehene Standortbedingungen.
 
 ---
@@ -314,6 +314,7 @@ Expanded Quantity
 =EstimateQty*AssemblyFactor
 
 Assembly Cost
+
 =ExpandedQty*UnitCost
 ```
 
@@ -387,6 +388,7 @@ Variance
 =Actual-Estimate
 
 Variance %
+
 =(Actual-Estimate)/Estimate
 ```
 
