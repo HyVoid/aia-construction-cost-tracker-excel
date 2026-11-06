@@ -1,134 +1,162 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
-# Libro de Excel de Estimación y Seguimiento de Costos de Construcción AIA | Plantilla de Licitación de Construcción
+
+# Plantilla Excel de Estimación de Costos de Construcción y Seguimiento de Costos | Calculadora Gratuita de Licitaciones para Contratistas y Hoja de Cálculo de Costos por Obra AIA
 <img width="1480" height="826" alt="image" src="https://github.com/user-attachments/assets/4e138b9f-9b00-4dd4-8691-64e0fd76eae9" />
 
+
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
-![Platform](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-success)
-![Tool](https://img.shields.io/badge/Type-Construction%20Decision%20Support-orange)
+![Platform](https://img.shields.io/badge/Platform-Web%20Browser%20%2B%20Microsoft%20Excel-success)
+![Tool](https://img.shields.io/badge/Type-Plug--and--Play%20Construction%20Estimating%20Template-orange)
 
-> **Estandarizar la estimación de construcción, acelerar la preparación de licitaciones comerciales y crear estructuras de desglose de costos (CBS) reutilizables—directamente en Excel o en su navegador.**
+> **Cree presupuestos de construcción precisos en 60 segundos, automatice los cálculos de medición de materiales y mano de obra, y genere Listas de Valores (SOV) y Estructuras de Desglose de Costos (CBS) listas para AIA, directamente en su navegador o en Microsoft Excel.**
 
-¿Busca una **plantilla de estimación de construcción AIA** confiable? Este **libro de Excel de seguimiento de costos de construcción** gratuito está diseñado para ayudar a contratistas generales, estimadores y gerentes de proyecto a eliminar errores de cálculo y automatizar los flujos de trabajo de licitación. En lugar de empezar desde cero, puede pronosticar los costos del proyecto con precisión, gestionar los precios de subcontratistas y dar seguimiento a las variaciones del presupuesto de construcción sin implementar software ERP empresarial complejo y costoso.
+**El Libro de Excel de Estimación de Costos de Construcción y Seguimiento de Costos AIA** es una **plantilla de licitación de construcción** lista para usar, una **hoja de estimación para contratistas** y una **hoja de cálculo de costos por obra** creada para contratistas generales, subcontratistas, estimadores primerizos y pequeñas empresas de construcción. Esta **calculadora de costos de construcción** elimina los errores manuales de fórmulas en las hojas de cálculo y automatiza la preparación de licitaciones comerciales y residenciales. Copie y pegue sus cifras brutas de **medición de cantidades (QTO)** para calcular automáticamente los **costos directos** (carga de mano de obra, rendimientos de materiales, alquiler de equipos, cotizaciones de subcontratistas), aplicar **márgenes de gastos generales y beneficio (O&P)** y controlar las **variaciones del presupuesto del proyecto** sin comprar un ERP costoso ni aprender programas de estimación complejos.
 
-<img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/b10f2cd2-94a9-44c5-8305-6ed197b23596" />
+<p><strong>Cero configuración. Sin registro de cuenta. Calculadora web interactiva gratuita + libro de Excel (.xlsx) nativo descargable.</strong></p>
 
-**Sin registro. Sin instalación. Gratuito en su navegador.**
+Pruebe primero las cifras de su proyecto en el estimador de construcción gratuito basado en el navegador. Cuando esté listo para guardar listas de precios personalizadas y ejecutar licitaciones repetibles sin conexión, descargue el libro de Excel automatizado completo, respaldado por una garantía de devolución del dinero de 30 días sin preguntas.
 
-Pruebe gratis la aplicación de estimación de construcción basada en navegador. Si necesita el entorno nativo de hojas de cálculo para el modelado avanzado de datos, puede comprar la versión de Excel con una garantía de devolución del dinero de 30 días, sin preguntas.
-
-> 🌐 **aplicación de navegador:** [Pruebe la Aplicación Gratuita de Estimación de Construcción en el Navegador](https://hyvoid.github.io/aia-construction-cost-tracker-excel/)
+> 🌐 **Calculadora en Línea Gratuita:** [Abra la aplicación web interactiva gratuita de estimación y licitación de construcción (acceso instantáneo desde el navegador)](https://hyvoid.github.io/aia-construction-cost-tracker-excel/)
 >
-> 📥 **Recurso descargable:** [Descargue la Plantilla Completa de Estimación y Seguimiento de Construcción en Excel](https://theseusworkshop.com/l/odfkie?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=aia-construction-cost-tracker)
+> 📥 **Plantilla Excel Descargable:** [Descargue el Libro de Excel automatizado de Estimación de Costos de Construcción y Seguimiento de Costos AIA (.xlsx con biblioteca de costos predefinida)](https://theseusworkshop.com/l/odfkie?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=aia-construction-cost-tracker)
 
 ---
 
-## Lo Que Le Ayuda a Seguir: Mapeo de Puntos de Dolor a Soluciones
+## Qué Le Ayuda a Controlar: Puntos de Dolor en la Licitación de Construcción y sus Soluciones en Excel Automatizado
 
-Hemos traducido las frustraciones más comunes de la licitación de construcción en funciones de seguimiento de alto rendimiento, impulsadas por una lógica de búsqueda e informes con estándares de la industria.
+Cada función de esta **hoja de cálculo de estimación de construcción** responde directamente a un cuello de botella diario de control de costos o de licitación que enfrentan los constructores y los contratistas de especialidad:
 
-- **Punto de dolor:** Cotizaciones de subcontratistas desordenadas y sin organizar, y suposiciones a suma alzada.
-  - **Solución (Estructura de Desglose de Costos):** Una **estimación de construcción** integral, desglosada automáticamente en Costos Directos (Mano de Obra, Materiales, Equipo, Subcontratos) y Costos Indirectos (Gastos Generales, Contingencia, Margen Comercial (markup)).
-- **Punto de dolor:** Perder dinero por costos operativos ocultos antes de presentar una licitación.
-  - **Solución (Análisis de Paquetes de Trabajo):** Análisis instantáneo de la contribución de costos de cada paquete de la **Estructura de Desglose del Trabajo (WBS)** para validar los márgenes objetivo.
-- **Punto de dolor:** Desconexión entre la oferta ganadora y la ejecución real en obra.
-  - **Solución (Seguimiento de Variaciones del Presupuesto):** Establece una **línea base de presupuesto del proyecto** rígida que compara sin fricciones los costos de construcción estimados frente a los reales.
-- **Punto de dolor:** Volver a escribir los mismos datos para cada nueva oferta de concreto o estructuración.
-  - **Solución (Estimación Paramétrica):** Conjuntos de construcción (assemblies) reutilizables y una Cost Library estándar que reducen drásticamente el trabajo repetitivo de levantamiento de cantidades (takeoff) (QTO).
-- **Punto de dolor:** Clientes que rechazan ofertas por formatos no estándar.
-  - **Solución (Cumplimiento de Facturación AIA):** Resúmenes a nivel de división alineados con las familiares **prácticas de estimación AIA y el Schedule of Values (SOV)**.
-- **Punto de dolor:** Captura manual de datos al migrar a software de gestión de proyectos.
-  - **Solución (Integración de Datos):** Datos del proyecto estructurados, listos para la **importación a SmartSheet** o el mapeo en Procore, sin reestructuración manual de celdas.
+| Punto de Dolor Común en la Licitación y el Seguimiento de Costos de Construcción | Función Central de la Hoja de Cálculo y Capacidad de Búsqueda | Cómo lo Resuelve Esta Plantilla Excel Automatizada (Sin Configuración) |
+| :--- | :--- | :--- |
+| **Cotizaciones de subcontratistas desordenadas y sumas globales arriesgadas a ciegas** | **Estructura de Desglose de Costos (CBS) y Hoja de Oferta Automatizadas** | Divide cada **estimación de construcción** en **Costos Directos** trazables (Mano de Obra, Materiales, Equipos, Subcontratistas) y **Costos Indirectos** (Gastos Generales, Reserva de Contingencia, Margen de Beneficio). |
+| **Perder dinero por cargas de mano de obra ocultas y gastos generales sin asignar** | **Estructura de Desglose de Trabajo (WBS) y Validador de Márgenes** | Ejecuta diagnósticos instantáneos de contribución al costo y de margen bruto en cada paquete de trabajo antes de presentar una licitación comercial o residencial. |
+| **Desconexión entre la oferta ganadora y el costo real de la obra** | **Seguimiento de Variaciones del Presupuesto de Construcción y Línea Base de WIP** | Convierte su oferta firmada directamente en una **línea base rígida del presupuesto del proyecto** para comparar los costos de construcción estimados frente a los reales en la contabilidad de **trabajo en curso (WIP)**. |
+| **Volver a escribir los mismos precios unitarios en cada oferta de concreto, estructura o MEP** | **Estimación Paramétrica por Ensamblajes y Biblioteca de Costos Unitarios** | Almacena **ensamblajes de construcción** reutilizables y precios unitarios estándar (estilo RSMeans / CSI) para reducir hasta un 80% la introducción repetitiva de datos en la **medición de cantidades (QTO)**. |
+| **Clientes o entidades financieras que rechazan ofertas por formatos no estándar** | **Lista de Valores (SOV) AIA y Resumen por Divisiones CSI** | Genera consolidaciones de costos limpias por división, alineadas con las prácticas estándar de **facturación por avance AIA G702/G703** y con las **divisiones CSI MasterFormat**. |
+| **Horas perdidas reformateando celdas para herramientas de gestión de proyectos** | **Exportación CSV para Procore, Buildertrend y SmartSheet** | Genera tablas de costos de proyecto limpias y estandarizadas, listas para importar directamente en **SmartSheet**, **Procore** o en software contable sin limpieza manual de columnas. |
 
 ---
 
-## Tutorial de Inicio Rápido: Cómo Construir Su Primera Estimación de Construcción
+## Tutorial de Inicio Rápido: Cómo Crear una Estimación de Construcción y una Propuesta de Oferta en 1 Minuto
 
-Siga este flujo de trabajo para transformar planos en bruto en una licitación de construcción profesional.
+Siga este flujo de trabajo de 4 pasos para convertir medidas brutas de planos en una licitación de construcción lista para el cliente y en una línea base de costos de la obra.
 
-### Paso 1: Configurar los Parámetros del Proyecto y el Schedule of Values (SOV)
-Abra el panel **Project Setup**. Ingrese una sola vez los metadatos de su proyecto de construcción: nombre del proyecto, estimador principal, fecha de oferta, porcentaje objetivo de margen comercial (markup), reserva de contingencia y datos del cliente. *Acción:* Estos parámetros actúan como variables globales y completan automáticamente todas las hojas de programación y de resumen para evitar errores de captura de datos.
+### Paso 1: Introduzca los Parámetros Globales del Proyecto, los Porcentajes de Margen y de Contingencia
+Abra la pestaña **Project Setup**. Introduzca una sola vez los datos básicos de la obra: nombre del proyecto, nombre del estimador, fecha de presentación de la oferta, **porcentaje de margen de gastos generales y beneficio (O&P)** objetivo, **reserva de contingencia** y datos del cliente.
+* **Resultado Automático:** Estas entradas funcionan como variables globales que completan automáticamente cada **Lista de Valores (SOV)**, resumen de división y hoja de oferta para el cliente que se generan después, evitando errores tipográficos por copiar y pegar.
 
-### Paso 2: Importar Datos del Levantamiento de Cantidades (Takeoff) (QTO)
-Vaya a la hoja **Estimate Input**. Pegue sus mediciones existentes del levantamiento de cantidades (takeoff) o importe exportaciones CSV de herramientas como Bluebeam o Planswift. *Acción:* Asigne sus datos a códigos de costos predefinidos. Las estimaciones existentes de software contable o de hojas de cálculo antiguas de medición de cantidades pueden copiarse y pegarse directamente.
+### Paso 2: Pegue las Mediciones de la Medición de Cantidades (QTO) y los Precios Unitarios
+Cambie a la hoja de cálculo **Estimate Input**. Copie y pegue su **lista de cantidades (BOQ)** bruta o las mediciones tomadas de **Bluebeam Revu**, **PlanSwift**, **Stack** o de sus hojas de medición antiguas en Excel.
+* **Resultado Automático:** Asigne las partidas a los **códigos de costo CSI MasterFormat** y a los tipos de unidad preconfigurados (Pies Cuadrados, Pies Lineales, Yardas Cúbicas, Horas-Hombre, Suma Global) sin ajustar una sola fórmula.
+* <img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/b10f2cd2-94a9-44c5-8305-6ed197b23596" />
 
-### Paso 3: Generar el Panel de Resumen de Estimación AIA
-Cambie al **Calculation Engine** y al **Summary Dashboard**. *Acción:* Observe cómo el libro de Excel calcula automáticamente los Costos Directos, las asignaciones de Equipo, la carga laboral y el Valor Total de la Oferta. Sus definiciones de assembly personalizadas se expandirán instantáneamente en desgloses de costos detallados, sin fórmulas manuales.
 
-### Paso 4: Mantener, Reutilizar y Exportar (CTA)
-A medida que cambien los costos unitarios de los proveedores, simplemente actualice la **Cost Library**. Los assemblies históricos permanecen intactos para futuras ofertas.
-> **¿Listo para escalar su proceso de licitación?** Una vez que haya probado la versión de navegador para la estimación de un solo proyecto, [Descargue el Libro de Excel Reutilizable de Estimación](https://theseusworkshop.com/l/odfkie?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=aia-construction-cost-tracker) para consolidar sus plantillas estandarizadas, guardar su Cost Library propietaria y utilizar la herramienta repetidamente en todas sus futuras licitaciones de construcción.
+### Paso 3: Revise la Estimación AIA y el Panel de Beneficio Generados Automáticamente
+Abra el **Calculation Engine** y el **Executive Summary Dashboard**.
+* **Resultado Automático:** La plantilla calcula de inmediato los **Costos Directos** totales, las **asignaciones de carga de mano de obra**, las **tarifas de alquiler de equipos** y el **Precio Total de la Oferta**. Los ensamblajes de construcción de varios componentes se despliegan automáticamente en desgloses detallados de materiales y mano de obra.
 
----
+### Paso 4: Pegado Local de Datos en Un Solo Clic y Reutilización Infinita de Ofertas (Descargue el Motor Excel)
+La contabilidad de costos de construcción, la asignación de márgenes por WBS y los cálculos de márgenes de varios niveles son complejos, pero usted nunca tiene que tocar la matemática que ocurre entre bastidores.
 
-## Por Qué Construí Este Marco de Estimación de Construcción
+Este **libro de Excel de estimación de costos de construcción** viene preprogramado con reglas de coincidencia dinámicas y fórmulas que se expanden automáticamente. **Ni siquiera necesita hacer doble clic en las esquinas de las celdas ni arrastrar fórmulas hacia abajo.** Solo descargue el archivo `.xlsx` en su escritorio, pegue sus propios datos de proyecto en la tabla de entrada y consulte un diagnóstico financiero completo en menos de 1 minuto:
+* **Respuesta en 1 Minuto para No Expertos:** Incluso sin experiencia en modelado de hojas de cálculo ni en análisis financiero, al pegar sus cifras se destacan de inmediato los sobrecostos, las divisiones con alta carga de mano de obra y los márgenes de beneficio exactos.
+* **Concéntrese en Ganar Trabajo en Plena Temporada de Licitaciones:** Deje de pasar noches corrigiendo errores `#REF!` o reconstruyendo tablas VLOOKUP. Permita que la plantilla automatizada se encargue del análisis de datos con un solo clic para que usted pueda centrarse en negociar cotizaciones de subcontratistas, gestionar las obras y cerrar contratos rentables.
 
-Muchos **libros de Excel de licitación de construcción** parecen detallados, pero fallan en el momento exacto en que las decisiones se vuelven costosas: durante la nivelación de ofertas (bid leveling) y la ejecución.
-
-**La estimación de construcción** rara vez consiste en escribir números en celdas. La parte difícil es mantener un proceso de razonamiento consistente a lo largo de docenas de divisiones del CSI MasterFormat, garantizando al mismo tiempo que cada dólar pueda rastrearse hasta su plano de origen.
-
-Una situación común ilustra el problema:
-Un contratista general recibe un nuevo paquete de licitación para una losa de cimentación de concreto comercial. En lugar de usar un **software de estimación de precios unitarios** estandarizado, el estimador duplica una hoja de cálculo antigua, elimina filas irrelevantes, inserta nuevos costos directos manualmente y espera no haber pasado por alto horas de mano de obra críticas.
-
-La estimación puede parecer completa, pero nadie puede responder con confianza preguntas operativas simples:
-- ¿Qué assemblies de estructuración generaron este costo específico de materiales?
-- ¿Cuánto de la División 03 (Concreto) es pura carga laboral?
-- ¿Qué suposiciones de materiales de la cadena de suministro cambiaron desde la oferta anterior?
-- ¿Puede esta estimación a suma alzada convertirse en la línea base de Trabajo en Proceso (WIP) del próximo mes?
-
-Este libro de Excel fue creado para convertir ese razonamiento en un producto. En lugar de reconstruir estimaciones proyecto por proyecto, la misma **Cost Library** y la misma **Assembly Library** estandarizadas se convierten en activos analíticos reutilizables.
-
-**Antes:** Una licitación de $1.8M parece competitiva, pero la mano de obra representa el 52% del costo directo total porque varios assemblies se copiaron de una tabla de salarios vigentes desactualizada.
-**Después:** El libro de Excel segrega al instante las ofertas de Mano de Obra, Materiales, Equipo y Subcontratistas. Las tarifas laborales actualizadas reducen la mano de obra directa en un 9%, produciendo una oferta altamente competitiva mientras se preservan los márgenes de ganancia objetivo.
+> 🚀 **Convierta 4 Horas de Trabajo en Excel en un Flujo de Copiar y Pegar de 1 Minuto:** Después de previsualizar el flujo de trabajo en su navegador, [descargue el Libro de Excel completo y reutilizable de Estimación de Costos de Construcción AIA (.xlsx)](https://theseusworkshop.com/l/odfkie?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=aia-construction-cost-tracker) para guardar su base de datos privada de precios unitarios, reutilizar ensamblajes de especialidad personalizados en ilimitadas ofertas futuras y generar análisis ejecutivos de costos instantáneos sin conexión.
 
 ---
 
-## Problemas Comunes de Estimación de Construcción Que Esto Resuelve
+## La Lógica de Negocio y la Metodología: Cómo Eliminar los Puntos Ciegos de Rentabilidad de los Contratistas
 
-| Punto de Dolor en la Estimación de Construcción | Métodos Tradicionales de Hoja de Cálculo | Solución de la Plantilla de Estimación AIA en Excel |
-|------------------------------------|----------------------------|----------------------------------------|
-| **Cada estimación empieza desde cero** | Los proyectos anteriores se copian manualmente, lo que genera fórmulas rotas y estructuras WBS inconsistentes. | La **Assembly Library estandarizada** permite crear proyectos de forma rápida y sin errores a partir de datos históricos. |
-| **Los costos directos e indirectos se mezclan** | La composición de costos (materiales vs. mano de obra) no puede analizarse con precisión para la ingeniería de valor. | El **Seguimiento Paramétrico por Categorías** mantiene cada dimensión del costo rastreable por separado. |
-| **Los valores de la oferta no pueden convertirse en presupuestos de ejecución** | Los equipos de proyecto deben recrear el Schedule of Values desde cero después de la adjudicación del contrato. | La oferta final transiciona automáticamente a la **Línea Base de Costos Inicial del Proyecto** para los informes WIP. |
-| **Es imposible tomar las estimaciones históricas como referencia** | Los diseños fragmentados impiden una comparación significativa del costo por pie cuadrado entre obras. | La **Estructura de Desglose de Costos (CBS) estandarizada** admite comparaciones a nivel macro entre todos los proyectos de la empresa. |
-| **Las importaciones a SmartSheet y ERP requieren una limpieza laboriosa** | El mapeo manual de columnas aumenta la carga administrativa y arriesga la pérdida de datos. | Los **campos estandarizados de Exportación CSV** reducen drásticamente el esfuerzo de integración de sistemas. |
-| **La preparación de licitaciones queda aislada en un solo estimador senior** | La lógica de licitación y el conocimiento de precios quedan atrapados en archivos de Excel personales y no compartidos. | **La lógica de estimación se convierte en un activo empresarial repetible**, accesible para estimadores junior y gerentes de proyecto. |
+La mayoría de los pequeños contratistas, los estimadores noveles y los dueños de empresas de especialidad pierden dinero en obras que *creían* rentables. La pérdida casi nunca se debe a una mala ejecución en obra: ocurre durante la licitación, provocada por tres puntos ciegos financieros objetivos incorporados en las hojas de cálculo comunes y sin estructura:
 
----
+### 1. La Trampa Matemática del Margen Comercial frente al Margen Bruto (Punto Ciego de Precios)
+* **El Hecho Objetivo:** Añadir un **margen comercial** del 20% a sus costos de construcción **no** le da un **margen de beneficio** del 20%; matemáticamente, solo produce un **margen bruto del 16,67%** ($\text{Margin} = \frac{\text{Markup}}{1 + \text{Markup}}$). Si un contratista licita un proyecto de remodelación de $500,000 multiplicando los costos directos por 1.20, pierde al instante $16,650 de colchón de beneficio esperado antes de clavar un solo clavo.
+* **Cómo lo Resuelve el Libro:** El motor de cálculo separa explícitamente los **Costos Directos**, los **Gastos Generales / Condiciones Generales**, las **Reservas de Contingencia** y el **Beneficio Objetivo**. Usted ve el % de Margen Comercial real y el % de Margen Bruto real uno al lado del otro en tiempo real, lo que protege su rentabilidad frente a órdenes de cambio inesperadas.
 
-## Para Quién Es Esto (Roles y Necesidades de Software)
+### 2. Carga de Mano de Obra No Capturada y Distorsión del Costo Combinado (Punto Ciego de Costos)
+* **El Hecho Objetivo:** Cotizar salarios por hora base (por ejemplo, $35/hora de un carpintero) en lugar de **costos de mano de obra con carga completa** ($46–$52/hora tras impuestos de nómina FICA, seguro de compensación laboral, seguro de desempleo, vacaciones pagadas y preparación de herramientas no facturable) erosiona silenciosamente entre el 8% y el 15% del beneficio neto del proyecto. Además, cuando los contratistas agrupan mano de obra, materiales y equipos en una sola celda, no pueden saber qué factor de costo está inflando la oferta.
+* **Impacto Financiero en el Mundo Real:**
+  * **Antes de Usar Esta Metodología:** Un contratista general prepara una **licitación de losa de concreto comercial de $1.8M**. La oferta parece competitiva a primera vista, pero **la mano de obra representa el 52% del costo directo total** porque el estimador copió filas de una hoja de cálculo de salarios prevalecientes desactualizada en la que los costos de mano de obra y de material de concreto estaban mezclados.
+  * **Después de Usar Este Libro:** La plantilla separa automáticamente las categorías de costo de **Mano de Obra**, **Material**, **Equipo** y **Subcontratista**. Actualizar la **Biblioteca de Costos** central con las tasas vigentes de carga de mano de obra reduce la asignación de mano de obra directa en un **9%**, lo que produce una oferta más precisa y ganadora mientras se fija el margen de beneficio objetivo.
 
-Esta plantilla está meticulosamente diseñada para capturar los flujos de trabajo operativos específicos de los profesionales clave de la construcción:
-
-- **General Contractors (GCs):** Buscan una *Plantilla de Licitación de Construcción Comercial* para gestionar licitaciones competitivas y la nivelación de ofertas de subcontratistas sin pagar por Procore.
-- **Construction Estimators:** Necesitan una *Herramienta de Excel para la Gestión de Múltiples Ofertas* para manejar múltiples fechas límite de RFP simultáneamente, manteniendo una única fuente de verdad para los precios de materiales.
-- **Quantity Surveyors (QS):** Buscan *Software de Levantamiento de Cantidades (Takeoff) y Listado de Cantidades (BOQ)* para mantener estándares de estimación reutilizables en portafolios empresariales.
-- **Small to Medium Construction Firms (SMBs):** Buscan *Hojas de Cálculo de Costeo de Obras* para lograr una planificación de costos estructurada sin implementar plataformas ERP pesadas.
-- **Project Managers (PMs):** Requieren una *Plantilla de Variaciones de Presupuesto y Seguimiento de Costos del Proyecto* para establecer líneas base de estimación para una futura Gestión del Valor Ganado (EVM).
-
-*(Nota: Este libro de Excel **no** está diseñado para reemplazar los ERP en la nube empresariales, las plataformas colaborativas en tiempo real ni las integraciones CAD multiusuario. Es un motor de cálculo enfocado y de alta velocidad.)*
+### 3. El Agujero Negro de la «Suma Global a la Obra» (Punto Ciego de Ejecución)
+* **El Hecho Objetivo:** Muchos estimadores construyen una oferta solo para obtener un precio final al pie de la página. Una vez ganado el contrato, esa hoja de licitación desordenada no sirve para controlar el gasto real en obra. Cuando el dueño del negocio se da cuenta de que un paquete de estructura o eléctrico se ha excedido en un 25% del presupuesto, el dinero ya está gastado.
+* **Cómo lo Resuelve el Libro:** Cada partida introducida durante la medición se etiqueta automáticamente con una **Estructura de Desglose de Trabajo (WBS)** y una **Lista de Valores (SOV) AIA** estandarizadas. En el momento en que gana la obra, su estimación se convierte en su **Línea Base de Costos Inicial del Proyecto**, lo que le da una vara de medir instantánea para comparar los costos estimados con las facturas reales de obra desde el Día 1.
 
 ---
 
-## Escenarios de Estimación y Casos de Uso de Licitación de Construcción
+## Comparativa: Hojas de Cálculo Manuales para Contratistas frente al Libro de Estimación AIA Automatizado
 
-Nuestros usuarios implementan con éxito este libro de Excel en diversos oficios especializados y métodos de entrega de proyectos:
-
-- **Diseño-Construcción y Construcción de Viviendas a Medida:** Ajuste rápidamente acabados, parámetros de superficie (pies cuadrados) y porcentajes de margen comercial (markup) durante las negociaciones con el cliente para generar propuestas revisadas al instante.
-- **Estimación MEP (Mecánica, Eléctrica, Plomería):** Gestione assemblies complejos donde las horas de mano de obra están fuertemente determinadas por mediciones lineales (pies lineales) y conteos específicos de componentes.
-- **Contratación de Concreto y Obra Civil Pesada:** Separe con precisión los costos de alquiler de equipo pesado (grúas, excavadoras) de los rendimientos de materia prima (yardas cúbicas de concreto, toneladas de acero de refuerzo).
-- **Renovación y Remodelación:** Aísle fácilmente los costos de demolición y dé seguimiento a las reservas de contingencia para condiciones imprevistas del sitio.
-
+| Desafío de Estimación y Control de Costos de Construcción | Hojas de Cálculo Excel Manuales o Antiguas | Esta Plantilla Automatizada de Estimación de Costos de Construcción AIA |
+| :--- | :--- | :--- |
+| **Iniciar una Nueva Oferta o RFP** | Los estimadores duplican archivos de proyectos antiguos, borran filas a mano y rompen por accidente fórmulas `SUM` y `VLOOKUP`. | La **Biblioteca Reutilizable de Costos y Ensamblajes** genera estimaciones sin errores a partir de precios unitarios históricos en segundos. |
+| **Analizar Costos Directos frente a Costos Indirectos** | Los rendimientos de materiales, las horas de mano de obra y las tarifas diarias de equipos se mezclan en filas planas, lo que hace imposible la **ingeniería de valor**. | El **Seguimiento Paramétrico por Categoría de Costo** aísla los costos de Mano de Obra, Material, Equipo y Subcontratista en cada división CSI. |
+| **Convertir Ofertas en Presupuestos de Costos de Obra** | Los gerentes de proyecto deben volver a escribir manualmente la oferta ganadora en una **Lista de Valores (SOV)** separada tras la adjudicación del contrato. | La **Transición Automática a Línea Base** convierte la licitación final en una **Línea Base del Presupuesto del Proyecto** alineada con AIA para el seguimiento de WIP. |
+| **Comparar el Costo por Pie Cuadrado** | Las pestañas inconsistentes y las columnas personalizadas impiden comparar métricas históricas de **costo por pie cuadrado** entre obras pasadas. | La **Estructura de Desglose de Costos (CBS) Estandarizada** permite comparar costos a nivel macro al instante en todo su portafolio de proyectos. |
+| **Exportar a Procore, Buildertrend o SmartSheet** | Requiere horas de reestructuración manual de columnas, separación de texto y formato CSV antes de la carga. | Los **Campos de Exportación Preasignados para ERP y SmartSheet** permiten la integración en plataformas de gestión de proyectos con un solo clic mediante copiar y pegar. |
+| **Delegar la Estimación en Personal Junior** | El conocimiento de precios y las reglas de margen quedan encerrados en la cabeza del dueño o del estimador sénior. | La **Arquitectura de Entrada Autoguiada** permite que estimadores junior, jefes de oficina o responsables de obra produzcan ofertas estandarizadas y listas para auditoría. |
 
 ---
 
-## Acerca de
+## Para Quién Es: Roles de Construcción, Intención de Búsqueda y Casos de Uso del Software
 
-Construyo libros de Excel operativos y ligeros para situaciones donde simplemente hay demasiadas variables en movimiento para tenerlas presentes todas a la vez.
+Este libro está diseñado para profesionales de la construcción que necesitan el rigor analítico de un software de estimación dedicado, con la velocidad y la simplicidad sin curva de aprendizaje de Microsoft Excel:
 
-En lugar de reemplazar el software empresarial, estas herramientas organizan la información necesaria para tomar la siguiente decisión operativa con confianza.
+- **Contratistas Generales (GC) Pequeños y en Crecimiento:** Buscan una **plantilla de licitación de construcción comercial y residencial** para estandarizar licitaciones competitivas, comparar ofertas de subcontratistas y generar propuestas profesionales para clientes sin pagar $500+/mes por licencias empresariales de Procore.
+- **Estimadores de Construcción Primerizos y Junior:** Necesitan una **hoja de cálculo Excel de estimación de construcción fácil de usar** con fórmulas predefinidas para gestionar varios plazos de RFP a la vez y mantener una única fuente de verdad para los precios de materiales y mano de obra.
+- **Subcontratistas de Especialidad (Concreto, Estructura, MEP, Drywall, Techos):** Buscan una **calculadora de mano de obra y materiales específica por especialidad** para convertir rápidamente los pies cuadrados de los planos y las medidas en pies lineales en horas de cuadrilla precisas, factores de desperdicio de material y precios de oferta rentables.
+- **Aparejadores / Técnicos de Mediciones (QS) y Consultores de Costos Independientes:** Buscan un **libro de Excel de Medición de Cantidades (QTO) y Lista de Cantidades (BOQ)** para aplicar estándares reproducibles de **CSI MasterFormat** y de **facturación AIA** en los portafolios de sus clientes.
+- **Constructores de Vivienda Personalizada y Remodeladores Residenciales:** Requieren un **estimador de costos de construcción de viviendas y una hoja de cálculo de presupuesto de renovación** para ajustar acabados, asignaciones por pie cuadrado y porcentajes de margen en vivo durante las reuniones con clientes.
+- **Gerentes de Proyecto de Construcción (PM) y Superintendentes de Obra:** Necesitan una **plantilla de control de costos por obra y de variaciones de presupuesto** para establecer líneas base de costos claras y respaldar la **Gestión del Valor Ganado (EVM)** durante la ejecución en campo.
 
-El **AIA Construction Estimating & Cost Tracking Workbook** es un ejemplo de este enfoque. Combina lógica de estimación estandarizada, estructuras de costos reutilizables y controles de proyecto prácticos en un libro de Excel que sigue siendo lo suficientemente simple para el trabajo de construcción cotidiano.
+*(Nota de Transparencia: Esta herramienta **no** es un ERP en la nube multiusuario, un libro contable ni un visor de planos 3D BIM/CAD para mediciones. Es un motor de cálculo financiero y seguimiento de costos de alta velocidad y cero mantenimiento.)*
+
+---
+
+## Escenarios de Estimación de Construcción Listos para Usar y Flujos de Trabajo de Licitación por Especialidad
+
+Los contratistas y estimadores aplican esta **plantilla de estimación paramétrica en Excel** en diversos métodos de ejecución de proyectos y especialidades:
+
+### 1. Construcción Residencial de Vivienda Personalizada y Propuestas de Diseño-Construcción
+Ajuste los parámetros de superficie, las asignaciones de acabados de cocina y baño, y los **márgenes de gastos generales y beneficio del contratista general** sobre la marcha durante las revisiones de presupuesto con el cliente, generando resúmenes de **Lista de Valores** actualizados en segundos.
+
+### 2. Estimación MEP (Mecánica, Eléctrica, Plomería y HVAC)
+Gestione **ensamblajes de construcción** de varias partes en los que las horas de mano de obra de instalación y la productividad de las cuadrillas dependen en gran medida de los pies lineales de conductos o tuberías, del número de aparatos y de los costos de montaje de equipos especializados.
+
+### 3. Concreto en Losa, Cimentaciones y Obra Civil Pesada
+Separe con claridad las tarifas de alquiler y de propiedad de equipos pesados (excavadoras, bombas de concreto, grúas) de los rendimientos brutos de medición de materiales (yardas cúbicas de concreto premezclado, tonelaje de acero de refuerzo, pies cuadrados de cimbra) y de la carga de mano de obra por salario prevaleciente.
+
+### 4. Mejoras de Inquilino (TI) Comerciales, Renovación y Remodelación
+Aísle la mano de obra de demolición selectiva, las tarifas de retiro de escombros y las primas por trabajo nocturno por fases, mientras controla **reservas de contingencia** dedicadas para condiciones estructurales o del sitio imprevistas.
+
+---
+
+## Preguntas Frecuentes (FAQ sobre Estimación de Construcción en Excel)
+
+**P: ¿Necesito conocimientos avanzados de Excel o configurar macros VBA para usar esta plantilla?**
+**R:** No. Todas las fórmulas, consolidaciones de costos y resúmenes de WBS están predefinidos con funciones nativas y estándar de Excel. No hay macros VBA frágiles que habilitar y nunca necesita escribir ni arrastrar fórmulas: basta con pegar sus cantidades y precios unitarios en las celdas de entrada.
+
+**P: ¿Puedo personalizar los Códigos de Costo para CSI MasterFormat o para mis propias categorías de especialidad?**
+**R:** Sí. La **Biblioteca de Costos** y la **Biblioteca de Ensamblajes** están 100% desbloqueadas y son personalizables. Puede usar **códigos CSI MasterFormat** estándar de 16 o de 50 divisiones, categorías de la **Lista de Valores AIA G702/G703** o los códigos de costo contable internos de su empresa.
+
+**P: ¿Funciona tanto en Microsoft Excel como en Google Sheets?**
+**R:** Puede probar la versión web interactiva directamente en cualquier navegador de forma gratuita. El libro `.xlsx` descargable está optimizado para **Microsoft Excel (Windows y Mac)** y también se puede importar en Google Sheets para una visualización básica en la nube.
+
+---
+
+## Acerca de Theseus Workshop
+
+Creo libros de Excel operativos y motores de decisión financiera ligeros y listos para usar, pensados para dueños de negocio, estimadores y operadores que necesitan respuestas claras sin la complejidad de un software empresarial.
+
+En lugar de someterle a semanas de implementación de software, cada herramienta se diseña en torno a un solo principio: **Utilidad pura. Cero relleno.** Pegue sus datos operativos, deje que la lógica comercial predefinida haga los cálculos automáticamente y tome su próxima decisión de negocio con total confianza.
+
+El **Libro de Excel de Estimación de Costos de Construcción y Seguimiento de Costos AIA** forma parte de una suite más amplia de kits de estimación comercial, control de flujo de efectivo y modelado financiero.
+
+- 🏠 **Explore Todos los Kits de Decisión Empresarial y Plantillas Excel:** [Visite la tienda oficial de Theseus Workshop en Gumroad (theseusworkshop.com)](https://theseusworkshop.com?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20about%20section&utm_content=aia-construction-cost-tracker)
+- 📥 **Obtenga Este Libro de Estimación de Construcción:** [Descargue la Plantilla Excel completa de Estimación de Costos de Construcción y Seguimiento de Costos AIA (.xlsx)](https://theseusworkshop.com/l/odfkie?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=aia-construction-cost-tracker)
+- 🌐 **Pruebe Primero la Calculadora Web:** [Abra la aplicación gratuita de estimación de construcción basada en el navegador](https://hyvoid.github.io/aia-construction-cost-tracker-excel/)
 
 ---
 
@@ -546,25 +574,27 @@ La recomendación es revisar las suposiciones de productividad laboral antes de 
 
 ## Otras Herramientas de Esta Serie
 
-El **AIA Construction Estimating & Cost Tracking Workbook** forma parte de una colección creciente de herramientas operativas ligeras de apoyo para la toma de decisiones, diseñadas para profesionales que necesitan análisis estructurado sin implementar software empresarial.
+El **Libro de Excel de Estimación de Costos de Construcción y Seguimiento de Costos AIA** forma parte de una colección creciente de herramientas ligeras de apoyo a las decisiones operativas, diseñadas para profesionales que necesitan un análisis estructurado sin implementar software empresarial.
 
 | Herramienta | Propósito |
 |------|---------|
-| **Construction Estimating System** | Estandarizar la estimación de costos, los assemblies y la preparación de licitaciones. |
-| **Construction Project Financial Dashboard** | Monitorear los presupuestos del proyecto, el flujo de caja, la facturación por avance y la rentabilidad. |
-| **Inventory Forecasting & Reorder Planner** | Pronosticar la demanda y optimizar las decisiones de reposición usando Excel. |
-| **Procurement & Vendor Performance Tracker** | Comparar precios de proveedores, plazos de entrega y desempeño de compras. |
-| **Project Portfolio Control Dashboard** | Consolidar las finanzas y el estado de ejecución de los proyectos en múltiples obras. |
-| **Cost Variance Analysis Workbook** | Analizar el desempeño de Estimación vs Real e identificar sobrecostos. |
-| **Operations KPI Dashboard** | Construir informes de gestión recurrentes a partir de datos operativos estandarizados. |
+| **Sistema de Estimación de Construcción** | Estandarizar la estimación de costos, los ensamblajes y la preparación de licitaciones. |
+| **Panel Financiero de Proyectos de Construcción** | Supervisar los presupuestos de proyecto, el flujo de efectivo, la facturación por avance y la rentabilidad. |
+| **Planificador de Pronóstico de Inventario y Reorden** | Pronosticar la demanda y optimizar las decisiones de reposición con Excel. |
+| **Seguimiento de Compras y Desempeño de Proveedores** | Comparar precios de proveedores, plazos de entrega y desempeño de compras. |
+| **Panel de Control de Portafolio de Proyectos** | Consolidar las finanzas de los proyectos y el estado de ejecución entre múltiples obras. |
+| **Libro de Análisis de Variaciones de Costos** | Analizar el desempeño de lo Estimado frente a lo Real e identificar sobrecostos. |
+| **Panel de KPI de Operaciones** | Crear informes de gestión recurrentes a partir de datos operativos estandarizados. |
 
-Se publicarán más herramientas tanto en ediciones de **Navegador (HTML)** como de **Excel**, siguiendo los mismos principios:
+Se publicarán más herramientas en ediciones para **Navegador (HTML)** y **Excel**, siguiendo los mismos principios:
 
-- Sin registro.
-- Sin instalación.
-- Acceso gratuito desde el navegador.
-- Libro de Excel nativo.
-- Marco operativo reutilizable en lugar de hojas de cálculo de un solo uso.
+- **[DIN-743-Shaft-Calculations](https://github.com/HyVoid/DIN-743-Shaft-Calculations)** — ¿El diseño del eje cumple la lógica de cálculo correspondiente? — Aplicar las normas de cálculo de ejes DIN 743 a las decisiones de diseño de ingeniería.
+- **[construction-estimating](https://github.com/HyVoid/construction-estimating)** — ¿Cuánto costará este alcance de construcción bajo los supuestos actuales? — Estandarizar la estimación de licitaciones de construcción y transformar las estimaciones terminadas en bibliotecas de costos reutilizables.
+- **[construction-project-management-excel](https://github.com/HyVoid/construction-project-management-excel)** — ¿La posición financiera del proyecto es precisa después de incorporar los cambios aprobados, los costos reales y el avance de facturación? — Integrar presupuestos, órdenes de cambio, facturación por avance y flujo de efectivo en un único marco de control de proyectos de construcción.
+- **[industrial-energy-tco-calculator](https://github.com/HyVoid/industrial-energy-tco-calculator)** — ¿Qué opción energética ofrece el menor costo total de propiedad para este proyecto específico en sus condiciones reales de operación? — Comparar fuentes de energía industrial sobre una base real de energía útil, normalizando los costos de combustible, la eficiencia de los equipos, la inversión en infraestructura y los costos de propiedad durante el ciclo de vida.
+- **[residential-boq-template](https://github.com/HyVoid/residential-boq-template)** — ¿Cuánto costará este proyecto residencial y qué divisiones ya están por encima del presupuesto? — Estimar los costos de construcción residencial a partir de mediciones y tarifas de BOQ, controlando los presupuestos aprobados frente al gasto real.
+- **[tunnel-cost-estimator-boq-excel](https://github.com/HyVoid/tunnel-cost-estimator-boq-excel)** — ¿Cuánto costará este proyecto de túnel por perforación y voladura bajo el ciclo constructivo asumido? — Estimar la excavación de túneles por perforación y voladura, la perforación, las voladuras, el sostenimiento, los equipos y los requerimientos de mano de obra en un costo total de proyecto y un BOQ completos.
+- **[Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit](https://github.com/HyVoid/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit)** — ¿Cuál es el costo total de materiales y de refuerzo de la subestructura de cimentación, y puedo rastrear cada valor de la oferta comercial hasta las dimensiones medidas? — Calcular los volúmenes de concreto de cimentación, las áreas de cimbra, las cantidades de movimiento de tierras, el tonelaje de refuerzo mediante programas automatizados de doblado de barras y los valores comerciales de la lista de cantidades a partir de las dimensiones estructurales medidas.
 
 ---
 
