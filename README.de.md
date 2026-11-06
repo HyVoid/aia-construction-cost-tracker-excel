@@ -1,134 +1,162 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
-# Excel-Arbeitsmappe für AIA-Baukalkulation & Kostenverfolgung | Vorlage für Bauausschreibungen
+
+# Excel-Vorlage für Baukalkulation & Kostenverfolgung | Kostenloser Angebotskalkulator für Bauunternehmer & AIA-Auftragskosten-Tabelle
 <img width="1480" height="826" alt="image" src="https://github.com/user-attachments/assets/4e138b9f-9b00-4dd4-8691-64e0fd76eae9" />
 
+
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
-![Platform](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-success)
-![Tool](https://img.shields.io/badge/Type-Construction%20Decision%20Support-orange)
+![Platform](https://img.shields.io/badge/Platform-Web%20Browser%20%2B%20Microsoft%20Excel-success)
+![Tool](https://img.shields.io/badge/Type-Plug--and--Play%20Construction%20Estimating%20Template-orange)
 
-> **Standardisieren Sie die Baukalkulation, beschleunigen Sie die Vorbereitung kommerzieller Ausschreibungen und erstellen Sie wiederverwendbare Kostenaufschlüsselungsstrukturen (KBS) – direkt in Excel oder in Ihrem Browser.**
+> **Erstellen Sie in 60 Sekunden präzise Bauangebote, automatisieren Sie die Mengen- und Lohnkalkulation und generieren Sie AIA-konforme Leistungsverzeichnisse (Schedule of Values, SOV) sowie Kostenstrukturen (Cost Breakdown Structures, CBS) – direkt in Ihrem Browser oder in Microsoft Excel.**
 
-Suchen Sie eine zuverlässige **AIA-Vorlage für die Baukalkulation**? Diese kostenlose **Arbeitsmappe zur Verfolgung von Baukosten** wurde entwickelt, um Generalunternehmern, Kalkulatoren und Projektmanagern zu helfen, Rechenfehler zu vermeiden und Ausschreibungsabläufe zu automatisieren. Anstatt bei null anzufangen, können Sie Projektkosten präzise prognostizieren, Nachunternehmerpreise verwalten und Abweichungen des Baubudgets verfolgen – ohne komplexe, teure ERP-Unternehmenssoftware einzusetzen.
+**AIA Construction Estimating & Cost Tracking Excel Workbook** ist eine sofort einsatzbereite **Vorlage für Bauangebote**, ein **Kalkulationsblatt für Bauunternehmer** und eine **Tabelle zur Auftragskalkulation** – entwickelt für Generalunternehmer, Nachunternehmer, Kalkulatoren ohne Vorerfahrung und kleine Bauunternehmen. Dieser **Baukostenrechner** beseitigt manuelle Formelfehler in Tabellen und automatisiert die Vorbereitung gewerblicher und privater Ausschreibungen. Fügen Sie Ihre Rohzahlen aus der **Mengenermittlung (QTO)** ein, um **harte Kosten** (Lohnnebenkosten, Materialausbeute, Gerätemieten, Nachunternehmerangebote) automatisch zu berechnen, **Gemeinkosten- und Gewinnaufschläge (O&P)** anzuwenden und **Budgetabweichungen im Projekt** zu verfolgen – ohne teure ERP-Software zu kaufen oder komplexe Kalkulationsprogramme erlernen zu müssen.
 
-<img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/b10f2cd2-94a9-44c5-8305-6ed197b23596" />
+<p><strong>Keine Einrichtung. Keine Registrierung. Kostenloser interaktiver Web-Rechner + herunterladbare native Excel-Arbeitsmappe (.xlsx).</strong></p>
 
-**Keine Registrierung. Keine Installation. Kostenlos in Ihrem Browser.**
+Testen Sie Ihre Projektzahlen zunächst im kostenlosen browserbasierten Baukalkulator. Wenn Sie eigene Preislisten speichern und wiederholbare Angebote offline erstellen möchten, laden Sie die vollständige automatisierte Excel-Arbeitsmappe herunter – abgesichert durch eine 30-tägige Geld-zurück-Garantie ohne Wenn und Aber.
 
-Testen Sie die browserbasierte Baukalkulations-App kostenlos. Wenn Sie die native Tabellenkalkulationsumgebung für fortgeschrittene Datenmodellierung benötigen, können Sie die Excel-Version mit 30-tägiger Geld-zurück-Garantie ohne Rückfragen erwerben.
-
-> 🌐 **Browser-App:** [Testen Sie die kostenlose Browser-App zur Baukalkulation](https://hyvoid.github.io/aia-construction-cost-tracker-excel/)
+> 🌐 **Kostenloser Online-Rechner:** [Starten Sie die kostenlose interaktive Web-App für Baukalkulation & Angebotserstellung (sofortiger Browser-Zugriff)](https://hyvoid.github.io/aia-construction-cost-tracker-excel/)
 >
-> 📥 **Download-Ressource:** [Laden Sie die vollständige Excel-Vorlage für Baukalkulation und Kostenverfolgung herunter](https://theseusworkshop.com/l/odfkie?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=aia-construction-cost-tracker)
+> 📥 **Herunterladbare Excel-Vorlage:** [Laden Sie die automatisierte Excel-Arbeitsmappe für AIA-Baukalkulation & Kostenverfolgung herunter (.xlsx mit vorgefertigter Kostenbibliothek)](https://theseusworkshop.com/l/odfkie?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=aia-construction-cost-tracker)
 
 ---
 
-## Was es Ihnen zu verfolgen hilft: Zuordnung von Problempunkten zu Lösungen
+## Was Sie damit verfolgen: Von Problemen bei Bauangeboten zu automatisierten Excel-Lösungen
 
-Wir haben die häufigsten Frustrationen bei Bauausschreibungen in leistungsstarke Verfolgungsfunktionen übersetzt, unterstützt von branchenüblicher Such- und Berichtslogik.
+Jede Funktion dieser **Kalkulationstabelle für Bauprojekte** adressiert direkt einen täglichen Engpass bei Kostenkontrolle oder Angebotserstellung, mit dem Bauunternehmen und Gewerke-Nachunternehmer konfrontiert sind:
 
-- **Problempunkt:** Unübersichtliche, unorganisierte Nachunternehmerangebote und Pauschal-Schätzungen.
-  - **Lösung (Kostenaufschlüsselungsstruktur):** Ein umfassender **Baukostenvoranschlag**, automatisch aufgeschlüsselt in harte Kosten (Arbeitskräfte, Material, Geräte, Nachunternehmer) und weiche Kosten (Gemeinkosten, Eventualitäten, Aufschlag).
-- **Problempunkt:** Geldverlust durch versteckte Betriebskosten vor der Abgabe eines Angebots.
-  - **Lösung (Arbeitspaket-Analyse):** Sofortige Kostenbeitragsanalyse jedes **Projektstrukturplans (PSP)**-Pakets zur Validierung der Zielmargen.
-- **Problempunkt:** Bruch zwischen dem gewinnenden Angebot und der tatsächlichen Bauausführung.
-  - **Lösung (Budgetabweichungs-Verfolgung):** Etabliert eine strenge **Projektbudget-Basislinie**, die geschätzte mit tatsächlichen Baukosten nahtlos vergleicht.
-- **Problempunkt:** Dieselben Daten für jedes neue Beton- oder Rohbauangebot erneut eingeben.
-  - **Lösung (Parametrische Kalkulation):** Wiederverwendbare **Bau-Baugruppen** und eine Standard-Kostenbibliothek, die repetitive Massenermittlungsarbeit (QTO) drastisch reduziert.
-- **Problempunkt:** Kunden lehnen Angebote wegen nicht standardisierter Formatierung ab.
-  - **Lösung (AIA-Abrechnungskonformität):** Zusammenfassungen auf Gewerke-Ebene, abgebildet auf vertraute **AIA-Kalkulationspraktiken und Schedule of Values (SOV)**.
-- **Problempunkt:** Manuelle Dateneingabe bei der Migration zu Projektmanagement-Software.
-  - **Lösung (Datenintegration):** Strukturierte Projektdaten, bereit für **SmartSheet-Import** oder Procore-Zuordnung ohne manuelle Zellumstrukturierung.
+| Typisches Problem bei Bauangeboten & Kostenverfolgung | Zentrale Tabellenfunktion & suchbare Fähigkeit | So löst diese automatisierte Excel-Vorlage das Problem (ohne Einrichtung) |
+| :--- | :--- | :--- |
+| **Unübersichtliche Nachunternehmerangebote und riskante Pauschalschätzungen** | **Automatisierte Kostenstruktur (CBS) & Angebotsblatt** | Zerlegt jede **Baukalkulation** in nachvollziehbare **harte Kosten** (Arbeitskräfte, Material, Geräte, Nachunternehmer) und **weiche Kosten** (Gemeinkosten, Risikoreserve, Gewinnaufschlag). |
+| **Geldverlust durch versteckte Lohnnebenkosten und nicht zugeordnete Gemeinkosten** | **Projektstrukturplan (WBS) & Margen-Prüfer** | Führt sofortige Diagnosen zu Kostenbeitrag und Bruttomarge für jedes Arbeitspaket durch, bevor Sie ein gewerbliches oder privates Angebot abgeben. |
+| **Fehlende Verbindung zwischen dem gewonnenen Angebot und der tatsächlichen Auftragskalkulation auf der Baustelle** | **Tracker für Budgetabweichungen & WIP-Basislinie im Bau** | Wandelt Ihr unterschriebenes Angebot direkt in eine verbindliche **Projektbudget-Basislinie** um, um kalkulierte und tatsächliche Baukosten für die **Work-in-Progress-(WIP)-Bewertung** zu vergleichen. |
+| **Immer wieder dieselben Einheitspreise für Beton-, Rohbau- oder TGA-Angebote neu eintippen** | **Parametrische Baugruppenkalkulation & Einheitskostenbibliothek** | Speichert wiederverwendbare **Baugruppen** und Standard-Einheitspreise (im Stil von RSMeans / CSI) und reduziert die wiederholte Dateneingabe bei der **Mengenermittlung (QTO)** um 80 %. |
+| **Kunden oder Kreditgeber lehnen Angebote wegen nicht standardisierter Formatierung ab** | **AIA-Leistungsverzeichnis (SOV) & CSI-Gewerkezusammenfassung** | Erzeugt saubere Kostenverdichtungen auf Gewerkeebene, abgestimmt auf die übliche **AIA G702/G703-Abschlagsabrechnung** und die **CSI MasterFormat-Gewerke**. |
+| **Stunden verschwendet mit dem Umformatieren von Zellen für Projektmanagement-Tools** | **CSV-Export für Procore, Buildertrend & SmartSheet** | Gibt saubere, standardisierte Projektkostentabellen aus, die sich ohne manuelle Spaltenbereinigung direkt in **SmartSheet**, **Procore** oder Buchhaltungssoftware importieren lassen. |
 
 ---
 
-## Schnellstart-Anleitung: So erstellen Sie Ihren ersten Baukostenvoranschlag
+## Schnellstart-Anleitung: Wie Sie in 1 Minute eine Baukalkulation und einen Angebotsvorschlag erstellen
 
-Folgen Sie diesem Ablauf, um rohe Baupläne in ein professionelles Bauangebot zu verwandeln.
+Folgen Sie diesem Workflow in 4 Schritten, um aus rohen Planmaßen eine kundentaugliche Ausschreibung und eine Auftragskosten-Basislinie zu erstellen.
 
-### Schritt 1: Projektparameter & Schedule of Values (SOV) konfigurieren
-Öffnen Sie das **Project Setup**-Dashboard. Geben Sie die Metadaten Ihres Bauprojekts einmal ein: Projektname, Hauptkalkulator, Angebotsdatum, Zielaufschlag in Prozent, Eventualitätsreserve und Kundendaten. *Aktion:* Diese Parameter wirken als globale Variablen, die jeden Plan und jede Zusammenfassung automatisch füllen, um Dateneingabefehler zu vermeiden.
+### Schritt 1: Globale Projektparameter, Aufschlag & Risikozuschläge eingeben
+Öffnen Sie den Reiter **Project Setup**. Tragen Sie Ihre grundlegenden Auftragsdaten einmalig ein: Projektname, Name des Kalkulators, Abgabedatum des Angebots, angestrebter **Gemeinkosten- und Gewinnaufschlag (O&P) in Prozent**, **Risikoreserve** und Kundeninformationen.
+* **Automatisches Ergebnis:** Diese Eingaben wirken als globale Variablen und füllen automatisch jedes nachgelagerte **Leistungsverzeichnis (SOV)**, jede Gewerkezusammenfassung und jedes Kundenangebotsblatt – das verhindert Tippfehler beim Kopieren.
 
-### Schritt 2: Daten zur Massenermittlung (QTO) importieren
-Navigieren Sie zum Blatt **Estimate Input**. Fügen Sie Ihre vorhandenen Massenermittlungsdaten ein oder importieren Sie CSV-Exporte aus Tools wie Bluebeam oder Planswift. *Aktion:* Ordnen Sie Ihre Daten vordefinierten Kostencodes zu. Vorhandene Kalkulationen aus Buchhaltungssoftware oder alten Massenermittlungs-Tabellen können direkt kopiert und eingefügt werden.
+### Schritt 2: Mengen aus der Mengenermittlung (QTO) und Einheitspreise einfügen
+Wechseln Sie zum Arbeitsblatt **Estimate Input**. Kopieren Sie Ihre rohe **Liste der Mengen (BOQ)** oder die Mengen aus der Ermittlung aus **Bluebeam Revu**, **PlanSwift**, **Stack** oder Ihren vorhandenen älteren Excel-Mengenblättern und fügen Sie sie ein.
+* **Automatisches Ergebnis:** Ordnen Sie Positionen vorkonfigurierten **CSI MasterFormat-Kostenstellen** und Einheiten (Quadratfuß, Längenfuß, Kubikyard, Arbeitsstunden, Pauschale) zu – ganz ohne Formelanpassungen.
+* <img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/b10f2cd2-94a9-44c5-8305-6ed197b23596" />
 
-### Schritt 3: Das AIA-Kalkulations-Zusammenfassungs-Dashboard erstellen
-Wechseln Sie zur **Calculation Engine** und zum **Summary Dashboard**. *Aktion:* Sehen Sie, wie die Arbeitsmappe automatisch direkte Kosten, Gerätezuteilungen, Arbeitsbelastung und Gesamtangebotswert berechnet. Ihre angepassten Assembly-Definitionen werden sofort ohne manuelle Formeln in detaillierte Kostenaufschlüsselungen expandiert.
 
-### Schritt 4: Pflegen, wiederverwenden und exportieren (CTA)
-Wenn sich die Einheitskosten der Lieferanten ändern, aktualisieren Sie einfach die **Cost Library**. Historische Baugruppen bleiben für zukünftige Angebote intakt.
-> **Bereit, Ihren Ausschreibungsprozess zu skalieren?** Nachdem Sie die Browserversion für eine einzelne Projektkalkulation getestet haben, [laden Sie die wiederverwendbare Excel-Kalkulationsarbeitsmappe herunter](https://theseusworkshop.com/l/odfkie?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=aia-construction-cost-tracker), um Ihre standardisierten Vorlagen zu sichern, Ihre proprietäre Kostenbibliothek zu speichern und das Tool wiederholt für alle zukünftigen Bauausschreibungen zu nutzen.
+### Schritt 3: Automatisch erzeugte AIA-Kalkulation & Gewinn-Dashboard prüfen
+Öffnen Sie die **Calculation Engine** und das **Executive Summary Dashboard**.
+* **Automatisches Ergebnis:** Die Vorlage berechnet sofort die gesamten **Direktkosten**, die **Zuordnung der Lohnnebenkosten**, die **Mietansätze für Geräte** und den **Gesamtangebotspreis**. Mehrteilige Baugruppen werden automatisch in detaillierte Material- und Arbeitsaufschlüsselungen aufgelöst.
 
----
+### Schritt 4: Lokale Daten mit einem Klick einfügen & Angebote unbegrenzt wiederverwenden (Excel-Engine herunterladen)
+Die Kostenrechnung im Bau, die WBS-Margenverteilung und die mehrstufige Aufschlagsmathematik sind komplex – doch Sie müssen die Rechenlogik im Hintergrund nie anfassen.
 
-## Warum ich diesen Rahmen für die Baukalkulation entwickelt habe
+Diese **Excel-Arbeitsmappe für die Baukalkulation** ist mit dynamischen Zuordnungsregeln und selbst erweiternden Formeln vorgefertigt. **Sie müssen nicht einmal Zellecken doppelklicken oder Formeln nach unten ziehen.** Laden Sie einfach die Datei `.xlsx` auf Ihren Rechner, fügen Sie Ihre eigenen Projektdaten in die Eingabetabelle ein und sehen Sie sich in weniger als 1 Minute die vollständige finanzielle Auswertung an:
+* **Entscheidungsfeedback in 1 Minute – auch für Nicht-Fachleute:** Selbst ohne Vorkenntnisse in Tabellenmodellierung oder Finanzanalyse zeigt das Einfügen Ihrer Zahlen sofort Kostenüberschreitungen, arbeitsintensive Gewerke und die exakten Gewinnmargen auf.
+* **Konzentration auf gewonnene Aufträge in der Hochphase der Ausschreibungen:** Hören Sie auf, Abende mit der Fehlersuche bei defekten `#REF!`-Fehlern oder dem Neubau von VLOOKUP-Tabellen zu verbringen. Überlassen Sie die Datenanalyse mit einem Klick der automatisierten Vorlage, damit Sie sich auf die Verhandlung von Nachunternehmerangeboten, die Leitung der Baustellen und den Abschluss profitabler Verträge konzentrieren können.
 
-Viele **Arbeitsmappen für Bauausschreibungen** wirken detailliert, versagen jedoch genau in dem Moment, in dem Entscheidungen teuer werden: beim Angebotsabgleich und bei der Ausführung.
-
-Bei der **Baukalkulation** geht es selten darum, Zahlen in Zellen zu tippen. Der schwierige Teil ist, einen konsistenten Denkprozess über Dutzende von CSI-MasterFormat-Gewerke aufrechtzuerhalten und gleichzeitig sicherzustellen, dass jeder Dollar noch zu seinem Ursprungsplan zurückverfolgt werden kann.
-
-Eine alltägliche Situation veranschaulicht das Problem:
-Ein Generalunternehmer erhält ein neues Ausschreibungspaket für eine gewerbliche Betonplattenfundament. Anstatt eine standardisierte **Software zur Einheitspreiskalkulation** zu verwenden, dupliziert der Kalkulator eine alte Tabelle, löscht irrelevante Zeilen, fügt neue harte Kosten manuell ein und hofft, dass keine kritischen Arbeitsstunden übersehen wurden.
-
-Die Kalkulation mag vollständig aussehen, aber niemand kann einfache betriebliche Fragen sicher beantworten:
-- Welche Rohbau-Baugruppen haben diese spezifische Materialkosten verursacht?
-- Wie viel von Gewerk 03 (Beton) ist reine Arbeitsbelastung?
-- Welche Annahmen zu Lieferkettenmaterialien haben sich seit dem letzten Angebot geändert?
-- Kann diese Pauschalkalkulation nächsten Monat zur Work-in-Progress (WIP)-Basislinie werden?
-
-Diese Arbeitsmappe wurde entwickelt, um diese Denkweise zu produktivieren. Anstatt Kalkulationen Projekt für Projekt neu aufzubauen, werden dieselbe standardisierte **Cost Library** und **Assembly Library** zu wiederverwendbaren Analyseassets.
-
-**Vorher:** Ein Angebot über 1,8 Mio. $ wirkt wettbewerbsfähig, aber Arbeitskräfte machen 52 % der gesamten direkten Kosten aus, weil mehrere Baugruppen aus einem veralteten Tariflohnplan kopiert wurden.
-
-**Nachher:** Die Arbeitsmappe trennt Arbeitskräfte, Material, Geräte und Nachunternehmerangebote sofort. Aktualisierte Lohnsätze senken die direkten Arbeitskosten um 9 % und führen zu einem äußerst wettbewerbsfähigen Angebot bei Wahrung der Zielgewinnmargen.
+> 🚀 **Machen Sie aus 4 Stunden Tabellenarbeit einen Copy-and-Paste-Workflow von 1 Minute:** Nachdem Sie den Workflow im Browser getestet haben, [laden Sie die vollständige wiederverwendbare Excel-Arbeitsmappe für die AIA-Baukalkulation herunter (.xlsx)](https://theseusworkshop.com/l/odfkie?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=aia-construction-cost-tracker), um Ihre private Einheitspreisdatenbank zu speichern, eigene Gewerke-Baugruppen für unbegrenzt viele künftige Angebote wiederzuverwenden und sofort eine betriebswirtschaftliche Kostenanalyse offline zu erzeugen.
 
 ---
 
-## Häufige Probleme der Baukalkulation, die dies löst
+## Geschäftslogik & Methodik: Versteckte Gewinnblindspots von Bauunternehmern beseitigen
 
-| Problempunkt der Baukalkulation | Legacy-Tabellenmethoden | Lösung der AIA-Excel-Kalkulationsvorlage |
-|------------------------------------|----------------------------|----------------------------------------|
-| **Jede Kalkulation beginnt bei null** | Frühere Projekte werden manuell kopiert, was zu gebrochenen Formeln und inkonsistenten PSP-Strukturen führt. | Die **standardisierte Assembly Library** ermöglicht schnelle, fehlerfreie Projekterstellung basierend auf historischen Daten. |
-| **Direkte und indirekte Kosten vermischen sich** | Die Kostenzusammensetzung (Material vs. Arbeitskräfte) kann für Value Engineering nicht präzise analysiert werden. | Die **parametrische Kategorieverfolgung** hält jede Kostendimension separat nachverfolgbar. |
-| **Angebotswerte können nicht zu Ausführungsbudgets werden** | Projektteams müssen das Schedule of Values nach Auftragsvergabe von neuem erstellen. | Das endgültige Angebot geht automatisch in die **anfängliche Projektkosten-Basislinie** für WIP-Berichte über. |
-| **Historische Kalkulationen können nicht benchmarked werden** | Fragmentierte Layouts verhindern sinnvolles Benchmarking der Kosten pro Quadratfuß über Aufträge hinweg. | Die **standardisierte Kostenaufschlüsselungsstruktur (KBS)** unterstützt den Vergleich auf Makroebene über alle Unternehmensprojekte. |
-| **SmartSheet- und ERP-Importe erfordern umfangreiche Nachbereitung** | Manuelle Spaltenzuordnung erhöht den Verwaltungsaufwand und riskiert Datenverlust. | **Standardisierte CSV-Exportfelder** reduzieren den Systemintegrationsaufwand drastisch. |
-| **Angebotsvorbereitung ist auf einen Senior-Kalkulator beschränkt** | Ausschreibungslogik und Preiswissen bleiben in persönlichen, nicht geteilten Excel-Dateien gefangen. | Die **Kalkulationslogik wird zu einem wiederholbaren Unternehmensasset**, zugänglich für Junior-Kalkulatoren und Projektmanager. |
+Die meisten kleinen Bauunternehmer, neuen Kalkulatoren und Inhaber von Gewerbebetrieben verlieren Geld mit Aufträgen, die sie *für profitabel hielten*. Der Verlust entsteht selten durch schlechte handwerkliche Ausführung auf der Baustelle – er entsteht bei der Angebotserstellung, verursacht durch drei objektive finanzielle Blindspots, die in gewöhnlichen, unstrukturierten Tabellen angelegt sind:
 
----
+### 1. Die Rechenfalle aus Aufschlag vs. Bruttomarge (Blindspot bei der Preisbildung)
+* **Der sachliche Befund:** Ein **Aufschlag** von 20 % auf Ihre Baukosten ergibt **keine** Gewinnmarge von 20 % – mathematisch entsteht daraus nur eine **Bruttomarge von 16,67 %** ($\text{Margin} = \frac{\text{Markup}}{1 + \text{Markup}}$). Kalkuliert ein Bauunternehmer ein Umbauprojekt über 500.000 $ mit dem Faktor 1,20 auf die harten Kosten, verliert er sofort 16.650 $ an erwartetem Gewinnpolster – bevor auch nur ein Nagel eingeschlagen wird.
+* **Wie die Arbeitsmappe das löst:** Die Berechnungsengine trennt **direkte harte Kosten**, **allgemeine Geschäftskosten / Gemeinkosten**, **Risikoreserven** und **Zielgewinn** explizit voneinander. Sie sehen den tatsächlichen Aufschlagsprozentsatz und die tatsächliche Bruttomarge in Prozent gleichzeitig und in Echtzeit – das schützt Ihre Deckungsbeiträge vor unerwarteten Nachträgen.
 
-## Für wen dies bestimmt ist (Rollen & Softwareanforderungen)
+### 2. Nicht erfasste Lohnnebenkosten & verzerrte Mischkosten (Blindspot bei der Kalkulation)
+* **Der sachliche Befund:** Wer mit dem reinen Stundenlohn kalkuliert (z. B. 35 $/Stunde für einen Zimmerer) statt mit **vollständig belasteten Arbeitskosten** (46–52 $/Stunde nach Lohnsteuerabgaben, Arbeitsunfallversicherung, Arbeitslosenversicherung, bezahltem Urlaub und nicht abrechenbarer Werkzeugeinrichtung), zehrt stillschweigend 8 % bis 15 % des Nettoprojektgewinns auf. Wenn Bauunternehmer zudem Arbeitskräfte, Material und Geräte in einer einzigen Zelle zusammenfassen, können sie nicht erkennen, welcher Kostentreiber das Angebot in die Höhe treibt.
+* **Finanzielle Auswirkung in der Praxis:**
+  * **Vor Anwendung dieser Methodik:** Ein Generalunternehmer erstellt ein **Angebot über 1,8 Mio. $ für eine gewerbliche Betonbodenplatte**. Das Angebot wirkt auf den ersten Blick wettbewerbsfähig, doch **die Arbeitskosten machen 52 % der gesamten Direktkosten aus**, weil der Kalkulator Zeilen aus einer veralteten Tariflohn-Tabelle kopiert hat, in der Arbeits- und Betonmaterialkosten vermischt waren.
+  * **Nach Anwendung dieser Arbeitsmappe:** Die Vorlage trennt **Arbeitskräfte**, **Material**, **Geräte** und **Nachunternehmer** automatisch in getrennte Kostenbereiche. Die Aktualisierung der zentralen **Cost Library** mit aktuellen Lohnnebenkostensätzen senkt die direkte Arbeitskostenzuordnung um **9 %** und erzeugt so ein präziseres, wettbewerbsfähiges Angebot, während die Zielgewinnmarge gesichert bleibt.
 
-Diese Vorlage wurde sorgfältig entwickelt, um die spezifischen betrieblichen Abläufe wichtiger Bauprofis abzubilden:
-
-- **Generalunternehmer (GU):** Auf der Suche nach einer *Vorlage für gewerbliche Bauausschreibungen*, um Wettbewerbsangebote und Nachunternehmer-Angebotsabgleich zu verwalten, ohne für Procore zu zahlen.
-- **Baukalkulatoren:** Brauchen ein *Excel-Tool zur Verwaltung mehrerer Angebote*, um mehrere Ausschreibungsfristen gleichzeitig zu jonglieren und dabei eine einzige Quelle der Wahrheit für Materialpreise zu behalten.
-- **Massenermittler (QS):** Auf der Suche nach *Software zur Massenermittlung & BOQ (Bill of Quantities)*, um wiederverwendbare Kalkulationsstandards über Unternehmensportfolios hinweg zu pflegen.
-- **Kleine bis mittlere Baufirmen (KMU):** Suchen nach *Tabellen zur Baustellen-Kostenrechnung*, um strukturierte Kostenplanung ohne schwere ERP-Plattformen zu erreichen.
-- **Projektmanager (PM):** Benötigen eine *Vorlage für Projektbudget-Abweichungen & Kostenverfolgung*, um Kalkulations-Basislinien für künftiges Earned Value Management (EVM) zu etablieren.
-
-*(Hinweis: Diese Arbeitsmappe ist **nicht** dafür ausgelegt, Cloud-ERPs für Unternehmen, Echtzeit-Kollaborationsplattformen oder Multi-User-CAD-Integrationen zu ersetzen. Sie ist eine fokussierte, Hochgeschwindigkeits-Kalkulationsmaschine.)*
+### 3. Das schwarze Loch „Pauschale bis zur Baustelle" (Blindspot bei der Ausführung)
+* **Der sachliche Befund:** Viele Kalkulatoren erstellen ein Angebot nur, um am Seitenende einen Endpreis zu erhalten. Ist der Auftrag gewonnen, lässt sich dieses unübersichtliche Kalkulationsblatt nicht mehr zur Verfolgung der tatsächlichen Ausgaben auf der Baustelle nutzen. Wenn der Betriebsinhaber merkt, dass ein Rohbau- oder Elektropaket 25 % über dem Budget liegt, ist das Geld bereits ausgegeben.
+* **Wie die Arbeitsmappe das löst:** Jede bei der Mengenermittlung eingegebene Position wird automatisch einem standardisierten **Projektstrukturplan (WBS)** und einem **AIA-Leistungsverzeichnis (SOV)** zugeordnet. In dem Moment, in dem Sie den Auftrag gewinnen, wird Ihre Kalkulation zu Ihrer **ursprünglichen Projektkosten-Basislinie** – damit haben Sie ab Tag 1 einen sofortigen Maßstab, um kalkulierte Kosten mit tatsächlichen Baustellenrechnungen zu vergleichen.
 
 ---
 
-## Kalkulationsszenarien & Anwendungsfälle für Bauausschreibungen
+## Vergleich: Manuelle Bauunternehmer-Tabellen vs. automatisierte AIA-Kalkulationsarbeitsmappe
 
-Unsere Nutzer setzen diese Arbeitsmappe erfolgreich über verschiedene Spezialgewerke und Projektabwicklungsmethoden hinweg ein:
-
-- **Design-Build & Eigenheimbau:** Passen Sie Oberflächen, Flächenparameter und Aufschlagprozentsätze während Kundenverhandlungen schnell an, um sofort überarbeitete Angebote zu generieren.
-- **TGA (Mechanik, Elektrik, Sanitär)-Kalkulation:** Verwalten Sie komplexe Baugruppen, bei denen Arbeitsstunden stark von Linearmaß-Messungen und spezifischen Komponentenzahlen bestimmt werden.
-- **Beton- und Tiefbau:** Trennen Sie präzise Schwergeräte-Mietkosten (Kräne, Bagger) von Rohmaterialerträgen (Kubikmeter Beton, Bewehrungsstahl-Tonnage).
-- **Renovierung & Umbau:** Isolieren Sie Abbruchkosten einfach und verfolgen Sie Eventualitätsreserven für unvorhergesehene Standortbedingungen.
+| Herausforderung bei Baukalkulation & Kostenkontrolle | Manuelle / alte Excel-Tabellen | Diese automatisierte AIA-Baukalkulationsvorlage |
+| :--- | :--- | :--- |
+| **Ein neues Angebot oder eine neue Ausschreibung starten** | Kalkulatoren duplizieren alte Projektdateien, löschen Zeilen manuell und beschädigen dabei versehentlich `SUM`- und `VLOOKUP`-Formeln. | Die **wiederverwendbare Kosten- & Baugruppenbibliothek** erzeugt in Sekunden fehlerfreie Kalkulationen aus historischen Einheitspreisen. |
+| **Harte vs. weiche Kosten analysieren** | Materialausbeute, Arbeitsstunden und Gerätetagessätze liegen gemischt in flachen Zeilen – **Value Engineering** ist damit unmöglich. | Die **parametrische Kostenträgerverfolgung** trennt Arbeits-, Material-, Geräte- und Nachunternehmerkosten in jedem CSI-Gewerk. |
+| **Angebote in Auftragskostenbudgets umwandeln** | Projektleiter müssen das gewonnene Angebot nach der Auftragserteilung manuell in ein separates **Leistungsverzeichnis (SOV)** übertragen. | Der **automatische Übergang in die Basislinie** macht aus der finalen Ausschreibung eine AIA-konforme **Projektbudget-Basislinie** für die WIP-Verfolgung. |
+| **Kosten pro Quadratfuß vergleichen** | Uneinheitliche Register und eigene Spalten verhindern den Vergleich historischer **Kosten-pro-Quadratfuß**-Kennzahlen über frühere Aufträge hinweg. | Die **standardisierte Kostenstruktur (CBS)** ermöglicht sofortiges Kosten-Benchmarking auf Makroebene über Ihr gesamtes Projektportfolio. |
+| **Export nach Procore, Buildertrend oder SmartSheet** | Erfordert Stunden manueller Spaltenumstrukturierung, Texttrennung und CSV-Formatierung vor dem Upload. | **Vorzugeordnete Exportfelder für ERP & SmartSheet** ermöglichen die Ein-Klick-Integration per Copy-and-Paste in Projektmanagement-Plattformen. |
+| **Kalkulation an Nachwuchskräfte delegieren** | Preiswissen und Aufschlagsregeln bleiben im Kopf des Inhabers oder des erfahrenen Kalkulators eingeschlossen. | Die **selbsterklärende Eingabearchitektur** befähigt junge Kalkulatoren, Büroleiter oder Bauleiter zu standardisierten, prüffähigen Angeboten. |
 
 ---
 
-## Über
+## Für wen das gedacht ist: Rollen im Bau, Suchintentionen & Anwendungsfälle
 
-Ich erstelle leichtgewichtige Betriebs-Arbeitsmappen für Situationen, in denen es einfach zu viele bewegliche Teile gibt, um sie alle gleichzeitig im Blick zu behalten.
+Diese Arbeitsmappe ist für Bauexperten konzipiert, die die analytische Tiefe spezialisierter Kalkulationssoftware mit der Geschwindigkeit und der lernkurvenfreien Einfachheit von Microsoft Excel benötigen:
 
-Anstatt Unternehmenssoftware zu ersetzen, organisieren diese Tools die Informationen, die für die nächste betriebliche Entscheidung mit Vertrauen erforderlich sind.
+- **Kleine und wachsende Generalunternehmer (GU):** Sie suchen eine **Vorlage für gewerbliche und private Bauangebote**, um wettbewerbliche Ausschreibungen zu standardisieren, Nachunternehmerangebote zu vergleichen und professionelle Kundenangebote zu erstellen, ohne über 500 $/Monat für Enterprise-Procore-Lizenzen zu zahlen.
+- **Erstmalige und junge Baukalkulatoren:** Sie benötigen eine **einfach zu bedienende Excel-Tabelle für die Baukalkulation** mit vorgefertigten Formeln, um mehrere Ausschreibungsfristen gleichzeitig zu bewältigen und dabei eine einzige verlässliche Quelle für Material- und Arbeitspreise zu behalten.
+- **Gewerke-Nachunternehmer (Beton, Rohbau, TGA, Trockenbau, Dach):** Sie suchen einen **gewerkespezifischen Arbeits- und Materialrechner**, um Planquadratmeter und Längenmaße schnell in präzise Kolonnenstunden, Materialverschnittfaktoren und profitable Angebotspreise umzurechnen.
+- **Baukostenplaner (QS) & unabhängige Kostenberater:** Sie suchen eine **Excel-Arbeitsmappe für Mengenermittlung (QTO) und Leistungsverzeichnis (BOQ)**, um wiederholbare **CSI MasterFormat**- und **AIA-Abrechnungsstandards** über Kundenportfolios hinweg durchzusetzen.
+- **Bauherren von individuellen Wohnhäusern & Renovierer im Wohnungsbau:** Sie benötigen eine **Tabelle zur Kalkulation von Hausbaukosten und Renovierungsbudgets**, um Ausstattungen, Quadratmeteransätze und Aufschlagsprozentsätze während Kundenterminen live anzupassen.
+- **Bauprojektleiter (PM) & Bauleiter:** Sie benötigen eine **Vorlage zur Auftragskalkulation und Verfolgung von Budgetabweichungen**, um klare Kostenbasislinien festzulegen und **Earned Value Management (EVM)** in der Ausführung auf der Baustelle zu unterstützen.
 
-Die **AIA-Arbeitsmappe für Baukalkulation & Kostenverfolgung** ist ein Beispiel für diesen Ansatz. Sie kombiniert standardisierte Kalkulationslogik, wiederverwendbare Kostenstrukturen und praktische Projektkontrollen in einer Excel-Arbeitsmappe, die einfach genug für die tägliche Bauarbeit bleibt.
+*(Transparenzhinweis: Dieses Tool ist **kein** Mehrbenutzer-Cloud-ERP, kein Buchhaltungshauptbuch und kein 3D-BIM/CAD-Planbetrachter. Es ist eine schnelle, wartungsfreie Engine für Finanzberechnung und Kostenverfolgung.)*
+
+---
+
+## Sofort einsetzbare Szenarien für die Baukalkulation & gewerkespezifische Angebotsworkflows
+
+Bauunternehmer und Kalkulatoren setzen diese **parametrische Excel-Kalkulationsvorlage** bei unterschiedlichsten Projektabwicklungsmodellen und Fachgewerken ein:
+
+### 1. Individueller Wohnhausbau & Design-Build-Angebote
+Passen Sie Quadratmeterparameter, Ausstattungsbudgets für Küche und Bad sowie **Gemeinkosten- und Gewinnaufschläge des Generalunternehmers** während der Budgetbesprechung mit dem Kunden spontan an – und erzeugen Sie in Sekunden aktualisierte **Leistungsverzeichnis**-Zusammenfassungen.
+
+### 2. TGA-Kalkulation (Heizung, Lüftung, Sanitär & Klima)
+Verwalten Sie mehrteilige **Baugruppen**, bei denen Montagestunden und Kolonnenproduktivität stark von der Leitungslänge für Kabel und Rohre, der Anzahl der Objekte und den Kosten für die Montage spezieller Geräte abhängen.
+
+### 3. Betonflächen, Fundamente & schwerer Tief- und Infrastrukturbau
+Trennen Sie sauber die Miet- und Eigentumssätze schwerer Geräte (Bagger, Betonpumpen, Kräne) von den Rohstoffmengen der Ermittlung (Kubikyard Transportbeton, Bewehrungsstahltonnage, Schalungsquadratmeter) und den Lohnnebenkosten nach Tariflohn.
+
+### 4. Gewerbliche Mieterausbauten (TI), Renovierung & Umbau
+Isolieren Sie selektive Abbrucharbeitskosten, Entsorgungsgebühren und Zuschläge für Nachtarbeit in Bauphasen und verfolgen Sie gleichzeitig dedizierte **Risikoreserven** für unvorhergesehene strukturelle oder baustellenbedingte Umstände.
+
+---
+
+## Häufig gestellte Fragen (FAQ zur Baukalkulation in Excel)
+
+**F: Benötige ich fortgeschrittene Excel-Kenntnisse oder eine VBA-Makrokonfiguration, um diese Vorlage zu nutzen?**
+**A:** Nein. Alle Formeln, Kostenverdichtungen und WBS-Zusammenfassungen sind mit nativen Standard-Excel-Funktionen vorgefertigt. Es sind keine fragilen VBA-Makros zu aktivieren, und Sie müssen niemals Formeln schreiben oder nach unten ziehen – fügen Sie einfach Ihre Mengen und Einheitspreise in die Eingabezellen ein.
+
+**F: Kann ich die Kostenstellen für CSI MasterFormat oder meine eigenen Gewerbekategorien anpassen?**
+**A:** Ja. Die **Cost Library** und die **Assembly Library** sind zu 100 % entsperrt und anpassbar. Sie können die standardisierten **CSI MasterFormat-Codes** mit 16 oder 50 Gewerken, die Kategorien des **AIA G702/G703-Leistungsverzeichnisses** oder die internen Buchhaltungskostenstellen Ihres Unternehmens verwenden.
+
+**F: Funktioniert das sowohl in Microsoft Excel als auch in Google Sheets?**
+**A:** Sie können die interaktive Webversion kostenlos in jedem Browser testen. Die herunterladbare Arbeitsmappe `.xlsx` ist für **Microsoft Excel (Windows & Mac)** optimiert und lässt sich zusätzlich in Google Sheets für die einfache Anzeige in der Cloud importieren.
+
+---
+
+## Über Theseus Workshop
+
+Ich entwickle leichtgewichtige, sofort einsatzbereite operative Excel-Arbeitsmappen und finanzielle Entscheidungsengine für Unternehmer, Kalkulatoren und Betreiber, die klare Antworten brauchen – ohne den Ballast von Enterprise-Software.
+
+Statt Sie durch wochenlanges Software-Onboarding zu zwingen, folgt jedes Tool einem einzigen Prinzip: **Reiner Nutzen. Null Ballast.** Fügen Sie Ihre operativen Daten ein, lassen Sie die vorgefertigte kaufmännische Logik die Mathematik automatisch erledigen und treffen Sie Ihre nächste Geschäftsentscheidung mit voller Sicherheit.
+
+Die **AIA Construction Estimating & Cost Tracking Workbook** ist Teil einer umfassenderen Sammlung von Toolkits für gewerbliche Kalkulation, Liquiditätssteuerung und Finanzmodellierung.
+
+- 🏠 **Alle Business-Decision-Toolkits & Excel-Vorlagen entdecken:** [Besuchen Sie den offiziellen Theseus Workshop Store auf Gumroad (theseusworkshop.com)](https://theseusworkshop.com?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20about%20section&utm_content=aia-construction-cost-tracker)
+- 📥 **Diese Baukalkulations-Arbeitsmappe erhalten:** [Laden Sie die vollständige Excel-Vorlage für AIA-Baukalkulation & Kostenverfolgung herunter (.xlsx)](https://theseusworkshop.com/l/odfkie?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=aia-construction-cost-tracker)
+- 🌐 **Zuerst den Web-Rechner testen:** [Öffnen Sie die kostenlose browserbasierte Baukalkulations-App](https://hyvoid.github.io/aia-construction-cost-tracker-excel/)
 
 ---
 
@@ -136,7 +164,7 @@ Die **AIA-Arbeitsmappe für Baukalkulation & Kostenverfolgung** ist ein Beispiel
 
 <details>
 
-<summary><strong>Für technische Prüfer, Excel-Praktiker und Mitarbeiter</strong></summary>
+<summary><strong>Für technische Prüfer, Excel-Anwender und Mitwirkende</strong></summary>
 
 ## Architektur der Arbeitsmappe
 
@@ -544,27 +572,29 @@ Die Empfehlung ist, die Arbeitsproduktivitätsannahmen vor Angebotsabgabe zu üb
 
 ---
 
-## Weitere Tools in dieser Serie
+## Weitere Tools dieser Reihe
 
-Die **AIA-Arbeitsmappe für Baukalkulation & Kostenverfolgung** ist Teil einer wachsenden Sammlung leichtgewichtiger betrieblicher Entscheidungsunterstützungs-Tools für Profis, die strukturierte Analyse ohne Unternehmenssoftware benötigen.
+Die **AIA Construction Estimating & Cost Tracking Workbook** ist Teil einer wachsenden Sammlung leichtgewichtiger operativer Entscheidungshilfen für Fachleute, die strukturierte Analysen benötigen, ohne Enterprise-Software einzuführen.
 
 | Tool | Zweck |
 |------|---------|
-| **Construction Estimating System** | Kalkulation, Baugruppen und Angebotsvorbereitung standardisieren. |
-| **Construction Project Financial Dashboard** | Projektbudgets, Cashflow, Abschlagsrechnungen und Rentabilität überwachen. |
-| **Inventory Forecasting & Reorder Planner** | Nachfrage prognostizieren und Nachschubentscheidungen mit Excel optimieren. |
-| **Procurement & Vendor Performance Tracker** | Lieferantenpreise, Vorlaufzeiten und Einkaufsleistung vergleichen. |
-| **Project Portfolio Control Dashboard** | Projektfinanzen und Ausführungsstatus über mehrere Aufträge konsolidieren. |
-| **Cost Variance Analysis Workbook** | Kalkulation-vs.-Ist-Leistung analysieren und Kostenüberschreitungen identifizieren. |
-| **Operations KPI Dashboard** | Wiederkehrendes Management-Reporting aus standardisierten Betriebsdaten aufbauen. |
+| **Construction Estimating System** | Kostenkalkulation, Baugruppen und Angebotsvorbereitung standardisieren. |
+| **Construction Project Financial Dashboard** | Projektbudgets, Liquidität, Abschlagsabrechnung und Rentabilität überwachen. |
+| **Inventory Forecasting & Reorder Planner** | Bedarf prognostizieren und Nachbestellentscheidungen mit Excel optimieren. |
+| **Procurement & Vendor Performance Tracker** | Lieferantenpreise, Lieferzeiten und Einkaufsleistung vergleichen. |
+| **Project Portfolio Control Dashboard** | Projektfinanzen und Ausführungsstatus über mehrere Aufträge hinweg konsolidieren. |
+| **Cost Variance Analysis Workbook** | Kalkulation-vs.-Ist-Leistung analysieren und Kostenüberschreitungen erkennen. |
+| **Operations KPI Dashboard** | Wiederkehrendes Management-Reporting aus standardisierten operativen Daten aufbauen. |
 
-Weitere Tools werden nach denselben Prinzipien sowohl als **Browser (HTML)**- als auch als **Excel**-Editionen veröffentlicht:
+Weitere Tools werden sowohl als **Browser-(HTML)**- als auch als **Excel**-Edition nach denselben Prinzipien veröffentlicht:
 
-- Keine Registrierung.
-- Keine Installation.
-- Kostenloser Browserzugang.
-- Native Excel-Arbeitsmappe.
-- Wiederverwendbarer betrieblicher Rahmen statt Einmal-Tabellen.
+- **[DIN-743-Shaft-Calculations](https://github.com/HyVoid/DIN-743-Shaft-Calculations)** — Erfüllt die Wellenkonstruktion die maßgebliche Berechnungslogik? — DIN 743-Berechnungsstandards auf Konstruktionsentscheidungen im Engineering anwenden.
+- **[construction-estimating](https://github.com/HyVoid/construction-estimating)** — Was kostet dieser Bauleistungsumfang unter den aktuellen Annahmen? — Die Kalkulation von Bauausschreibungen standardisieren und abgeschlossene Kalkulationen in wiederverwendbare Kostenbibliotheken überführen.
+- **[construction-project-management-excel](https://github.com/HyVoid/construction-project-management-excel)** — Ist die finanzielle Projektlage nach Berücksichtigung genehmigter Änderungen, Ist-Kosten und Abrechnungsfortschritt korrekt? — Budgets, Nachträge, Abschlagsabrechnung und Liquidität in einem einheitlichen Steuerungsrahmen für Bauprojekte zusammenführen.
+- **[industrial-energy-tco-calculator](https://github.com/HyVoid/industrial-energy-tco-calculator)** — Welche Energieoption bietet für dieses konkrete Projekt unter seinen tatsächlichen Betriebsbedingungen die niedrigsten Gesamtbetriebskosten? — Industrielle Energiequellen auf Basis der tatsächlich nutzbaren Energie vergleichen, indem Brennstoffkosten, Anlageneffizienz, Infrastrukturinvestitionen und Lebenszykluskosten normalisiert werden.
+- **[residential-boq-template](https://github.com/HyVoid/residential-boq-template)** — Was kostet dieses Wohnprojekt und welche Gewerke liegen bereits über dem Budget? — Baukosten für Wohngebäude aus BOQ-Mengen und -Sätzen kalkulieren und dabei genehmigte Budgets mit den tatsächlichen Ausgaben abgleichen.
+- **[tunnel-cost-estimator-boq-excel](https://github.com/HyVoid/tunnel-cost-estimator-boq-excel)** — Was kostet dieses Bohr- und Sprengtunnelprojekt unter dem angenommenen Bauzyklus? — Aushub, Bohren, Sprengen, Ausbau, Geräte und Arbeitskräfte für Bohr- und Sprengtunnel zu vollständigen Projektkosten und einem BOQ kalkulieren.
+- **[Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit](https://github.com/HyVoid/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit)** — Wie hoch sind die gesamten Material- und Bewehrungskosten für den Gründungsunterbau, und lässt sich jeder kaufmännische Angebotswert bis auf die gemessenen Maße zurückverfolgen? — Betonvolumina, Schalungsflächen, Erdbau mengen und Bewehrungsgewicht über automatisierte Bewehrungslisten sowie kaufmännische Leistungsverzeichniswerte aus gemessenen Konstruktionsmaßen berechnen.
 
 ---
 
@@ -739,5 +769,3 @@ Anstatt eine weitere isolierte Kalkulation zu erstellen, schafft sie eine strukt
 Ob über den Browser oder in Excel geöffnet, das Ziel bleibt dasselbe:
 
 **Machen Sie Baukalkulation schneller, konsistenter und einfacher zu vertrauen.**
-
-
