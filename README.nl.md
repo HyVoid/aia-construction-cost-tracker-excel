@@ -1,142 +1,170 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
-# AIA Excel-werkmap voor bouwcalculatie & kostenbewaking | Sjabloon voor bouwinschrijvingen
+
+# Excel-sjabloon voor kostencalculatie en kostenbewaking in de bouw | Gratis inschrijvingscalculator voor aannemers & AIA-jobcosting-spreadsheet
 <img width="1480" height="826" alt="image" src="https://github.com/user-attachments/assets/4e138b9f-9b00-4dd4-8691-64e0fd76eae9" />
 
+
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
-![Platform](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-success)
-![Tool](https://img.shields.io/badge/Type-Construction%20Decision%20Support-orange)
+![Platform](https://img.shields.io/badge/Platform-Web%20Browser%20%2B%20Microsoft%20Excel-success)
+![Tool](https://img.shields.io/badge/Type-Plug--and--Play%20Construction%20Estimating%20Template-orange)
 
-> **Standaardiseer bouwcalculatie, versnel de voorbereiding van commerciële inschrijvingen en bouw herbruikbare kostenstructuuroverzichten (CBS) op — direct in Excel of in uw browser.**
+> **Stel in 60 seconden nauwkeurige bouwinschrijvingen op, automatiseer de berekening van materiaal- en arbeidshoeveelheden en genereer AIA-klare Schedule of Values (SOV) & Cost Breakdown Structures (CBS) — rechtstreeks in je browser of in Microsoft Excel.**
 
-Zoekt u een betrouwbaar **AIA-sjabloon voor bouwcalculatie**? Deze gratis **werkmap voor bouwkostenbewaking** is ontworpen om hoofdaannemers, calculators en projectmanagers te helpen rekenfouten te elimineren en inschrijvingsprocessen te automatiseren. In plaats van vanaf nul te beginnen, kunt u projectkosten nauwkeurig voorspellen, prijsstelling van onderaannemers beheren en variaties in het bouwbudget volgen zonder complexe, dure ERP-software te implementeren.
+**AIA Construction Estimating & Cost Tracking Excel Workbook** is een plug-and-play **inschrijvingssjabloon voor de bouw**, een **calculatieblad voor aannemers** en een **jobcosting-spreadsheet**, gebouwd voor hoofdaannemers, onderaannemers, beginnende kostencalculeurs en kleine bouwbedrijven. Deze **calculator voor bouwkosten** elimineert handmatige fouten in spreadsheetformules en automatiseert de voorbereiding van commerciële en residentiële aanbestedingen. Kopieer en plak je ruwe cijfers uit de **hoeveelhedenopname (QTO)** om automatisch **directe kosten** te berekenen (loondruk, materiaalrendement, huur van materieel, offertes van onderaannemers), **opslagen voor overhead en winst (O&P)** toe te passen en **budgetafwijkingen per project** te volgen — zonder dure ERP-software te kopen of ingewikkelde calculatieprogramma's te leren.
 
-<img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/b10f2cd2-94a9-44c5-8305-6ed197b23596" />
+<p><strong>Geen installatie. Geen account aanmaken. Gratis interactieve webcalculator + downloadbare native Excel-werkmap (.xlsx).</strong></p>
 
-**Geen aanmelding. Geen installatie. Gratis in uw browser.**
+Test je projectcijfers eerst in de gratis calculatietool in de browser. Ben je klaar om eigen prijslijsten op te slaan en terugkerende inschrijvingen offline te draaien, download dan de volledige geautomatiseerde Excel-werkmap — met 30 dagen niet-goed-geld-terug-garantie, zonder vragen.
 
-Probeer de browsergebaseerde applicatie voor bouwcalculatie gratis. Als u de native spreadsheetomgeving nodig hebt voor geavanceerde datamodellering, kunt u de Excel-versie aanschaffen met 30 dagen niet-goed-geld-terug-garantie.
-
-> 🌐 **browser app:** [Test the Free Construction Estimating Browser App](https://hyvoid.github.io/aia-construction-cost-tracker-excel/)
+> 🌐 **Gratis online calculator:** [Start de gratis interactieve webapp voor kostencalculatie en inschrijving in de bouw (direct toegankelijk in de browser)](https://hyvoid.github.io/aia-construction-cost-tracker-excel/)
 >
-> 📥 **Download Resource:** [Download the Full Excel Construction Estimating & Tracking Template](https://theseusworkshop.com/l/odfkie?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=aia-construction-cost-tracker)
+> 📥 **Downloadbaar Excel-sjabloon:** [Download de geautomatiseerde AIA Construction Estimating & Cost Tracking Excel-werkmap (.xlsx met vooraf ingebouwde kostenbibliotheek)](https://theseusworkshop.com/l/odfkie?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=aia-construction-cost-tracker)
 
 ---
 
-## What It Helps You Track: Pain Point to Solution Mapping
+## Wat je ermee bijhoudt: knelpunten bij bouwinschrijvingen en hun geautomatiseerde Excel-oplossing
 
-We hebben de meest voorkomende frustraties bij bouwinschrijvingen omgezet in krachtige trackingfuncties, aangedreven door industriestandaard zoek- en rapportagelogica.
+Elke functie in dit **calculatiespreadsheet voor de bouw** koppelt direct aan een dagelijks knelpunt op het gebied van kostenbeheersing of inschrijving waarmee bouwers en gespecialiseerde onderaannemers worstelen:
 
-- **Pain Point:** Rommelige, ongeorganiseerde offertes van onderaannemers en gokwerk met forfaitaire bedragen.
-  - **Solution (Cost Breakdown Structure):** Een uitgebreide **bouwraming** die automatisch wordt uitgesplitst in harde kosten (arbeid, materialen, materieel, onderaanneming) en zachte kosten (algemene kosten, onvoorzien, opslag).
-- **Pain Point:** Geld verliezen door verborgen operationele kosten voordat een inschrijving wordt ingediend.
-  - **Solution (Work Package Analysis):** Directe analyse van de kostenbijdrage van elk **Work Breakdown Structure (WBS)**-pakket om doelmarges te valideren.
-- **Pain Point:** Loskoppeling tussen de gewonnen inschrijving en de werkelijke uitvoering op de werf.
-  - **Solution (Budget Variance Tracking):** Legt een strikte **projectbudgetbasis** vast die geraamde en werkelijke bouwkosten naadloos vergelijkt.
-- **Pain Point:** Dezelfde data opnieuw intypen voor elke nieuwe inschrijving voor beton of ruwbouw.
-  - **Solution (Parametric Estimating):** Herbruikbare **bouwassemblages** en een standaard kostenbibliotheek die repetitief hoeveelhedenwerk (QTO) drastisch verminderen.
-- **Pain Point:** Klanten die inschrijvingen afwijzen vanwege niet-standaard opmaak.
-  - **Solution (AIA Billing Compliance):** Samenvattingen op divisieniveau die zijn gekoppeld aan vertrouwde **AIA-calculatiepraktijken en Schedule of Values (SOV)**.
-- **Pain Point:** Handmatige datainvoer bij de overstap naar projectmanagementsoftware.
-  - **Solution (Data Integration):** Gestructureerde projectdata die klaar is voor **SmartSheet-import** of Procore-mapping zonder handmatige herstructurering van cellen.
+| Veelvoorkomend knelpunt bij inschrijving en kostenbewaking in de bouw | Kernfunctie van het spreadsheet & doorzoekbare capaciteit | Hoe dit geautomatiseerde Excel-sjabloon het oplost (geen installatie nodig) |
+| :--- | :--- | :--- |
+| **Rommelige offertes van onderaannemers en riskant giswerk met vaste sommen** | **Geautomatiseerde Cost Breakdown Structure (CBS) & inschrijvingsblad** | Splitst elke **bouwkostencalculatie** in traceerbare **directe kosten** (arbeid, materiaal, materieel, onderaannemers) en **indirecte kosten** (overhead, onvoorziene reserve, winstopslag). |
+| **Geld verliezen door verborgen loondruk en niet-toegerekende overhead** | **Work Breakdown Structure (WBS) & margesvalidator** | Voert directe diagnoses uit op kostenaandeel en brutomarge voor elk werkpakket, nog vóór je een commerciële of residentiële aanbesteding indient. |
+| **Kloof tussen de winnende inschrijving en de werkelijke jobcosting op de werf** | **Tracker voor budgetafwijkingen en WIP-basislijn** | Zet je ondertekende inschrijving direct om in een vast **projectbudget als basislijn**, om geraamde en werkelijke bouwkosten te vergelijken voor **Work-in-Progress (WIP)**-boekhouding. |
+| **Steeds opnieuw dezelfde eenheidsprijzen intypen voor elke beton-, ruwbouw- of MEP-inschrijving** | **Parametrische assemblagecalculatie & bibliotheek met eenheidsprijzen** | Bewaart herbruikbare **bouwassemblages** en standaard eenheidsprijzen (RSMeans / CSI-stijl) om repetitieve invoer bij de **hoeveelhedenopname (QTO)** met 80% te verminderen. |
+| **Opdrachtgevers of financiers die inschrijvingen afkeuren wegens niet-standaard opmaak** | **AIA Schedule of Values (SOV) & CSI-divisiesamenvatting** | Genereert overzichtelijke kostenrollups per divisie, afgestemd op de gangbare **AIA G702/G703-voortgangsdeclaraties** en de **CSI MasterFormat-divisies**. |
+| **Uren verspild aan het omformatteren van cellen voor projectmanagementtools** | **CSV-export voor Procore, Buildertrend & SmartSheet** | Levert schone, gestandaardiseerde projectkostentabellen die direct kunnen worden geïmporteerd in **SmartSheet**, **Procore** of boekhoudsoftware, zonder handmatige kolomopschoning. |
 
 ---
 
-## Quick Start Tutorial: How to Build Your First Construction Estimate
+## Snelstartgids: zo maak je in 1 minuut een bouwkostencalculatie en inschrijvingsvoorstel
 
-Volg deze werkstroom om ruwe bouwtekeningen om te zetten in een professionele bouwinschrijving.
+Volg deze workflow van 4 stappen om ruwe metingen uit tekeningen om te zetten in een aanbesteding die klaar is voor de klant, plus een basislijn voor de jobcosting.
 
-### Step 1: Configure Project Parameters & Schedule of Values (SOV)
-Open het dashboard **Project Setup**. Voer uw metadata van het bouwproject één keer in: projectnaam, hoofddcalculator, inschrijvingsdatum, doelopslagpercentage, reserve voor onvoorzien en klantgegevens. *Action:* Deze parameters fungeren als globale variabelen en vullen automatisch elk schema en elk samenvattingsblad om invoerfouten te voorkomen.
+### Stap 1: Voer de algemene projectparameters, opslag en onvoorziene percentages in
+Open het tabblad **Project Setup**. Voer je basisprojectgegevens één keer in: projectnaam, naam van de calculeur, datum van indiening, het beoogde **opslagpercentage voor overhead en winst (O&P)**, de **onvoorziene reserve** en klantgegevens.
+* **Automatisch resultaat:** Deze invoer werkt als globale variabelen die automatisch elke **Schedule of Values (SOV)**, elke divisiesamenvatting en elk inschrijvingsblad voor de klant vullen — zo voorkom je typefouten door kopiëren en plakken.
 
-### Step 2: Import Quantity Takeoff (QTO) Data
-Ga naar het blad **Estimate Input**. Plak uw bestaande hoeveelhedenmetingen of importeer CSV-exports uit tools zoals Bluebeam of Planswift. *Action:* Koppel uw data aan vooraf gedefinieerde kostencodes. Bestaande ramingen uit boekhoudsoftware of oude hoeveelhedenberekeningsspreadsheets kunnen direct worden gekopieerd en geplakt.
+### Stap 2: Plak de meetgegevens uit de hoeveelhedenopname (QTO) en de eenheidsprijzen
+Schakel over naar het werkblad **Estimate Input**. Kopieer en plak je ruwe **hoeveelhedenstaat (BOQ)** of je meetgegevens uit **Bluebeam Revu**, **PlanSwift**, **Stack** of je bestaande verouderde Excel-opnamebladen.
+* **Automatisch resultaat:** Koppel posten aan vooraf geconfigureerde **CSI MasterFormat-kostencodes** en eenheidstypes (vierkante voet, strekkende voet, kubieke yard, manuren, vaste som) zonder ook maar één formule aan te passen.
+* <img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/b10f2cd2-94a9-44c5-8305-6ed197b23596" />
 
-### Step 3: Generate the AIA Estimate Summary Dashboard
-Schakel over naar de **Calculation Engine** en het **Summary Dashboard**. *Action:* Bekijk hoe de werkmap automatisch directe kosten, materieeltoewijzingen, sociale lasten op arbeid en de totale inschrijvingswaarde berekent. Uw aangepaste assemblage-definities worden direct uitgebreid tot gedetailleerde kostenoverzichten zonder handmatige formules.
 
-### Step 4: Maintain, Reuse, and Export (CTA)
-Wanneer stukprijzen van leveranciers veranderen, hoeft u alleen de **Cost Library** te vernieuwen. Historische assemblages blijven intact voor toekomstige inschrijvingen.
-> **Ready to scale your bidding process?** Nadat u de browserversie hebt getest voor een raming van één project, [Download the Reusable Excel Estimating Workbook](https://theseusworkshop.com/l/odfkie?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=aia-construction-cost-tracker) om uw gestandaardiseerde sjablonen vast te leggen, uw eigen kostenbibliotheek op te slaan en de tool herhaaldelijk te gebruiken voor al uw toekomstige bouwaanbestedingen.
+### Stap 3: Controleer het automatisch gegenereerde AIA-overzicht en het winstdashboard
+Open de **Calculation Engine** en het **Executive Summary Dashboard**.
+* **Automatisch resultaat:** Het sjabloon berekent onmiddellijk de totale **directe kosten**, de **toerekening van loondruk**, de **huurtarieven voor materieel** en de **totale inschrijvingsprijs**. Samengestelde bouwassemblages worden automatisch uitgesplitst in gespecificeerde materiaal- en arbeidsposten.
 
----
+### Stap 4: Lokale gegevens in één klik plakken en inschrijvingen eindeloos hergebruiken (download de Excel-engine)
+Kostenboekhouding in de bouw, WBS-margetoewijzing en meerlagige opslagberekeningen zijn complex — maar je hoeft zelf nooit aan de wiskunde achter de schermen te komen.
 
-## Why I Built This Construction Estimating Framework
+Deze **Excel-werkmap voor kostencalculatie in de bouw** is vooraf gebouwd met dynamische koppelregels en zelfuitbreidende formules. **Je hoeft niet eens op de hoek van een cel te dubbelklikken of formules naar beneden te slepen.** Download het `.xlsx`-bestand naar je bureaublad, plak je eigen projectgegevens in de invoertabel en bekijk binnen 1 minuut de volledige financiële diagnose:
+* **Beslissingsfeedback binnen 1 minuut voor niet-experts:** Zelfs zonder enige achtergrond in spreadsheetmodellering of financiële analyse markeert het plakken van je cijfers meteen kostenoverschrijdingen, arbeidsintensieve divisies en de exacte winstmarges.
+* **Focus op werk winnen tijdens het hoogseizoen van aanbestedingen:** Stop met avonden verspillen aan het repareren van kapotte `#REF!`-fouten of het opnieuw opbouwen van VLOOKUP-tabellen. Laat het geautomatiseerde sjabloon de data-analyse met één klik doen, zodat jij je kunt richten op het onderhandelen over offertes van onderaannemers, het aansturen van de werf en het sluiten van winstgevende contracten.
 
-Veel **werkmappen voor bouwinschrijvingen** lijken gedetailleerd, maar falen precies op het moment dat beslissingen duur worden: tijdens het nivelleren van inschrijvingen en de uitvoering.
-
-**Bouwcalculatie** gaat zelden over het intypen van getallen in cellen. Het moeilijke deel is het handhaven van een consistent denkproces over tientallen CSI MasterFormat-divisies, terwijl elke euro nog steeds herleidbaar blijft tot de oorspronkelijke bouwtekening.
-
-Een veelvoorkomende situatie illustreert het probleem:
-Een hoofdaannemer ontvangt een nieuw aanbestedingspakket voor een commerciële betonvloerfundering. In plaats van gestandaardiseerde **software voor stukprijscalculatie** te gebruiken, dupliceert de calculator een oude spreadsheet, verwijdert irrelevante rijen, voert handmatig nieuwe harde kosten in en hoopt dat er geen kritieke arbeidsuren over het hoofd zijn gezien.
-
-De raming kan compleet lijken, maar niemand kan met vertrouwen eenvoudige operationele vragen beantwoorden:
-- Welke ruwbouwassemblages hebben deze specifieke materiaalkosten gegenereerd?
-- Hoeveel van divisie 03 (Beton) bestaat uit pure sociale lasten op arbeid?
-- Welke aannames over toeleveringsketenmaterialen zijn gewijzigd sinds de vorige inschrijving?
-- Kan deze forfaitaire raming de basis voor Work-in-Progress (WIP) van volgende maand worden?
-
-Deze werkmap is gebouwd om die redenatie te productiseren. In plaats van ramingen project voor project opnieuw op te bouwen, worden dezelfde gestandaardiseerde **Cost Library** en **Assembly Library** herbruikbare analytische activa.
-
-**Before:** Een inschrijving van $1,8 miljoen lijkt concurrerend, maar arbeid vormt 52% van de totale directe kosten omdat verschillende assemblages zijn gekopieerd uit een verouderd CAO-loonschema.
-**After:** De werkmap scheidt arbeid, materiaal, materieel en inschrijvingen van onderaannemers direct. Bijgewerkte arbeidstarieven verlagen de directe arbeidskosten met 9%, wat leidt tot een zeer concurrerende inschrijving met behoud van de doelwinstmarges.
+> 🚀 **Maak van 4 uur spreadsheetwerk een kopieer-en-plakworkflow van 1 minuut:** Heb je de workflow in je browser bekeken, [download dan de volledige herbruikbare AIA Construction Estimating Excel-werkmap (.xlsx)](https://theseusworkshop.com/l/odfkie?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=aia-construction-cost-tracker) om je privé-database met eenheidsprijzen op te slaan, je eigen assemblages per vakgebied te hergebruiken voor onbeperkt veel toekomstige inschrijvingen en offline direct een financiële analyse voor het management te genereren.
 
 ---
 
-## Common Construction Estimating Problems This Solves
+## De bedrijfslogica & methodologie: verborgen winstblinde vlekken bij aannemers elimineren
 
-| Construction Estimating Pain Point | Legacy Spreadsheet Methods | AIA Excel Estimating Template Solution |
-|------------------------------------|----------------------------|----------------------------------------|
-| **Every estimate starts from scratch** | Eerdere projecten worden handmatig gekopieerd, wat leidt tot gebroken formules en inconsistente WBS-structuren. | **Standardized Assembly Library** maakt snelle, foutloze projectaanmaak op basis van historische data mogelijk. |
-| **Direct and Indirect costs blend together** | De kostenopbouw (materialen versus arbeid) kan niet nauwkeurig worden geanalyseerd voor value engineering. | **Parametric Category Tracking** houdt elke kostendimensie afzonderlijk traceerbaar. |
-| **Bid values cannot become execution budgets** | Projectteams moeten de Schedule of Values na gunning van het contract opnieuw opbouwen. | De definitieve inschrijving gaat automatisch over in de **Initial Project Cost Baseline** voor WIP-rapportage. |
-| **Historical estimates are impossible to benchmark** | Gefragmenteerde lay-outs verhinderen zinvolle benchmarking van kosten per vierkante voet tussen projecten. | **Standardized Cost Breakdown Structure (CBS)** ondersteunt vergelijking op macroniveau over alle bedrijfsprojecten. |
-| **SmartSheet & ERP imports require heavy cleanup** | Handmatige kolomtoewijzing verhoogt de administratieve last en riskeert dataverlies. | **Standardized CSV Export fields** verminderen de inspanning voor systeemintegratie drastisch. |
-| **Tender prep is siloed to one senior estimator** | Inschrijvingslogica en prijskennis blijven opgesloten in persoonlijke, niet-gedeelde Excel-bestanden. | **Estimating logic becomes a repeatable company asset**, toegankelijk voor junior calculators en projectmanagers. |
+De meeste kleine aannemers, beginnende calculeurs en eigenaren van gespecialiseerde bedrijven verliezen geld op opdrachten waarvan ze *dachten* dat ze winstgevend waren. Het verlies ontstaat zelden door slecht vakwerk op de werf — het ontstaat tijdens het inschrijven, door drie objectieve financiële blinde vlekken die in gewone, ongestructureerde spreadsheets ingebakken zitten:
 
----
+### 1. De rekvalkuil van opslag versus brutomarge (prijszettingsblinde vlek)
+* **Het objectieve feit:** Een **opslag** van 20% op je bouwkosten levert je **geen** **winstmarge** van 20% op — wiskundig levert dat slechts een **brutomarge van 16,67%** op ($\text{Margin} = \frac{\text{Markup}}{1 + \text{Markup}}$). Als een aannemer een renovatieproject van $500.000 inschrijft door de directe kosten met 1,20 te vermenigvuldigen, verliest hij meteen $16.650 aan verwachte winstruimte, nog voordat er één spijker is geslagen.
+* **Hoe de werkmap dit oplost:** De rekenkern scheidt **directe kosten**, **algemene bouwplaatskosten / overhead**, **onvoorziene reserves** en **doelwinst** expliciet. Je ziet de werkelijke opslag in % en de werkelijke brutomarge in % naast elkaar, in realtime, waardoor je ondergrens beschermd blijft tegen onverwachte meerwerkopdrachten.
 
-## Who This Is For (Roles & Software Needs)
+### 2. Niet-vastgelegde loondruk & vertekening door gemengde kosten (kostenblinde vlek)
+* **Het objectieve feit:** Offreren op basis van het basieuurloon (bijvoorbeeld $35/uur voor een timmerman) in plaats van **volledig belaste arbeidskosten** ($46–$52/uur na werkgeverslasten, arbeidsongeschiktheidsverzekering, werkloosheidsverzekering, doorbetaald verlof en niet-factureerbare tijd voor gereedschap opzetten) vreet stilletjes 8% tot 15% van de netto projectwinst weg. Bovendien kunnen aannemers, wanneer ze arbeid, materiaal en materieel in één cel samenvoegen, niet zien welke kostenfactor de inschrijving opblaast.
+* **Financiële impact in de praktijk:**
+  * **Vóór deze methodologie:** Een hoofdaannemer bereidt een **inschrijving voor een commerciële betonvloer van $1,8 mln** voor. De inschrijving lijkt op het eerste gezicht concurrerend, maar **arbeid vertegenwoordigt 52% van de totale directe kosten**, omdat de calculeur rijen heeft gekopieerd uit een verouderd spreadsheet met cao-lonen waarin arbeids- en betonmateriaalkosten met elkaar vermengd waren.
+  * **Na deze werkmap:** Het sjabloon scheidt automatisch de kostencategorieën **arbeid**, **materiaal**, **materieel** en **onderaannemers**. Het bijwerken van de centrale **kostenbibliotheek** met actuele percentages voor loondruk verlaagt de toerekening van directe arbeid met **9%**, wat een scherpere, winnende inschrijving oplevert terwijl de beoogde winstmarge behouden blijft.
 
-Dit sjabloon is zorgvuldig gebouwd om de specifieke operationele werkstromen van belangrijke bouwprofessionals te ondersteunen:
-
-- **General Contractors (GCs):** Zoeken een *Commercial Construction Bidding Template* om concurrerende aanbestedingen en het nivelleren van inschrijvingen van onderaannemers te beheren zonder te betalen voor Procore.
-- **Construction Estimators:** Hebben een *Multi-Bid Management Excel Tool* nodig om meerdere RFP-deadlines tegelijk aan te pakken met één single source of truth voor materiaalprijzen.
-- **Quantity Surveyors (QS):** Zoeken *Quantity Takeoff & BOQ (Bill of Quantities) Software* om herbruikbare calculatiestandaarden over bedrijfsportefeuilles te handhaven.
-- **Small to Medium Construction Firms (SMBs):** Zoeken *Construction Job Costing Spreadsheets* om gestructureerde kostenplanning te bereiken zonder zware ERP-platformen te implementeren.
-- **Project Managers (PMs):** Hebben een *Project Budget Variance & Cost Tracking Template* nodig om ramingsbasislijnen vast te leggen voor toekomstige Earned Value Management (EVM).
-
-*(Opmerking: deze werkmap is **niet** ontworpen om enterprise cloud-ERP's, realtime samenwerkingsplatformen of multi-user CAD-integraties te vervangen. Het is een gerichte, snelle berekeningsengine.)*
+### 3. Het zwarte gat van "vaste som naar de werf" (uitvoeringsblinde vlek)
+* **Het objectieve feit:** Veel calculeurs bouwen een inschrijving alleen om onderaan de pagina een eindprijs te krijgen. Zodra het contract is gewonnen, kan dat rommelige inschrijvingsblad niet worden gebruikt om de werkelijke uitgaven op de werf te volgen. Tegen de tijd dat de eigenaar beseft dat een ruwbouw- of elektrapakket 25% over budget zit, is het geld al uitgegeven.
+* **Hoe de werkmap dit oplost:** Elke post die tijdens de opname wordt ingevoerd, krijgt automatisch een label binnen een gestandaardiseerde **Work Breakdown Structure (WBS)** en **AIA Schedule of Values (SOV)**. Op het moment dat je de opdracht wint, wordt je calculatie je **initiële kostenbasislijn voor het project** — een directe meetlat om vanaf dag 1 geraamde kosten te vergelijken met werkelijke facturen van de werf.
 
 ---
 
-## Estimating Scenarios & Construction Bidding Use Cases
+## Vergelijking: handmatige aannemersspreadsheets versus geautomatiseerde AIA-calculatiewerkmap
 
-Onze gebruikers zetten deze werkmap met succes in bij diverse gespecialiseerde vakgebieden en projectuitvoeringsmethoden:
-
-- **Design-Build & Custom Home Building:** Pas snel afwerkingen, oppervlakteparameters en opslagpercentages aan tijdens klantonderhandelingen om direct herziene voorstellen te genereren.
-- **MEP (Mechanical, Electrical, Plumbing) Estimating:** Beheer complexe assemblages waarin arbeidsuren sterk worden bepaald door strekkende-meter-metingen en specifieke componentaantallen.
-- **Concrete & Heavy Civil Contracting:** Scheid nauwkeurig huurkosten van zwaar materieel (kranen, graafmachines) van materiaalopbrengsten (kubieke meter beton, ton wapening).
-- **Renovation & Remodeling:** Isoleer eenvoudig sloopkosten en volg reserves voor onvoorzien voor onvoorziene werfomstandigheden.
-
-
----
-
-## About
-
-Ik bouw lichtgewicht operationele werkmappen voor situaties waarin er simpelweg te veel variabelen zijn om ze allemaal tegelijk in gedachten te houden.
-
-In plaats van enterprise-software te vervangen, ordenen deze tools de informatie die nodig is om de volgende operationele beslissing met vertrouwen te nemen.
-
-De **AIA Construction Estimating & Cost Tracking Workbook** is één voorbeeld van deze aanpak. Het combineert gestandaardiseerde calculatielogica, herbruikbare kostenstructuren en praktische projectbeheersing in een Excel-werkmap die eenvoudig genoeg blijft voor dagelijks bouwwerk.
+| Uitdaging bij kostencalculatie en kostenbeheersing in de bouw | Handmatige / verouderde Excel-spreadsheets | Dit geautomatiseerde AIA-sjabloon voor kostencalculatie in de bouw |
+| :--- | :--- | :--- |
+| **Een nieuwe inschrijving of RFP starten** | Calculeurs dupliceren oude projectbestanden, verwijderen rijen handmatig en breken per ongeluk `SUM`- en `VLOOKUP`-formules. | **Herbruikbare bibliotheek met kosten & assemblages** genereert binnen enkele seconden foutloze calculaties op basis van historische eenheidsprijzen. |
+| **Directe versus indirecte kosten analyseren** | Materiaalrendement, arbeidsuren en dagtarieven voor materieel staan door elkaar in vlakke rijen, waardoor **value engineering** onmogelijk wordt. | **Parametrische tracking van kostencategorieën** isoleert kosten voor arbeid, materiaal, materieel en onderaannemers binnen elke CSI-divisie. |
+| **Inschrijvingen omzetten in jobcostingbudgetten** | Projectmanagers moeten de winnende inschrijving na gunning handmatig opnieuw intypen in een aparte **Schedule of Values (SOV)**. | **Automatische overgang naar de basislijn** maakt van de definitieve aanbesteding een AIA-conforme **projectbudgetbasislijn** voor WIP-tracking. |
+| **Kosten per vierkante meter benchmarken** | Inconsistente tabbladen en eigen kolommen verhinderen het vergelijken van historische **kosten-per-vierkante-meter**-cijfers over eerdere projecten. | **Gestandaardiseerde Cost Breakdown Structure (CBS)** maakt directe benchmarking van kosten op macroniveau mogelijk over je hele projectportfolio. |
+| **Exporteren naar Procore, Buildertrend of SmartSheet** | Vraagt uren handmatig herstructureren van kolommen, tekst splitsen en CSV-opmaak voordat je kunt uploaden. | **Vooraf gekoppelde exportvelden voor ERP & SmartSheet** maken integratie in projectmanagementplatforms mogelijk met één klik kopiëren en plakken. |
+| **Calculatie delegeren aan junior medewerkers** | Prijskennis en opslagregels blijven opgesloten in het hoofd van de eigenaar of senior calculeur. | **Zelfsturende invoerarchitectuur** laat junior calculeurs, officemanagers of werfleiders gestandaardiseerde, auditklare inschrijvingen opleveren. |
 
 ---
 
-## Technical Details
+## Voor wie het bedoeld is: rollen in de bouw, zoekintentie & softwaretoepassingen
+
+Deze werkmap is gebouwd voor bouwprofessionals die de analytische diepgang van gespecialiseerde calculatiesoftware nodig hebben, met de snelheid en de nul-leercurve-eenvoud van Microsoft Excel:
+
+- **Kleine & groeiende hoofdaannemers (GC's):** Zoeken een **inschrijvingssjabloon voor commerciële en residentiële bouw** om concurrerende aanbestedingen te standaardiseren, offertes van onderaannemers te vergelijken en professionele voorstellen aan klanten te genereren zonder $500+/maand te betalen voor enterprise Procore-licenties.
+- **Beginnende & junior calculeurs in de bouw:** Hebben een **gebruiksvriendelijk Excel-calculatiespreadsheet voor de bouw** nodig met vooraf gebouwde formules om meerdere RFP-deadlines tegelijk te beheren, met één centrale bron van waarheid voor materiaal- en arbeidsprijzen.
+- **Gespecialiseerde onderaannemers (beton, ruwbouw, MEP, gipsplaten, dakbedekking):** Zoeken een **vakspecifieke calculator voor arbeid en materiaal** om vierkante meters en strekkende meters uit tekeningen snel om te zetten in nauwkeurige ploeguren, materiaalverliesfactoren en winstgevende inschrijvingsprijzen.
+- **Bouwkostendeskundigen (QS) & onafhankelijke kostenconsultants:** Willen een **Excel-werkmap voor hoeveelhedenopname (QTO) en hoeveelhedenstaat (BOQ)** om herhaalbare **CSI MasterFormat**- en **AIA-facturatiestandaarden** te waarborgen binnen klantportfolio's.
+- **Bouwers van maatwerkwoningen & renovatiebedrijven voor woningen:** Hebben een **calculatiespreadsheet voor woningbouw en renovatiebudget** nodig om afwerkingen, budgetten per vierkante meter en opslagpercentages live aan te passen tijdens gesprekken met klanten.
+- **Projectmanagers (PM's) in de bouw & uitvoerders op de werf:** Hebben een **sjabloon voor jobcosting en budgetafwijkingen in de bouw** nodig om duidelijke kostenbasislijnen vast te leggen en **Earned Value Management (EVM)** te ondersteunen tijdens de uitvoering op de werf.
+
+*(Transparantienoot: deze tool is **geen** multi-user cloud-ERP, boekhoudgrootboek of 3D BIM/CAD-viewer voor takeoff-tekeningen. Het is een razendsnelle, onderhoudsvrije financiële reken- en kostentracking-engine.)*
+
+---
+
+## Kant-en-klare scenario's voor kostencalculatie en vakspecifieke inschrijvingsworkflows
+
+Aannemers en calculeurs zetten dit **parametrische Excel-calculatiesjabloon** in bij uiteenlopende projectmodellen en gespecialiseerde vakgebieden:
+
+### 1. Bouw van maatwerkwoningen & design-build-voorstellen
+Pas parameters voor vloeroppervlak, budgetten voor keuken- en badkamerafwerking en **opslagen voor overhead en winst van de hoofdaannemer** live aan tijdens budgetbesprekingen met de klant — en genereer binnen enkele seconden bijgewerkte samenvattingen van de **Schedule of Values**.
+
+### 2. MEP-calculatie (werktuigbouwkunde, elektrotechniek, sanitair & HVAC)
+Beheer uit meerdere delen opgebouwde **bouwassemblages** waarbij installatie-uren en ploegproductiviteit sterk afhangen van strekkende meters leiding en buis, aantallen armaturen en de kosten van gespecialiseerde hijsapparatuur.
+
+### 3. Betonvloeren, funderingen & zware civiele werken
+Scheid de huur- en eigendomstarieven van zwaar materieel (graafmachines, betonpompen, kranen) netjes van de materiaalopbrengsten uit de opname (kubieke yards kant-en-klaar beton, ton wapeningsstaal, vierkante meters bekisting) en van de loondruk volgens cao-lonen.
+
+### 4. Commerciële tenant improvement (TI), renovatie & verbouwing
+Isoleer arbeid voor selectieve sloop, afvoerkosten en toeslagen voor gefaseerd nachtwerk, terwijl je aparte **onvoorziene reserves** bijhoudt voor onvoorziene constructieve of terreinomstandigheden.
+
+---
+
+## Veelgestelde vragen (FAQ over kostencalculatie in Excel voor de bouw)
+
+**V: Heb ik gevorderde Excel-vaardigheden of VBA-macroconfiguratie nodig om dit sjabloon te gebruiken?**
+**A:** Nee. Alle formules, kostenrollups en WBS-samenvattingen zijn vooraf gebouwd met native, standaard Excel-functies. Er zijn geen kwetsbare VBA-macro's die je moet inschakelen, en je hoeft nooit formules te schrijven of naar beneden te slepen — je plakt je hoeveelheden en eenheidsprijzen gewoon in de invoercellen.
+
+**V: Kan ik de kostencodes aanpassen aan CSI MasterFormat of aan mijn eigen vakcategorieën?**
+**A:** Ja. De **kostenbibliotheek** en de **assemblagebibliotheek** zijn 100% ontgrendeld en aanpasbaar. Je kunt standaard **CSI MasterFormat-codes** met 16 of 50 divisies gebruiken, de categorieën van de **AIA G702/G703 Schedule of Values**, of de interne boekhoudkundige kostencodes van je bedrijf.
+
+**V: Werkt dit zowel in Microsoft Excel als in Google Sheets?**
+**A:** Je kunt de interactieve webversie gratis direct in elke browser testen. De downloadbare `.xlsx`-werkmap is geoptimaliseerd voor **Microsoft Excel (Windows & Mac)** en kan ook in Google Sheets worden geïmporteerd om de gegevens in de cloud te bekijken.
+
+---
+
+## Over Theseus Workshop
+
+Ik bouw lichtgewicht, plug-and-play operationele Excel-werkmappen en financiële beslissingsengines voor ondernemers, calculeurs en operationele managers die heldere antwoorden nodig hebben zonder de ballast van enterprise-software.
+
+In plaats van je wekenlang door software-onboarding te loodsen, is elke tool ontworpen rond één principe: **Pure bruikbaarheid. Nul franje.** Plak je operationele gegevens, laat de vooraf gebouwde commerciële logica de berekeningen automatisch uitvoeren en neem je volgende zakelijke beslissing met volledig vertrouwen.
+
+De **AIA Construction Estimating & Cost Tracking Workbook** maakt deel uit van een bredere suite van toolkits voor commerciële calculatie, cashflowbeheersing en financiële modellering.
+
+- 🏠 **Ontdek alle toolkits voor zakelijke beslissingen & Excel-sjablonen:** [Bezoek de officiële Theseus Workshop-winkel op Gumroad (theseusworkshop.com)](https://theseusworkshop.com?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20about%20section&utm_content=aia-construction-cost-tracker)
+- 📥 **Haal deze calculatiewerkmap voor de bouw:** [Download het volledige AIA Construction Estimating & Cost Tracking Excel-sjabloon (.xlsx)](https://theseusworkshop.com/l/odfkie?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=aia-construction-cost-tracker)
+- 🌐 **Probeer eerst de webcalculator:** [Open de gratis webapp voor kostencalculatie in de bouw in je browser](https://hyvoid.github.io/aia-construction-cost-tracker-excel/)
+
+---
+
+## Technische details
 
 <details>
 
-<summary><strong>For technical reviewers, Excel practitioners, and collaborators</strong></summary>
+<summary><strong>Voor technische reviewers, Excel-professionals en samenwerkingspartners</strong></summary>
 
 ## Workbook Architecture
 
@@ -544,27 +572,29 @@ De aanbeveling is om de aannames over arbeidsproductiviteit te herzien voordat d
 
 ---
 
-## Other Tools in This Series
+## Andere tools in deze reeks
 
-De **AIA Construction Estimating & Cost Tracking Workbook** maakt deel uit van een groeiende verzameling lichtgewicht operationele beslissingsondersteunende tools voor professionals die gestructureerde analyse nodig hebben zonder enterprise-software te implementeren.
+De **AIA Construction Estimating & Cost Tracking Workbook** maakt deel uit van een groeiende verzameling lichtgewicht operationele beslissingsondersteunende tools, bedoeld voor professionals die gestructureerde analyse nodig hebben zonder enterprise-software uit te rollen.
 
-| Tool | Purpose |
+| Tool | Doel |
 |------|---------|
-| **Construction Estimating System** | Standaardiseer kostencalculatie, assemblages en aanbestedingsvoorbereiding. |
-| **Construction Project Financial Dashboard** | Monitor projectbudgetten, cashflow, voortgangsfacturatie en winstgevendheid. |
-| **Inventory Forecasting & Reorder Planner** | Voorspel de vraag en optimaliseer aanvullingsbeslissingen met Excel. |
-| **Procurement & Vendor Performance Tracker** | Vergelijk leveranciersprijzen, levertijden en inkoopprestaties. |
-| **Project Portfolio Control Dashboard** | Consolideer projectfinanciën en uitvoeringsstatus over meerdere opdrachten. |
-| **Cost Variance Analysis Workbook** | Analyseer raming versus werkelijkheid en identificeer kostenoverschrijdingen. |
-| **Operations KPI Dashboard** | Bouw terugkerende managementrapportage op basis van gestandaardiseerde operationele data. |
+| **Construction Estimating System** | Kostencalculatie, assemblages en aanbestedingsvoorbereiding standaardiseren. |
+| **Construction Project Financial Dashboard** | Projectbudgetten, cashflow, voortgangsdeclaraties en winstgevendheid monitoren. |
+| **Inventory Forecasting & Reorder Planner** | Vraag voorspellen en aanvulbeslissingen optimaliseren met Excel. |
+| **Procurement & Vendor Performance Tracker** | Leveranciersprijzen, levertijden en inkoopprestaties vergelijken. |
+| **Project Portfolio Control Dashboard** | Projectfinanciën en uitvoeringsstatus over meerdere opdrachten bundelen. |
+| **Cost Variance Analysis Workbook** | Geraamde versus werkelijke prestaties analyseren en kostenoverschrijdingen identificeren. |
+| **Operations KPI Dashboard** | Terugkerende managementrapportage opbouwen uit gestandaardiseerde operationele gegevens. |
 
-Meer tools worden gepubliceerd als zowel **Browser (HTML)**- als **Excel**-editie volgens dezelfde principes:
+Meer tools worden gepubliceerd als **browser (HTML)**- en **Excel**-editie, volgens dezelfde principes:
 
-- Geen aanmelding.
-- Geen installatie.
-- Gratis browsertoegang.
-- Native Excel-werkmap.
-- Herbruikbaar operationeel kader in plaats van eenmalige spreadsheets.
+- **[DIN-743-Shaft-Calculations](https://github.com/HyVoid/DIN-743-Shaft-Calculations)** — Voldoet het asontwerp aan de relevante rekenlogica? — Pas DIN 743-rekenstandaarden voor assen toe op technische ontwerpbeslissingen.
+- **[construction-estimating](https://github.com/HyVoid/construction-estimating)** — Wat kost deze bouwscope onder de huidige aannames? — Standaardiseer de calculatie van bouwaanbestedingen en zet afgeronde calculaties om in herbruikbare kostenbibliotheken.
+- **[construction-project-management-excel](https://github.com/HyVoid/construction-project-management-excel)** — Is de financiële positie van het project accuraat na verwerking van goedgekeurde wijzigingen, werkelijke kosten en factureringsvoortgang? — Integreer budgetten, meerwerkopdrachten, voortgangsdeclaraties en cashflow in één kader voor bouwprojectbeheersing.
+- **[industrial-energy-tco-calculator](https://github.com/HyVoid/industrial-energy-tco-calculator)** — Welke energieoptie levert de laagste total cost of ownership voor dit specifieke project onder de werkelijke bedrijfsomstandigheden? — Vergelijk industriële energiebronnen op basis van werkelijk nuttige energie door brandstofkosten, rendement van apparatuur, investeringen in infrastructuur en levenscycluskosten te normaliseren.
+- **[residential-boq-template](https://github.com/HyVoid/residential-boq-template)** — Wat kost dit woningbouwproject en welke divisies zitten al over budget? — Raam de kosten van woningbouw op basis van BOQ-opnames en tarieven, en volg goedgekeurde budgetten tegenover werkelijke uitgaven.
+- **[tunnel-cost-estimator-boq-excel](https://github.com/HyVoid/tunnel-cost-estimator-boq-excel)** — Wat kost dit boor-en-blaas-tunnelproject onder de aangenomen bouwcyclus? — Raam graaf-, boor-, blaas-, ondersteunings-, materieel- en arbeidsbehoeften voor een boor-en-blaas-tunnel tot een complete projectkost en BOQ.
+- **[Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit](https://github.com/HyVoid/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit)** — Wat zijn de totale materiaal- en wapeningskosten voor de funderingsconstructie, en kan ik elke commerciële inschrijvingswaarde herleiden tot de gemeten afmetingen? — Bereken betonvolumes, bekistingsoppervlakken, grondwerkhoeveelheden en wapeningstonnage voor funderingen via geautomatiseerde wapeningsstaten, en commerciële hoeveelhedenstaatwaarden op basis van gemeten constructieve afmetingen.
 
 ---
 
