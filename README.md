@@ -36,6 +36,14 @@ Every feature in this **construction estimating spreadsheet** maps directly to a
 | **Clients or lenders rejecting bids due to non-standard formatting** | **AIA Schedule of Values (SOV) & CSI Division Summary** | Generates clean, division-level cost rollups aligned with standard **AIA G702/G703 progress billing** practices and **CSI MasterFormat divisions**. |
 | **Hours wasted reformatting cells for project management tools** | **Procore, Buildertrend & SmartSheet CSV Export** | Outputs clean, standardized project cost tables ready for direct import into **SmartSheet**, **Procore**, or accounting software without manual column cleanup. |
 
+## Spreadsheet Preview
+
+Want to take a closer look before downloading? You can preview the spreadsheet in Google Sheets to explore its layout, structure, and calculation logic.
+
+**[View Spreadsheet Preview on Google Sheets](https://docs.google.com/spreadsheets/d/1NyQQFaYIsO13M8Zu79sKa1q4UZItIslJ/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
+
+> **Note on Compatibility:** The Google Sheets preview may display occasional `#NAME?` errors or formula warnings due to differences between Google Sheets and Microsoft Excel formula compatibility. These are preview-only compatibility issues and do not affect the functionality of the original Excel workbook. For the intended formula behavior and full functionality, please download and open the `.xlsx` file in Microsoft Excel.
+
 ---
 
 ## Quick Start Tutorial: How to Create a Construction Estimate & Bid Proposal in 1 Minute
