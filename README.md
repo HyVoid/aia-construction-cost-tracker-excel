@@ -21,6 +21,18 @@ Test your project numbers in the free browser-based construction estimator first
 >
 > 📥 **Downloadable Excel Template:** [Download the Automated AIA Construction Estimating & Cost Tracking Excel Workbook (.xlsx with Pre-Built Cost Library)](https://theseusworkshop.com/l/odfkie?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=aia-construction-cost-tracker)
 
+
+## Questions, Feedback & Product Updates
+
+This workbook connects construction estimating, quantity takeoff, bid summaries, and post-award cost tracking. Feedback is especially useful when it describes how estimates are prepared, how cost codes are mapped, or where the handoff from bid to project budget becomes difficult.
+
+- **Questions & workflow fit:** [Ask about quantity takeoff, cost assemblies, AIA-style bid summaries, Schedule of Values, or budget tracking](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions).
+- **Ideas & improvements:** [Suggest missing cost-control workflows, validation rules, reports, or construction cost structures](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas).
+- **Report a technical problem:** [Open the AIA construction cost tracker issue form](https://github.com/HyVoid/aia-construction-cost-tracker-excel/issues/new?template=bug-report.yml).
+- **Product updates:** [Follow maintenance and improvement notes](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates).
+
+When reporting a mismatch, identify the affected worksheet, cost code, input type, and expected versus actual result. Use anonymized figures; do not attach live bids, client estimates, subcontractor pricing, or confidential project records.
+
 ---
 
 ## What It Helps You Track: Construction Bidding Pain Points to Automated Excel Solutions
