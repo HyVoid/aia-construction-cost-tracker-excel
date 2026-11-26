@@ -1,205 +1,194 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
+# AIA Construction Estimating & Job Cost Tracking Excel Template (Free Web Calculator) — Bid-to-Budget CSI MasterFormat & SOV Workbook
 
-# Construction Estimating & Cost Tracking Excel Template | Free Contractor Bidding Calculator & AIA Job Costing Spreadsheet
-<img width="1480" height="826" alt="image" src="https://github.com/user-attachments/assets/4e138b9f-9b00-4dd4-8691-64e0fd76eae9" />
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+![Excel Workbook: One-Time Purchase](https://img.shields.io/badge/Excel%20Workbook-One--Time%20Purchase-1E3A8A.svg)
+![Interactive Demo: Free Web Calculator](https://img.shields.io/badge/Web%20Calculator-Free%20in%20Browser-217346.svg)
+![Guarantee: 30-Day Money-Back](https://img.shields.io/badge/Guarantee-30--Day%20Money--Back-D97706.svg)
 
+<img width="1480" height="826" alt="AIA Construction Estimating and Job Cost Tracking Excel Template Dashboard Preview" src="https://github.com/user-attachments/assets/4e138b9f-9b00-4dd4-8691-64e0fd76eae9" />
 
-![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
-![Platform](https://img.shields.io/badge/Platform-Web%20Browser%20%2B%20Microsoft%20Excel-success)
-![Tool](https://img.shields.io/badge/Type-Plug--and--Play%20Construction%20Estimating%20Template-orange)
+**Stop building bids in one messy spreadsheet—only to lose track of actual job costs the day construction starts.** **AIA Construction Estimating & Cost Tracking Excel Workbook** is a plug-and-play **8-tab offline Excel system** (paired with a **free online browser calculator**) engineered for general contractors, subcontractors, remodelers, and first-time estimators who need one continuous bridge from **blueprint quantity takeoff (QTO)** to **AIA-style Schedule of Values (SOV)**, **true Labor Burden & O&P margin math**, and **Estimate-vs-Actual job cost variance tracking**—with zero VBA macros, zero manual formula dragging, and zero \$500/month ERP subscriptions.
 
-> **Build accurate construction bids in 60 seconds, automate material and labor takeoff calculations, and generate AIA-ready Schedule of Values (SOV) & Cost Breakdown Structures (CBS)—directly in your browser or Microsoft Excel.**
-
-**AIA Construction Estimating & Cost Tracking Excel Workbook** is a plug-and-play **construction bidding template**, **contractor estimate sheet**, and **job costing spreadsheet** built for general contractors, subcontractors, first-time estimators, and small construction businesses. This **construction cost calculator** eliminates manual spreadsheet formula errors and automates commercial and residential tender preparation. Copy and paste your raw **quantity takeoff (QTO)** numbers to automatically calculate **hard costs** (labor burden, material yields, equipment rentals, subcontractor quotes), apply **overhead and profit (O&P) markups**, and track **project budget variances** without buying expensive ERP software or learning complex estimating programs.
-
-<p><strong>Zero setup. No account signup. Free interactive web calculator + downloadable native Excel (.xlsx) workbook.</strong></p>
-
-Test your project numbers in the free browser-based construction estimator first. When you are ready to save custom price lists and run repeatable bids offline, download the full automated Excel workbook—backed by a 30-day, no-questions-asked money-back guarantee.
-
-> 🌐 **Free Online Calculator:** [Launch the Free Interactive Construction Estimating & Bidding Web App (Instant Browser Access)](https://hyvoid.github.io/aia-construction-cost-tracker-excel/)
+> ### Get Started in Minutes
 >
-> 📥 **Downloadable Excel Template:** [Download the Automated AIA Construction Estimating & Cost Tracking Excel Workbook (.xlsx with Pre-Built Cost Library)](https://theseusworkshop.com/l/odfkie?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=aia-construction-cost-tracker)
-
-
-## Questions, Feedback & Product Updates
-
-This workbook connects construction estimating, quantity takeoff, bid summaries, and post-award cost tracking. Feedback is especially useful when it describes how estimates are prepared, how cost codes are mapped, or where the handoff from bid to project budget becomes difficult.
-
-- **Questions & workflow fit:** [Ask about quantity takeoff, cost assemblies, AIA-style bid summaries, Schedule of Values, or budget tracking](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions).
-- **Ideas & improvements:** [Suggest missing cost-control workflows, validation rules, reports, or construction cost structures](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas).
-- **Report a technical problem:** [Open the AIA construction cost tracker issue form](https://github.com/HyVoid/aia-construction-cost-tracker-excel/issues/new?template=bug-report.yml).
-- **Product updates:** [Follow maintenance and improvement notes](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates).
-
-When reporting a mismatch, identify the affected worksheet, cost code, input type, and expected versus actual result. Use anonymized figures; do not attach live bids, client estimates, subcontractor pricing, or confidential project records.
+> - 📥 **Get the Full 8-Tab Offline AIA Estimating & Cost Tracking Workbook (One-Time Purchase · 30-Day No-Questions-Asked Money-Back Guarantee):** [**Download the Complete AIA Construction Estimating & Cost Tracking Excel Template (.xlsx) on Theseus Workshop**](https://theseusworkshop.com/l/odfkie?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=aia-construction-cost-tracker) — unlocked local `.xlsx` workbook with pre-built Cost & Assembly Libraries, AIA division rollups, Estimate-vs-Actual variance tracking, and SmartSheet CSV export. Reusable across unlimited jobs, 100% offline privacy, zero SaaS subscriptions.
+> - 🌐 **Test Your Bid Math Live First (100% Free Browser Calculator · No Signup):** [**Launch the Free Interactive AIA Construction Estimating Web App**](https://hyvoid.github.io/aia-construction-cost-tracker-excel/) to test assemblies, O&P markups, and cost breakdowns instantly in your browser.
+> - 🎁 **New to Theseus Workshop & Want to Test an Offline Excel File for \$0 First?** Grab our [**Free Monthly Construction CVR & Accruals Excel Template (\$0+ Pay What You Want)**](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=paid_aia_readme_crosslink) to experience our plug-and-play Excel quality offline before upgrading your bidding & job-costing workflow.
 
 ---
 
-## What It Helps You Track: Construction Bidding Pain Points to Automated Excel Solutions
+## How This AIA Bid-to-Budget Workbook Fits Your Full Commercial Suite
 
-Every feature in this **construction estimating spreadsheet** maps directly to a daily cost control or bidding bottleneck faced by builders and trade contractors:
+Already downloaded our **Free Monthly CVR & Accruals Template**? While CVR audits your project's profit reality at month-end, **this 8-tab AIA workbook solves the "Bid-to-Job-Site Disconnect"**—turning your signed CSI MasterFormat / AIA bid straight into your live **Estimate-vs-Actual job cost baseline** without re-typing a single line item.
 
-| Common Construction Bidding & Cost Tracking Pain Point | Core Spreadsheet Feature & Searchable Capability | How This Automated Excel Template Solves It (Zero Setup Required) |
+| Commercial Focus | Toolkit in the Theseus Workshop Suite | Best Used When You Need To... |
+|---|---|---|
+| **Bid-to-Budget Continuity (AIA / CSI)** | **This Workbook: AIA Estimating & Job Cost Tracker** (*One-Time Purchase*) | Build fast **CSI MasterFormat / AIA SOV bids** with true Labor Burden & O&P clarity, then track **Estimate vs. Actual job cost variances** in the exact same file (+ SmartSheet CSV export) |
+| **Drawing-Level Concrete & Rebar Takeoff** | [Foundation QTO, Rebar BBS & BOQ Toolkit](https://github.com/HyVoid/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit) (*One-Time Purchase*) | Measure footings, piles, slabs & beams directly into concrete ($m^3$), formwork ($m^2$), automated Rebar BBS & $kg/m^3$ checks |
+| **Large Multi-Trade Tender & BOQ Library** | [Construction Estimating & BOQ Workbench](https://github.com/HyVoid/construction-estimating) (*One-Time Purchase*) | Normalize large external client BOQs across 12 tabs with historical bid archiving and Procore WBS budget exports |
+| **Full-Lifecycle Cash Flow & Billing** | [Construction Project Management & Cash Flow Workbook](https://github.com/HyVoid/construction-project-management-excel) (*One-Time Purchase*) | Manage weekly change orders, progress billings, retainage holdbacks, subcontractor payables, and rolling cash runway |
+| **Month-End Profit & Accruals Audit** | [Monthly Construction CVR & Accruals Template](https://github.com/HyVoid/construction-cvr-accruals-excel-template) (**Free · \$0+ PWYW**) | Reconcile booked accounting profit against unbilled site accruals, variation risk, and Estimate at Completion (EAC) at month-end |
+
+---
+
+## What It Helps You Track: Bidding & Job-Costing Pain Points Mapped to Automated Controls
+
+| Common Bidding & Job Costing Pain Point | Core Built-In Capability | How This 8-Tab Excel Workbook Solves It Automatically |
 | :--- | :--- | :--- |
-| **Messy subcontractor quotes and risky lump-sum guesswork** | **Automated Cost Breakdown Structure (CBS) & Bid Sheet** | Splits every **construction estimate** into traceable **Hard Costs** (Labor, Materials, Equipment, Subcontractors) and **Soft Costs** (Overhead, Contingency Reserve, Profit Markup). |
-| **Losing money on hidden labor burden and unallocated overhead** | **Work Breakdown Structure (WBS) & Margin Validator** | Runs instant cost-contribution and gross margin diagnostics across every work package before you submit a commercial or residential tender. |
-| **Disconnect between the winning bid and actual field job costing** | **Construction Budget Variance & WIP Baseline Tracker** | Converts your signed bid directly into a rigid **project budget baseline** to compare estimated vs. actual construction costs for **Work-in-Progress (WIP)** accounting. |
-| **Re-typing the same unit prices for every concrete, framing, or MEP bid** | **Parametric Assembly Estimating & Unit Cost Library** | Stores reusable **construction assemblies** and standard unit prices (RSMeans / CSI style) to cut repetitive **quantity takeoff (QTO)** data entry by 80%. |
-| **Clients or lenders rejecting bids due to non-standard formatting** | **AIA Schedule of Values (SOV) & CSI Division Summary** | Generates clean, division-level cost rollups aligned with standard **AIA G702/G703 progress billing** practices and **CSI MasterFormat divisions**. |
-| **Hours wasted reformatting cells for project management tools** | **Procore, Buildertrend & SmartSheet CSV Export** | Outputs clean, standardized project cost tables ready for direct import into **SmartSheet**, **Procore**, or accounting software without manual column cleanup. |
+| **Messy subcontractor quotes & lump-sum guesswork** | **Automated Cost Breakdown Structure (CBS)** | Splits every bid into traceable **Hard Costs** (Labor, Materials, Equipment, Subcontractors) and **Soft Costs** (Overhead, Contingency Reserve, Profit). |
+| **Losing margin to hidden labor burden & markup math** | **Labor Burden & True Margin Validator** | Isolates burdened wage rates and displays **Markup % vs. True Gross Margin %** side by side before you submit the bid. |
+| **Winning a bid, then losing visibility on site** | **Estimate-vs-Actual Cost Variance Tracker** | Converts your approved bid directly into a locked **Project Budget Baseline** to track actual field spending and WIP variances from Day 1. |
+| **Re-typing unit prices for every concrete, framing, or MEP bid** | **Reusable Cost & Assembly Library** | Stores standardized **CSI / RSMeans-style unit rates and trade assemblies** to cut repetitive quantity takeoff (QTO) data entry by up to 80%. |
+| **Clients or lenders rejecting non-standard bid sheets** | **AIA Schedule of Values (SOV) & CSI Summary** | Auto-generates clean, division-level summaries aligned with **AIA G702/G703 progress billing** and **CSI MasterFormat divisions**. |
+| **Hours wasted reformatting exports for PM tools** | **SmartSheet & ERP CSV Export Layer** | Outputs clean, pre-mapped WBS cost tables ready for direct import into **SmartSheet**, **Procore**, or **Buildertrend** with zero manual cleanup. |
+
+---
 
 ## Spreadsheet Preview
 
-Want to take a closer look before downloading? You can preview the spreadsheet in Google Sheets to explore its layout, structure, and calculation logic.
+Want to inspect all 8 tabs, the AIA division summary, and the Estimate-vs-Actual variance sheet before downloading? Preview the workbook directly in Google Sheets:
 
-**[View Spreadsheet Preview on Google Sheets](https://docs.google.com/spreadsheets/d/1NyQQFaYIsO13M8Zu79sKa1q4UZItIslJ/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
+**[View Live Spreadsheet Preview on Google Sheets](https://docs.google.com/spreadsheets/d/1NyQQFaYIsO13M8Zu79sKa1q4UZItIslJ/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
 
-> **Note on Compatibility:** The Google Sheets preview may display occasional `#NAME?` errors or formula warnings due to differences between Google Sheets and Microsoft Excel formula compatibility. These are preview-only compatibility issues and do not affect the functionality of the original Excel workbook. For the intended formula behavior and full functionality, please download and open the `.xlsx` file in Microsoft Excel.
-
----
-
-## Quick Start Tutorial: How to Create a Construction Estimate & Bid Proposal in 1 Minute
-
-Follow this 4-step workflow to turn raw blueprint measurements into a client-ready construction tender and job cost baseline.
-
-### Step 1: Enter Global Project Parameters, Markup & Contingency Rates
-Open the **Project Setup** tab. Type in your basic job details once: project name, estimator name, bid submission date, target **overhead and profit (O&P) markup percentage**, **contingency reserve**, and client information.
-* **Automated Result:** These inputs act as global variables that automatically populate every downstream **Schedule of Values (SOV)**, division summary, and client bid sheet—preventing copy-paste typos.
-
-### Step 2: Paste Quantity Takeoff (QTO) Measurements & Unit Prices
-Switch to the **Estimate Input** worksheet. Copy and paste your raw **bill of quantities (BOQ)** or takeoff measurements from **Bluebeam Revu**, **PlanSwift**, **Stack**, or your existing legacy Excel takeoff sheets.
-* **Automated Result:** Map items to pre-configured **CSI MasterFormat cost codes** and unit types (Square Feet, Linear Feet, Cubic Yards, Man-Hours, Lump Sum) with zero formula adjustments.
-* <img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/b10f2cd2-94a9-44c5-8305-6ed197b23596" />
-
-
-### Step 3: Review the Auto-Generated AIA Estimate & Profit Dashboard
-Open the **Calculation Engine** and **Executive Summary Dashboard**.
-* **Automated Result:** The template immediately calculates total **Direct Costs**, **Labor Burden allocations**, **Equipment rental rates**, and **Total Bid Price**. Multi-component construction assemblies expand into itemized material and labor breakdowns automatically.
-
-### Step 4: One-Click Local Data Paste & Infinite Bid Reuse (Download the Excel Engine)
-Construction cost accounting, WBS margin allocation, and multi-tier markup math are complex—but you never have to touch the math behind the scenes.
-
-This **Excel construction estimating workbook** comes pre-engineered with dynamic matching rules and auto-expanding formulas. **You do not even need to double-click cell corners or drag formulas down.** Simply download the `.xlsx` file to your desktop, paste your own project data into the input table, and view complete financial diagnostics in under 1 minute:
-* **1-Minute Decision Feedback for Non-Experts:** Even with zero spreadsheet modeling or financial analysis background, pasting your numbers immediately highlights cost overruns, labor-heavy divisions, and exact profit margins.
-* **Focus on Winning Work During Peak Bidding Season:** Stop spending nights fixing broken `#REF!` errors or rebuilding VLOOKUP tables. Let the automated template handle the data analysis in one click so you can focus on negotiating subcontractor quotes, managing job sites, and closing profitable contracts.
-
-> 🚀 **Turn 4 Hours of Spreadsheet Work into a 1-Minute Copy-Paste Workflow:** Once you have previewed the workflow in your browser, [Download the Full Reusable AIA Construction Estimating Excel Workbook (.xlsx)](https://theseusworkshop.com/l/odfkie?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=aia-construction-cost-tracker) to save your private unit price database, reuse custom trade assemblies across unlimited future bids, and generate instant executive cost analysis offline.
+> **Note on Compatibility:** Google Sheets preview may display occasional `#NAME?` warnings due to formula differences between Google Sheets and Microsoft Excel. These are preview-only artifacts and do not occur in the downloaded `.xlsx` file when opened in Microsoft Excel.
 
 ---
 
-## The Business Logic & Methodology: Eliminating Hidden Profit Blind Spots for Contractors
+## Quick Start Tutorial: Go From Takeoff to AIA Bid & Job Cost Baseline in 4 Steps
 
-Most small contractors, new estimators, and trade business owners lose money on jobs they *thought* were profitable. The loss rarely happens because of bad craftsmanship on site—it happens during bidding, caused by three objective financial blind spots built into ordinary, unstructured spreadsheets:
+You do not need advanced Excel skills or VBA macros. Every dynamic lookup, assembly expansion, and variance rollup is already wired—**you never have to drag formulas down rows:**
 
-### 1. The Markup vs. Gross Margin Math Trap (Pricing Blind Spot)
-* **The Objective Fact:** Adding a 20% **markup** to your construction costs does **not** give you a 20% **profit margin**—mathematically, it only yields a **16.67% gross margin** ($\text{Margin} = \frac{\text{Markup}}{1 + \text{Markup}}$). If a contractor bids a $500,000 remodeling project by multiplying hard costs by 1.20, they instantly lose $16,650 in expected profit cushion before driving a single nail.
-* **How the Workbook Solves It:** The calculation engine separates **Direct Hard Costs**, **General Conditions / Overhead**, **Contingency Reserves**, and **Target Profit** explicitly. You see both true Markup % and true Gross Margin % side by side in real time, protecting your bottom line against unexpected change orders.
+### Step 1: Set Project Rules, Overhead, Markup & Contingency (`Project Setup`)
+Enter your project details once: project name, bid date, target **Overhead & Profit (O&P)** percentages, and **contingency reserve**. These global parameters feed every downstream AIA summary and bid sheet automatically.
 
-### 2. Uncaptured Labor Burden & Blended Cost Distortion (Costing Blind Spot)
-* **The Objective Fact:** Quoting base hourly wages (e.g., $35/hour for a carpenter) instead of **fully burdened labor costs** ($46–$52/hour after FICA payroll taxes, workers' compensation insurance, unemployment insurance, paid time off, and non-billable tool setup) silently erodes 8% to 15% of net project profit. Furthermore, when contractors lump labor, materials, and equipment into a single cell, they cannot tell which cost driver is inflating the bid.
-* **Real-World Financial Impact:**
-  * **Before Using This Methodology:** A general contractor prepares a **$1.8M commercial concrete slab tender**. The bid looks competitive on the surface, but **labor represents 52% of total direct cost** because the estimator copied rows from an outdated prevailing wage spreadsheet where labor and concrete material costs were blended together.
-  * **After Using This Workbook:** The template automatically segregates **Labor**, **Material**, **Equipment**, and **Subcontractor** cost buckets. Updating the central **Cost Library** with current labor burden rates reduces direct labor allocation by **9%**, producing a sharper, winning tender while locking in the target profit margin.
+### Step 2: Paste Quantity Takeoff (QTO) Measurements & Select Assemblies (`Estimate Input`)
+Copy and paste raw measurements from **Bluebeam Revu, PlanSwift, STACK, or PDF takeoffs** into the clean input area and tag standardized **CSI MasterFormat cost codes** or reusable assemblies (SF, LF, CY, Man-Hours, Lump Sum).
 
-### 3. The "Lump-Sum to Job Site" Black Hole (Execution Blind Spot)
-* **The Objective Fact:** Many estimators build a bid just to get a final price at the bottom of the page. Once the contract is won, that messy bidding sheet cannot be used to track actual spending on site. By the time the business owner realizes a framing or electrical package is 25% over budget, the cash is already spent.
-* **How the Workbook Solves It:** Every line item entered during takeoff is automatically tagged to a standardized **Work Breakdown Structure (WBS)** and **AIA Schedule of Values (SOV)**. The moment you win the job, your estimate becomes your **Initial Project Cost Baseline**—giving you an instant yardstick to compare estimated costs against actual field invoices from Day 1.
+<p align="center">
+  <img width="1920" height="790" alt="AIA Construction Estimating Input and Assembly Mapping View" src="https://github.com/user-attachments/assets/b10f2cd2-94a9-44c5-8305-6ed197b23596" />
+</p>
+
+### Step 3: Review Your Auto-Generated AIA Bid & Cost Breakdown (`Calculation Engine` & `AIA Estimate Summary`)
+Instantly inspect total **Direct Hard Costs**, **Labor vs. Material vs. Equipment vs. Subcontractor mix**, true **Gross Margin %**, and client-ready **CSI / AIA division rollups**—catching unbalanced labor ratios before you ever email the proposal.
+- 👉 [**Test the Interactive AIA Estimator Free in Your Browser**](https://hyvoid.github.io/aia-construction-cost-tracker-excel/)
+
+### Step 4: Flip Your Winning Bid Into Live Job Cost Tracking (`Cost Tracking` & `SmartSheet Export`)
+Once you win the contract, stop rebuilding a brand-new budget spreadsheet. Your approved estimate automatically locks in as your **Budget Baseline** on `Cost Tracking`—just log actual field costs to monitor **Variance (\$ and %)** and **Remaining Budget** in real time, or export clean rows via `SmartSheet Export`.
+
+---
+
+## Free Browser Calculator vs. Full 8-Tab Offline Excel Workbook
+
+| Feature | Free Online Web Calculator | **Full 8-Tab Local Excel Workbook (One-Time Purchase)** |
+|---|---|---|
+| **Best For** | Instant 60-second sandbox test of bid & O&P math | Real commercial/residential bidding + post-award job cost tracking |
+| **Private Reusable Cost & Assembly Library** | Session test only | Save & customize your own `Cost Library` and `Assembly Library` permanently |
+| **AIA / CSI Division Summary** | Preview summary | Client- and lender-ready `AIA Estimate Summary` aligned with CSI MasterFormat |
+| **Estimate-vs-Actual Job Cost Tracking** | — | Full `Cost Tracking` variance engine linked straight to your winning bid |
+| **PM / SmartSheet Integration** | — | Dedicated `SmartSheet Export` tab formatted for clean CSV handover |
+| **Data Privacy & Reuse** | Browser session | **100% offline local `.xlsx` file**—wage rates, vendor quotes & margins never touch the cloud |
+| **Cost Model & Guarantee** | Free browser demo | **Small one-time purchase** (zero SaaS fees) · **30-day no-questions-asked money-back guarantee** |
+
+> **Ready to build faster AIA bids and keep every won project on budget in one offline workbook?**
+> 👉 [**Get the Complete AIA Construction Estimating & Cost Tracking Excel Workbook (One-Time Purchase · 30-Day Guarantee)**](https://theseusworkshop.com/l/odfkie?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=aia-construction-cost-tracker)
+
+---
+
+## The Business Logic & Methodology: 3 Hidden Profit Blind Spots This Workbook Eliminates
+
+Most small contractors and first-time estimators lose money on builds they *thought* were profitable—not because of poor site work, but because of **three structural blind spots** built into ordinary spreadsheets:
+
+### 1. The Markup vs. Gross Margin Math Trap
+- **The Objective Fact:** Adding a **20% markup** to your hard costs does **not** give you a **20% gross profit margin**—it only produces a **16.67% gross margin**:
+  $$\text{Gross Margin} = \frac{\text{Markup}}{1 + \text{Markup}}$$
+  On a \$500,000 remodeling bid, confusing markup with margin quietly wipes out **\$16,650** in expected profit cushion before Day 1 on site.
+- **How This Workbook Solves It:** Separates **Direct Hard Costs**, **Overhead**, **Contingency Reserves**, and **Target Profit** explicitly—showing both true Markup % and Gross Margin % in real time.
+
+### 2. Uncaptured Labor Burden & Blended Cost Distortion
+- **The Objective Fact:** Quoting base hourly wages (e.g., \$35/hr) instead of **fully burdened labor costs** (\$46–\$52/hr after FICA payroll taxes, workers' compensation, unemployment insurance, PTO, and non-billable setup) silently bleeds **8% to 15%** of net profit. Lumping labor and material into one flat unit price hides which cost driver is blowing up your bid.
+- **Real-World Impact:** On a **\$1.8M commercial concrete slab tender**, isolating Labor, Material, Equipment, and Subcontract buckets revealed labor had crept to 52% of direct cost due to outdated wage assumptions. Updating the central **Cost Library** trimmed labor allocation by **9%**, winning the contract while protecting target profit.
+
+### 3. The "Lump-Sum to Job Site" Black Hole
+- **The Objective Fact:** Most bids sit untouched in a folder after contract award while a separate, mismatched spreadsheet tracks site invoices—leaving owners blind until a framing or MEP division is already 25% over budget.
+- **How This Workbook Solves It:** Every takeoff item is tagged to a standardized **WBS / CSI MasterFormat code** from the start, so your signed bid transitions seamlessly into your **Estimate-vs-Actual Cost Tracking Baseline**.
 
 ---
 
 ## Comparison: Manual Contractor Spreadsheets vs. Automated AIA Estimating Workbook
 
-| Construction Estimating & Cost Control Challenge | Manual / Legacy Excel Spreadsheets | This Automated AIA Construction Estimating Template |
+| Construction Estimating & Cost Control Challenge | Manual / Legacy Excel Spreadsheets | **This Automated AIA Estimating & Cost Tracking Workbook** |
 | :--- | :--- | :--- |
-| **Starting a New Bid or RFP** | Estimators duplicate old project files, delete rows manually, and accidentally break `SUM` and `VLOOKUP` formulas. | **Reusable Cost & Assembly Library** generates error-free estimates from historical unit prices in seconds. |
-| **Analyzing Hard Costs vs. Soft Costs** | Material yields, labor hours, and equipment day-rates are mixed in flat rows, making **value engineering** impossible. | **Parametric Cost Category Tracking** isolates Labor, Material, Equipment, and Subcontractor costs across every CSI division. |
-| **Converting Bids into Job Cost Budgets** | Project managers must manually re-type the winning bid into a separate **Schedule of Values (SOV)** after contract award. | **Automatic Baseline Transition** turns the final tender into an AIA-aligned **Project Budget Baseline** for WIP tracking. |
-| **Benchmarking Cost Per Square Foot** | Inconsistent tabs and custom columns prevent comparing historical **cost-per-square-foot** metrics across past jobs. | **Standardized Cost Breakdown Structure (CBS)** enables instant macro-level cost benchmarking across your entire project portfolio. |
-| **Exporting to Procore, Buildertrend, or SmartSheet** | Requires hours of manual column restructuring, text splitting, and CSV formatting before upload. | **Pre-Mapped ERP & SmartSheet Export Fields** allow one-click copy-paste integration into project management platforms. |
-| **Delegating Estimating to Junior Staff** | Pricing knowledge and markup rules stay locked inside the owner's or senior estimator's head. | **Self-Guided Input Architecture** lets junior estimators, office managers, or field leads produce standardized, audit-ready bids. |
+| **Starting a New Bid or RFP** | Duplicate old files, delete rows by hand, and risk broken `SUM` or `VLOOKUP` links. | **Reusable Cost & Assembly Library** builds error-free bids from standardized rates in minutes. |
+| **Analyzing Hard Costs vs. Soft Costs** | Material yields, labor hours, and equipment rates sit mixed in flat rows. | **Parametric Cost Buckets** isolate Labor, Material, Equipment, and Subcontracts across every CSI division. |
+| **Converting Bids Into Job Cost Budgets** | PMs waste hours re-typing winning bids into a separate Schedule of Values (SOV). | **Built-In Baseline Continuity** converts the bid straight into your `Cost Tracking` variance sheet. |
+| **Benchmarking Cost Per Square Foot** | Inconsistent custom tabs prevent comparing historical cost-per-SF across jobs. | **Standardized CBS Structure** enables fast portfolio-wide benchmarking across every bid. |
+| **Exporting to SmartSheet, Procore, or Buildertrend** | Hours of manual column cleanup and CSV reformatting before upload. | **Dedicated `SmartSheet Export` Tab** produces clean, structured fields ready for instant import. |
+| **Delegating Estimating to Junior Staff** | Unit rates and markup logic stay locked inside the owner's head. | **Guided 8-Tab Input Flow** lets junior estimators or office managers produce audit-ready bids fast. |
 
 ---
 
-## Who This Is For: Construction Roles, Search Intent & Software Use Cases
+## Who This Workbook Is Built For & High-Frequency Trade Workflows
 
-This workbook is engineered for construction professionals who need the analytical rigor of dedicated estimating software with the speed and zero-learning-curve simplicity of Microsoft Excel:
+Built for construction teams that want the analytical discipline of dedicated estimating software with the speed and zero-subscription freedom of Excel:
 
-- **Small & Growing General Contractors (GCs):** Searching for a **commercial and residential construction bidding template** to standardize competitive tenders, level subcontractor bids, and generate professional client proposals without paying $500+/month for enterprise Procore licenses.
-- **First-Time & Junior Construction Estimators:** Needing an **easy-to-use construction estimating Excel spreadsheet** with pre-built formulas to manage multiple RFP deadlines simultaneously while keeping a single source of truth for material and labor pricing.
-- **Trade Subcontractors (Concrete, Framing, MEP, Drywall, Roofing):** Looking for a **trade-specific labor and material calculator** to quickly convert blueprint square footage and linear foot measurements into accurate crew hours, material waste factors, and profitable bid prices.
-- **Quantity Surveyors (QS) & Independent Cost Consultants:** Seeking a **Quantity Takeoff (QTO) and Bill of Quantities (BOQ) Excel workbook** to enforce repeatable **CSI MasterFormat** and **AIA billing** standards across client portfolios.
-- **Custom Home Builders & Residential Remodelers:** Requiring a **home building cost estimator and renovation budget spreadsheet** to adjust finishes, square footage allowances, and markup percentages live during client meetings.
-- **Construction Project Managers (PMs) & Site Superintendents:** Needing a **construction job costing and budget variance tracker template** to establish clear cost baselines and support **Earned Value Management (EVM)** during field execution.
+- **Small & Growing General Contractors (GCs):** Standardize commercial and residential bids, level sub quotes, and generate clean AIA-style proposals without paying \$500+/month for Procore licenses.
+- **First-Time & Junior Construction Estimators:** Manage multiple RFP deadlines confidently using pre-wired CSI MasterFormat assemblies and automatic margin validation.
+- **Specialty Subcontractors (Concrete, Framing, MEP, Drywall, Roofing):** Convert blueprint SF/LF/CY takeoffs into crew hours, material waste, burdened labor, and profitable bids fast.
+- **Custom Home Builders & Residential Remodelers:** Adjust finish allowances, square footage, and O&P markups live during client budget reviews.
+- **Quantity Surveyors (QS) & Construction PMs:** Enforce repeatable CSI/AIA standards and monitor Estimate-vs-Actual variances across active builds.
 
-*(Transparency Note: This tool is **not** a multi-user cloud ERP, accounting ledger, or 3D BIM/CAD takeoff drawing viewer. It is a high-speed, zero-maintenance financial calculation and cost-tracking engine.)*
+### Common Trade Applications
+1. **Residential Custom Homes & Design-Build:** Instant Schedule of Values (SOV) updates during client budget meetings.
+2. **MEP Estimating (Mechanical, Electrical, Plumbing, HVAC):** Multi-component assemblies linking conduit/piping lengths, fixture counts, crew hours, and rigging equipment.
+3. **Concrete Flatwork, Foundations & Civil:** Clean separation of equipment rentals, ready-mix yields, rebar tonnage, and prevailing-wage labor burden.
+4. **Commercial Tenant Improvement (TI) & Renovations:** Isolate demolition labor, disposal fees, night-work premiums, and dedicated contingency reserves.
 
----
-
-## Ready-to-Use Construction Estimating Scenarios & Trade-Specific Bidding Workflows
-
-Contractors and estimators deploy this **parametric Excel estimating template** across diverse project delivery methods and specialty trades:
-
-### 1. Residential Custom Home Building & Design-Build Proposals
-Adjust square footage parameters, kitchen/bath finish allowances, and **general contractor overhead and profit markups** on the fly during client budget reviews—generating updated **Schedule of Values** summaries in seconds.
-
-### 2. MEP Estimating (Mechanical, Electrical, Plumbing & HVAC)
-Manage multi-part **construction assemblies** where installation labor hours and crew productivity depend heavily on linear footage of conduit/piping, fixture counts, and specialized equipment rigging costs.
-
-### 3. Concrete Flatwork, Foundations & Heavy Civil Contracting
-Cleanly separate heavy equipment rental and ownership rates (excavators, concrete pumps, cranes) from raw material takeoff yields (cubic yards of ready-mix concrete, rebar tonnage, formwork square footage) and prevailing wage labor burden.
-
-### 4. Commercial Tenant Improvement (TI), Renovation & Remodeling
-Isolate selective demolition labor, haul-away disposal fees, and phased night-work premiums while tracking dedicated **contingency reserves** for unforeseen structural or site conditions.
+*(Transparency Note: This workbook is a high-speed, zero-maintenance financial estimating and job-costing engine—not a multi-user cloud ERP, accounting ledger, or 3D BIM/CAD drawing viewer.)*
 
 ---
 
-## Frequently Asked Questions (Construction Estimating Excel FAQ)
+## Quick FAQ
 
-**Q: Do I need advanced Excel skills or VBA macro configuration to use this template?**
-**A:** No. All formulas, cost rollups, and WBS summaries are pre-built using native, standard Excel functions. There are no fragile VBA macros to enable, and you never need to write or drag formulas—just paste your quantities and unit prices into the input cells.
-
-**Q: Can I customize the Cost Codes for CSI MasterFormat or my own trade categories?**
-**A:** Yes. The **Cost Library** and **Assembly Library** are 100% unlocked and customizable. You can use standard 16-division or 50-division **CSI MasterFormat codes**, **AIA G702/G703 Schedule of Values** categories, or your company's internal accounting cost codes.
-
-**Q: Does this work in both Microsoft Excel and Google Sheets?**
-**A:** You can test the interactive web version directly in any browser for free. The downloadable `.xlsx` workbook is optimized for **Microsoft Excel (Windows & Mac)** and can also be imported into Google Sheets for basic cloud viewing.
+- **Do I need advanced Excel skills or VBA macros?**
+  **No.** 100% clean native Excel formulas—no VBA macros to unblock, and no manual formula dragging. Paste your quantities and rates into the clean input zones and read your results.
+- **Can I customize Cost Codes for CSI MasterFormat or my own trade list?**
+  **Yes.** Both `Cost Library` and `Assembly Library` are 100% unlocked. Use standard 16-division or 50-division CSI MasterFormat codes, AIA G702/G703 SOV categories, or your internal accounting codes.
+- **Which spreadsheet software is supported?**
+  Works smoothly on **Microsoft 365, Excel 2021, Excel 2024, and modern WPS Office** (Windows & Mac). You can also test the calculation flow anytime in the free browser calculator.
 
 ---
 
-## About Theseus Workshop
+## About Theseus Workshop — Plug-and-Play Offline Excel Decision Toolkits
 
-I build lightweight, plug-and-play operational Excel workbooks and financial decision engines for business owners, estimators, and operators who need clear answers without enterprise software bloat.
+**Theseus Workshop** builds lightweight, affordable, locally stored Excel decision toolkits for contractors, estimators, QS professionals, and business operators who want **executive-grade commercial clarity in minutes—without enterprise software bloat or recurring SaaS subscriptions**.
 
-Rather than forcing you through weeks of software onboarding, every tool is designed around a single principle: **Pure utility. Zero fluff.** Paste your operational data, let the pre-built commercial logic run the math automatically, and make your next business decision with total confidence.
-
-The **AIA Construction Estimating & Cost Tracking Workbook** is part of a broader suite of commercial estimating, cash flow control, and financial modeling toolkits.
-
-- 🏠 **Explore All Business Decision Toolkits & Excel Templates:** [Visit the Official Theseus Workshop Store on Gumroad (theseusworkshop.com)](https://theseusworkshop.com?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20about%20section&utm_content=aia-construction-cost-tracker)
-- 📥 **Get This Construction Estimating Workbook:** [Download the Full AIA Construction Estimating & Cost Tracking Excel Template (.xlsx)](https://theseusworkshop.com/l/odfkie?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=aia-construction-cost-tracker)
-- 🌐 **Try the Web Calculator First:** [Open the Free Browser-Based Construction Estimating App](https://hyvoid.github.io/aia-construction-cost-tracker-excel/)
+- 📥 [**Get This Complete AIA Construction Estimating & Cost Tracking Workbook**](https://theseusworkshop.com/l/odfkie?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=aia-construction-cost-tracker)
+- 🎁 [**Start Free: Monthly Construction CVR & Accruals Excel Template (\$0+ PWYW)**](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=paid_aia_readme_crosslink)
+- 🧰 [**Explore the Full Theseus Workshop Toolkit Library (`theseusworkshop.com`)**](https://theseusworkshop.com?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20about%20section&utm_content=aia-construction-cost-tracker)
 
 ---
 
 ## Technical Details
 
 <details>
+<summary><strong>For technical reviewers, Excel practitioners, and collaborators (8-Sheet Architecture, 3 Estimating Traps, 24,000 SF Warehouse Case Study, Formula Reference, Validation Rules & Design Principles)</strong></summary>
 
-<summary><strong>For technical reviewers, Excel practitioners, and collaborators</strong></summary>
-
-## Workbook Architecture
+### Workbook Architecture
 
 | Worksheet | Purpose | Primary Inputs | Primary Outputs |
 |------------|----------|----------------|-----------------|
-| Project Setup | Global project configuration | Project metadata | Project parameters |
-| Cost Library | Standard unit cost database | Labor, Material, Equipment rates | Unit cost lookup |
-| Assembly Library | Reusable work assemblies | Cost codes and quantity factors | Expanded estimate components |
-| Estimate Input | Quantity takeoff | WBS, Assemblies, Quantities | Raw estimating data |
-| Calculation Engine | Cost calculations | Quantities and unit costs | Detailed cost calculations |
-| AIA Estimate Summary | Division reporting | Calculation Engine | Bid summaries |
-| Cost Tracking | Estimate vs Actual | Budget and actual costs | Variance reporting |
-| SmartSheet Export | Integration layer | Summary outputs | CSV-compatible export |
+| `Project Setup` | Global project configuration | Project metadata, O&P, contingency | Global parameters |
+| `Cost Library` | Standard unit cost database | Labor, Material, Equipment rates | Unit cost lookup |
+| `Assembly Library` | Reusable work assemblies | Cost codes and quantity factors | Expanded estimate components |
+| `Estimate Input` | Quantity takeoff | WBS, Assemblies, Quantities | Raw estimating data |
+| `Calculation Engine` | Cost calculations | Quantities and unit costs | Detailed cost calculations |
+| `AIA Estimate Summary` | Division reporting | Calculation Engine | Bid & SOV summaries |
+| `Cost Tracking` | Estimate vs. Actual | Approved baseline and actual costs | Variance reporting (\$ & %) |
+| `SmartSheet Export` | Integration layer | Summary outputs | CSV-compatible export |
 
-Data flow:
+#### Data Flow
 
 ```text
 Project Setup
@@ -222,233 +211,65 @@ Calculation Engine
         │
         └──────────────► SmartSheet Export
 ```
-## Three Traps That Catch Even Experienced Construction Estimators
 
 ---
 
-### Trap 1 — Treating Unit Prices as the Estimate
+### Three Traps That Catch Even Experienced Construction Estimators
 
-A bid decision is made based on competitive unit prices.
+#### Trap 1 — Treating Unit Prices as the Estimate
 
-The estimate appears accurate because every line item has a reasonable unit cost. However, the estimator overlooked that several assemblies allocate labor and equipment differently from previous projects.
-
-As a result, two bids with identical unit prices can have completely different profit risks.
+Two concrete slab bids at \$34/SF can carry completely different profit risks if labor creeps to 42% of direct cost while historical benchmarks sit lower.
 
 | Incorrect Approach | Correct Approach |
 |--------------------|------------------|
-| Compare only unit prices. | Compare full cost composition by category. |
-| Focus on total bid value. | Review Labor, Material, Equipment, Subcontract, Overhead, and Markup separately. |
-| Ignore assembly structure. | Validate Assembly composition before pricing. |
-
-**Incorrect reasoning**
-
-```text
-Concrete Slab
-Unit Price = $34/SF
-
-Looks competitive.
-```
-
-**Correct reasoning**
-
-```text
-Concrete Slab
-
-Labor        42%
-Material     39%
-Equipment    11%
-Other          8%
-
-Labor exceeds historical benchmark.
-
-Risk identified before submission.
-```
-
-Instead of asking whether the unit price looks reasonable, the workbook asks whether the underlying cost structure still matches historical experience.
+| Compare only flat unit prices and total bid value. | Audit full cost composition across Labor, Material, Equipment, Subcontract, Overhead, and Markup separately. |
 
 <details>
-
 <summary>Formula Reference</summary>
 
 ```excel
-Labor Cost
-=Quantity*AssemblyFactor*LaborRate
+Labor Cost = Quantity * AssemblyFactor * LaborRate
+Material Cost = Quantity * AssemblyFactor * MaterialRate
+Equipment Cost = Quantity * AssemblyFactor * EquipmentRate
+Direct Cost = SUM(Labor:Subcontract)
+Total Estimate = DirectCost + Overhead + Markup
+```
 
-Material Cost
-=Quantity*AssemblyFactor*MaterialRate
+</details>
 
-Equipment Cost
-=Quantity*AssemblyFactor*EquipmentRate
+#### Trap 2 — Copying Previous Projects Without Standardized Assemblies
 
-Direct Cost
-=SUM(Labor:Subcontract)
+Duplicating last year's workbook leaves obsolete cost codes and stale assumptions buried across sheets. Selecting standardized assemblies from one central `Assembly Library` guarantees repeatable, audit-ready breakdowns.
 
-Total Estimate
-=DirectCost+Overhead+Markup
+<details>
+<summary>Formula Reference</summary>
+
+```excel
+Expanded Quantity = EstimateQty * AssemblyFactor
+Assembly Cost = ExpandedQty * UnitCost
+```
+
+</details>
+
+#### Trap 3 — Winning the Bid but Losing Cost Visibility
+
+Archiving the estimate after award and creating a mismatched tracking sheet destroys Estimate-vs-Actual traceability. Keeping the estimate and `Cost Tracking` on one shared Cost Breakdown Structure preserves baseline visibility from Day 1.
+
+<details>
+<summary>Formula Reference</summary>
+
+```excel
+Variance = Actual - Estimate
+Variance % = (Actual - Estimate) / Estimate
 ```
 
 </details>
 
 ---
 
-### Trap 2 — Copying Previous Projects Without Standardized Assemblies
+### Example Scenario — 24,000 SF Commercial Warehouse Expansion
 
-A new school project resembles last year's project.
-
-The estimator duplicates the previous workbook and edits quantities manually.
-
-Several obsolete cost codes remain hidden inside copied worksheets.
-
-The estimate appears complete, yet historical assumptions continue influencing new bids.
-
-| Incorrect Approach | Correct Approach |
-|--------------------|------------------|
-| Copy previous workbook. | Select standardized Assembly Library. |
-| Edit individual rows manually. | Expand assemblies automatically. |
-| Maintain multiple template versions. | Maintain one reusable Assembly Library. |
-
-**Incorrect**
-
-```text
-Previous Project
-↓
-
-Duplicate Workbook
-
-↓
-
-Delete Rows
-
-↓
-
-Insert New Rows
-
-↓
-
-Hope nothing was missed
-```
-
-**Correct**
-
-```text
-Assembly Library
-
-↓
-
-Select Assembly
-
-↓
-
-Input Quantity
-
-↓
-
-Automatic Expansion
-
-↓
-
-Consistent Cost Breakdown
-```
-
-The recommendation changes because estimating logic becomes reusable rather than copied.
-
-<details>
-
-<summary>Formula Reference</summary>
-
-```excel
-Expanded Quantity
-
-=EstimateQty*AssemblyFactor
-
-Assembly Cost
-
-=ExpandedQty*UnitCost
-```
-
-</details>
-
----
-
-### Trap 3 — Winning the Bid but Losing Cost Visibility
-
-The tender has been awarded.
-
-Construction begins.
-
-The estimate workbook is archived.
-
-A completely different spreadsheet is created for cost control.
-
-No reliable Estimate vs Actual comparison is ever produced.
-
-| Incorrect Approach | Correct Approach |
-|--------------------|------------------|
-| Estimate ends after tender submission. | Estimate becomes project baseline. |
-| Separate budgeting workbook. | Shared Cost Breakdown Structure. |
-| Manual reconciliation later. | Automatic variance reporting. |
-
-**Without continuity**
-
-```text
-Tender Estimate
-
-↓
-
-Archived
-
-↓
-
-New Budget
-
-↓
-
-No comparison
-```
-
-**With this workbook**
-
-```text
-Tender Estimate
-
-↓
-
-Estimate Baseline
-
-↓
-
-Actual Cost Import
-
-↓
-
-Variance Dashboard
-```
-
-The estimate therefore becomes an operational management document instead of a one-time pricing exercise.
-
-<details>
-
-<summary>Formula Reference</summary>
-
-```excel
-Variance
-
-=Actual-Estimate
-
-Variance %
-
-=(Actual-Estimate)/Estimate
-```
-
-</details>
-
----
-
-## Example Scenario
-
-A general contractor is preparing a bid for a 24,000 SF commercial warehouse expansion.
-
-The estimator selects three standardized assemblies from the Assembly Library:
+The estimator selects three standardized assemblies from `Assembly Library`:
 
 | Assembly | Quantity |
 |----------|---------:|
@@ -456,122 +277,50 @@ The estimator selects three standardized assemblies from the Assembly Library:
 | Structural Steel | 145 Tons |
 | Exterior Masonry | 18,000 SF |
 
-The Cost Library contains standardized rates.
-
-After entering quantities, the Calculation Engine produces:
+Initial Calculation Engine output:
 
 | Category | Cost |
 |-----------|------:|
-| Labor | $462,500 |
-| Material | $681,400 |
-| Equipment | $103,800 |
-| Subcontract | $188,600 |
-| Direct Cost | $1,436,300 |
-| Overhead (10%) | $143,630 |
-| Markup (8%) | $126,394 |
-| Total Bid | **$1,706,324** |
+| Labor | \$462,500 |
+| Material | \$681,400 |
+| Equipment | \$103,800 |
+| Subcontract | \$188,600 |
+| Direct Cost | \$1,436,300 |
+| Overhead (10%) | \$143,630 |
+| Markup (8%) | \$126,394 |
+| **Total Bid** | **\$1,706,324** |
 
-The summary immediately shows that Labor represents approximately 32% of total project cost.
-
-Historical projects indicate similar warehouse projects typically range between 28% and 30%.
-
-The workbook therefore highlights labor as the first review area.
-
-Further investigation finds that one concrete assembly still references outdated productivity assumptions rather than incorrect wage rates.
-
-Updating the Assembly Library reduces labor hours without changing material quantities.
-
-The revised estimate becomes:
-
-| Category | Revised Cost |
-|-----------|-------------:|
-| Labor | $428,900 |
-| Total Bid | **$1,669,442** |
-
-Instead of simply lowering prices, the workbook identifies where the estimate differs from historical construction performance.
-
-The recommendation is to revise labor productivity assumptions before submitting the bid, improving competitiveness while maintaining expected margins.
+Because the summary immediately flags Labor at ~32% of total cost (above the 28%–30% historical warehouse benchmark), the estimator investigates and discovers one concrete assembly using outdated crew productivity. Updating the central `Assembly Library` trims labor to **\$428,900** and sharpens the final bid to **\$1,669,442**—improving win probability without sacrificing target profit margin.
 
 ---
 
-## Formula Reference
+### Formula Reference
 
 <details>
+<summary>Project Setup, Cost Library & Assembly Library</summary>
 
-<summary>Project Setup</summary>
-
-| Purpose | Formula |
-|----------|----------|
-| Total Markup | `=DirectCost*Markup%` |
-| Contingency | `=DirectCost*Contingency%` |
-| Total Bid | `=DirectCost+Markup+Contingency` |
+| Sheet | Purpose | Formula |
+|-------|----------|----------|
+| Project Setup | Total Markup / Contingency / Bid | `=DirectCost*Markup%`, `=DirectCost*Contingency%`, `=DirectCost+Markup+Contingency` |
+| Cost Library | Dynamic & Legacy Lookup | `XLOOKUP()`, `INDEX()+MATCH()`, `IFERROR()` |
+| Assembly Library | Expanded Qty & Multi-Component Cost | `EstimateQty*QtyFactor`, `ExpandedQty*UnitCost`, `SUMIFS()` |
 
 </details>
 
 <details>
+<summary>Calculation Engine, AIA Summary & Cost Tracking</summary>
 
-<summary>Cost Library</summary>
-
-| Purpose | Formula |
-|----------|----------|
-| Cost Lookup | `XLOOKUP()` |
-| Legacy Lookup | `INDEX()+MATCH()` |
-| Unit Cost Validation | `IFERROR()` |
-
-</details>
-
-<details>
-
-<summary>Assembly Library</summary>
-
-| Purpose | Formula |
-|----------|----------|
-| Expanded Quantity | `EstimateQty*QtyFactor` |
-| Assembly Cost | `ExpandedQty*UnitCost` |
-| Multiple Component Cost | `SUMIFS()` |
+| Sheet | Purpose | Formula |
+|-------|----------|----------|
+| Calculation Engine | Category & Division Rollups | `Qty*LaborRate`, `Qty*MaterialRate`, `Qty*EquipmentRate`, `SUM()`, `SUMIFS()` |
+| AIA Estimate Summary | Allocation & Division Totals | `SUMIFS()`, `Category/Total` |
+| Cost Tracking | Variance & Remaining Budget | `Actual-Estimate`, `(Actual-Estimate)/Estimate`, `Estimate-Actual` |
 
 </details>
 
-<details>
+---
 
-<summary>Estimate Calculation Engine</summary>
-
-| Purpose | Formula |
-|----------|----------|
-| Labor Cost | `Qty*LaborRate` |
-| Material Cost | `Qty*MaterialRate` |
-| Equipment Cost | `Qty*EquipmentRate` |
-| Direct Cost | `SUM()` |
-| Division Total | `SUMIFS()` |
-| Grand Total | `SUM()` |
-
-</details>
-
-<details>
-
-<summary>Estimate Summary</summary>
-
-| Purpose | Formula |
-|----------|----------|
-| Division Rollup | `SUMIFS()` |
-| Cost Category Total | `SUMIFS()` |
-| Percentage Allocation | `Category/Total` |
-
-</details>
-
-<details>
-
-<summary>Cost Tracking</summary>
-
-| Purpose | Formula |
-|----------|----------|
-| Variance | `Actual-Estimate` |
-| Variance % | `(Actual-Estimate)/Estimate` |
-| Budget Remaining | `Estimate-Actual` |
-
-</details>
-
-## Validation Rules
+### Validation Rules
 
 | Field | Rule | Error Behavior |
 |------|------|----------------|
@@ -580,13 +329,18 @@ The recommendation is to revise labor productivity assumptions before submitting
 | Cost Code | Must exist in Cost Library | Display lookup error |
 | Assembly | Must exist in Assembly Library | Prevent calculation |
 | Quantity | Greater than zero | Warning message |
-| Labor Rate | Non-negative numeric | Ignore invalid value |
-| Material Rate | Non-negative numeric | Ignore invalid value |
-| Equipment Rate | Non-negative numeric | Ignore invalid value |
-| Markup % | Between 0% and 100% | Validation warning |
-| Contingency % | Between 0% and 100% | Validation warning |
+| Labor / Material / Equipment Rate | Non-negative numeric | Ignore invalid value |
+| Markup % & Contingency % | Between 0% and 100% | Validation warning |
 | Actual Cost | Numeric only | Variance not calculated |
 | SmartSheet Export | Required fields populated | Export validation failure |
+
+---
+
+### Design Principles & Contributing
+
+This workbook intentionally focuses on one mission: **producing reliable construction estimates that remain directly usable for job cost tracking after contract award**—without turning into a bloated ERP, accounting ledger, or scheduling app.
+
+Suggestions for new Assembly Library templates, regional cost standards, AIA reporting enhancements, or SmartSheet export improvements are always welcome via our Discussions hub below, preserving transparent native formulas and backward compatibility.
 
 </details>
 
@@ -594,198 +348,32 @@ The recommendation is to revise labor productivity assumptions before submitting
 
 ## Other Tools in This Series
 
-The **AIA Construction Estimating & Cost Tracking Workbook** is part of a growing collection of lightweight operational decision-support tools designed for professionals who need structured analysis without deploying enterprise software.
+Explore more lightweight, plug-and-play Excel decision toolkits from **[Theseus Workshop](https://theseusworkshop.com/)**:
 
-| Tool | Purpose |
-|------|---------|
-| **Construction Estimating System** | Standardize cost estimating, assemblies, and tender preparation. |
-| **Construction Project Financial Dashboard** | Monitor project budgets, cash flow, progress billing, and profitability. |
-| **Inventory Forecasting & Reorder Planner** | Forecast demand and optimize replenishment decisions using Excel. |
-| **Procurement & Vendor Performance Tracker** | Compare supplier pricing, lead times, and purchasing performance. |
-| **Project Portfolio Control Dashboard** | Consolidate project financials and execution status across multiple jobs. |
-| **Cost Variance Analysis Workbook** | Analyze Estimate vs Actual performance and identify cost overruns. |
-| **Operations KPI Dashboard** | Build recurring management reporting from standardized operational data. |
-
-More tools will be published as both **Browser (HTML)** and **Excel** editions following the same principles:
-
-- **[DIN-743-Shaft-Calculations](https://github.com/HyVoid/DIN-743-Shaft-Calculations)** — Does the shaft design satisfy the relevant calculation logic? — Apply DIN 743 shaft calculation standards to engineering design decisions.
-- **[construction-estimating](https://github.com/HyVoid/construction-estimating)** — What will this construction scope cost under current assumptions? — Standardize construction tender estimating and transform completed estimates into reusable cost libraries.
-- **[construction-project-management-excel](https://github.com/HyVoid/construction-project-management-excel)** — Is the project financial position accurate after incorporating approved changes actual costs and billing progress? — Integrate budgets change orders progress billing and cash flow into a single construction project control framework.
-- **[industrial-energy-tco-calculator](https://github.com/HyVoid/industrial-energy-tco-calculator)** — Which energy option delivers the lowest total cost of ownership for this specific project under its actual operating conditions? — Compare industrial energy sources on a true useful-energy basis by normalizing fuel costs equipment efficiency infrastructure investment and lifecycle ownership costs.
-- **[residential-boq-template](https://github.com/HyVoid/residential-boq-template)** — What will this residential project cost and which divisions are already over budget? — Estimate residential construction costs from BOQ takeoffs and rates while tracking approved budgets against actual spending.
-- **[tunnel-cost-estimator-boq-excel](https://github.com/HyVoid/tunnel-cost-estimator-boq-excel)** — What will this drill-and-blast tunnel project cost under the assumed construction cycle? — Estimate drill-and-blast tunnel excavation, drilling, blasting, support, equipment, and labour requirements into a complete project cost and BOQ.
-- **[Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit](https://github.com/HyVoid/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit)** — What is the total material and reinforcement cost for the foundation substructure, and can I trace every commercial bid value back to the measured dimensions? — Calculate foundation concrete volumes, formwork areas, earthwork quantities, reinforcement tonnage via automated bar bending schedules, and commercial bill of quantities values from measured structural dimensions.
+- 🎁 **[Construction Monthly CVR & Accruals Excel Template (Free · \$0+ PWYW)](https://github.com/HyVoid/construction-cvr-accruals-excel-template)** — *Start here free:* Reconcile certified value, unbilled site accruals, variation risk, and EAC profit forecasts at month-end.
+- **[construction-project-management-excel](https://github.com/HyVoid/construction-project-management-excel)** — Integrate budgets, change orders, SOV progress billing, retainage, and rolling cash flow into one single-project control framework.
+- **[construction-estimating](https://github.com/HyVoid/construction-estimating)** — Standardize large multi-trade tender BOQ estimating and build reusable cost libraries with Procore budget exports.
+- **[Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit](https://github.com/HyVoid/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit)** — Calculate foundation concrete volumes, formwork areas, earthwork quantities, bar bending schedules (BBS), and priced substructure BOQs.
+- **[residential-boq-template](https://github.com/HyVoid/residential-boq-template)** — Estimate residential construction costs from BOQ takeoffs and rates while tracking approved budgets against actual spending.
+- **[tunnel-cost-estimator-boq-excel](https://github.com/HyVoid/tunnel-cost-estimator-boq-excel)** — Estimate drill-and-blast tunnel excavation, support, equipment, and labour costs into a complete BOQ.
+- **[industrial-energy-tco-calculator](https://github.com/HyVoid/industrial-energy-tco-calculator)** — Compare industrial energy sources on a true useful-energy lifecycle TCO basis.
+- **[DIN-743-Shaft-Calculations](https://github.com/HyVoid/DIN-743-Shaft-Calculations)** — Apply DIN 743 shaft calculation standards to engineering design decisions.
 
 ---
 
-## Design Principles
+## Questions, Feedback & Product Updates
 
-This workbook intentionally focuses on one problem:
+This workbook connects construction estimating, quantity takeoff, AIA bid summaries, and post-award cost tracking. Use the channels below to keep technical bug reports separate from workflow questions and product ideas:
 
-> **Producing reliable construction estimates that remain useful after the bid has been submitted.**
+- **Questions & workflow fit:** [Ask about quantity takeoff, cost assemblies, AIA-style bid summaries, Schedule of Values, or budget tracking](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions).
+- **Ideas & improvements:** [Suggest missing cost-control workflows, validation rules, reports, or construction cost structures](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas).
+- **Report a technical problem:** [Open the AIA construction cost tracker bug report form](https://github.com/HyVoid/aia-construction-cost-tracker-excel/issues/new?template=bug-report.yml).
+- **Product updates:** [Follow maintenance and improvement notes](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates).
 
-It intentionally does **not** attempt to become:
-
-- a full ERP,
-- a construction accounting platform,
-- a project scheduling application,
-- a document management system,
-- or a Procore replacement.
-
-Instead, it concentrates on making one operational workflow substantially better:
-
-```text
-Tender Documents
-        │
-        ▼
-Standardized Estimate
-        │
-        ▼
-Cost Breakdown Structure
-        │
-        ▼
-Tender Submission
-        │
-        ▼
-Estimate Baseline
-        │
-        ▼
-Cost Tracking
-```
-
-Keeping the workbook focused makes it easier to maintain, easier to audit, and easier to reuse across future projects.
-
----
-
-## The Business Logic & Methodology
-
-Construction estimating is not just about calculating a bid total. It is about building a defensible cost estimate, understanding where project costs come from, and preserving that cost structure throughout project execution.
-
-The **AIA Construction Estimating & Cost Tracking Workbook** applies established construction estimating and cost control methods to turn project quantities, standardized unit costs, and reusable construction assemblies into a structured estimating workflow. The goal is to reduce repetitive estimating work, improve cost visibility before tender submission, and establish a consistent baseline for subsequent project cost tracking.
-
-### 1. Construction Cost Breakdown and Cost Classification
-
-**Method:** Separate estimated costs into Labor, Materials, Equipment, Subcontract, Overhead, and Markup.
-
-**Business problem solved:** A single bid total can hide unbalanced cost assumptions, outdated rates, or unexpected labor exposure. Without consistent cost classification, comparing estimates across projects becomes difficult.
-
-**Decision enabled:** Review the composition of construction costs, identify the categories that require further investigation, and make more informed pricing decisions before submitting a tender.
-
-### 2. Standardized Cost Libraries and Assembly-Based Estimating
-
-**Method:** Maintain reusable unit cost records and construction assemblies that combine cost items with quantity factors.
-
-**Business problem solved:** Rebuilding estimates from previous spreadsheets creates duplicated work, inconsistent cost codes, and hidden assumptions. Assembly-based estimating makes recurring work packages easier to reproduce and review.
-
-**Decision enabled:** Build new estimates faster, reuse proven estimating structures, and update cost assumptions systematically when labor rates, material prices, or construction methods change.
-
-### 3. Quantity-Based Estimating and Tender Cost Planning
-
-**Method:** Apply project quantities to standardized assemblies and their underlying cost components, then consolidate the results into a structured estimate.
-
-**Business problem solved:** Manual calculations and disconnected estimating sheets make it harder to identify omissions, trace individual costs, and maintain consistency between detailed calculations and the final bid.
-
-**Decision enabled:** Evaluate the estimated cost of each work package, review direct costs and pricing allowances, and prepare a more consistent tender submission.
-
-### 4. Estimate Baseline and Actual Cost Variance Analysis
-
-**Method:** Preserve the approved estimate as a reference baseline and compare it with actual costs recorded during project execution.
-
-**Business problem solved:** When estimating and project cost tracking use different structures, contractors may need to rebuild budgets after contract award. This weakens traceability and delays the identification of cost overruns.
-
-**Decision enabled:** Identify unfavorable cost variances, investigate differences between estimated and actual expenditure, and improve future estimates using lessons from completed or ongoing projects.
-
-### 5. Structured Cost Data for Project Management Integration
-
-**Method:** Organize estimating outputs around consistent fields such as WBS, cost code, description, budget, and cost category, with a structured CSV export for SmartSheet workflows.
-
-**Business problem solved:** Inconsistent column names and fragmented cost records create unnecessary data preparation when estimating information needs to move into project management tools.
-
-**Decision enabled:** Transfer structured budget information into compatible workflows with less manual restructuring, while retaining a clear distinction between spreadsheet-based estimating and external project management systems.
-
-Together, these methods connect **construction quantity takeoff, cost estimating, tender preparation, and post-award cost control** through a reusable analytical framework. The workbook supports this workflow without requiring a full enterprise construction management platform, while keeping its calculations and cost assumptions available for review.
-
----
-
-## Contributing
-
-Suggestions for improving estimating workflows, workbook usability, reporting layouts, or construction cost analysis are welcome.
-
-Typical contributions include:
-
-- New Assembly Library templates.
-- Additional Cost Library structures.
-- Regional estimating standards.
-- AIA reporting enhancements.
-- SmartSheet export improvements.
-- Formula optimization.
-- Documentation improvements.
-- Sample estimating datasets.
-
-When contributing, please preserve the following design principles:
-
-- Transparent calculations.
-- No hidden business logic.
-- Reusable worksheet structure.
-- Consistent naming conventions.
-- Backward compatibility whenever practical.
-
----
+When reporting a mismatch, identify the affected worksheet, cost code, input type, and expected versus actual result. Use anonymized figures; do not attach live bids, client estimates, subcontractor pricing, or confidential project records.
 
 ## License
 
 This project is licensed under the **Apache License 2.0**.
 
-You are free to:
-
-- Use the workbook for personal or commercial projects.
-- Modify and extend the workbook.
-- Distribute copies.
-- Create derivative works.
-- Incorporate the workbook into larger operational solutions.
-
-Subject to the terms and conditions of the Apache License 2.0.
-
-See the **LICENSE** file included in this repository for the complete license text.
-
----
-
-## Acknowledgements
-
-This project draws inspiration from established construction estimating practices rather than attempting to replace them.
-
-Key concepts incorporated into the workbook include:
-
-- AIA-oriented estimate presentation.
-- Cost Breakdown Structure (CBS).
-- Construction Assembly estimating.
-- Standardized Cost Libraries.
-- Estimate-to-Actual cost control.
-- Tender planning workflows.
-- Practical Excel-based operational analysis.
-
-The objective is not to build another spreadsheet template.
-
-The objective is to provide a **reusable decision-support framework** that helps construction professionals prepare estimates more consistently, compare costs more intelligently, and transition smoothly from tender pricing to project cost control.
-
----
-
-## Final Notes
-
-Construction estimating is ultimately a decision-making process rather than a spreadsheet exercise.
-
-Numbers become useful only when they remain:
-
-- standardized,
-- explainable,
-- comparable,
-- reusable,
-- and traceable throughout the project lifecycle.
-
-This workbook was designed around that principle.
-
-Instead of creating another isolated estimate, it creates a structured analytical foundation that supports estimating today and cost management tomorrow.
-
-Whether accessed through the browser or opened in Excel, the goal remains the same:
-
-**Make construction estimating faster, more consistent, and easier to trust.**
+See the **[LICENSE](LICENSE)** file included in this repository for full license terms.
